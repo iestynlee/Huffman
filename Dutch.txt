@@ -1,0 +1,3652 @@
+The Project Gutenberg eBook of De Chineesche Filosofie, by Henry Borel
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: De Chineesche Filosofie
+       Toegelicht voor niet-Sinologen, 1. Kh'oeng Foe Tsz' (Confucius)
+
+Author: Henry Borel
+
+Release Date: March 10, 2021 [eBook #64781]
+
+Language: Dutch
+
+Character set encoding: UTF-8
+
+Produced by: Jeroen Hellingman and the Online Distributed Proofreading
+             Team at https://www.pgdp.net/ for Project Gutenberg
+
+*** START OF THE PROJECT GUTENBERG EBOOK DE CHINEESCHE FILOSOFIE ***
+
+
+
+                                   DE
+                          CHINEESCHE FILOSOFIE
+                     TOEGELICHT VOOR NIET-SINOLOGEN
+
+                                   I.
+
+                            KHʼOENG FOE TSZʼ
+                              (CONFUCIUS)
+
+
+                                  DOOR
+                              HENRI BOREL
+
+
+                               AMSTERDAM
+                        P. N. VAN KAMPEN & ZOON
+
+
+
+
+
+
+                              DEZE ARBEID
+                                   IS
+                          EERBIEDIG OPGEDRAGEN
+                                AAN DEN
+                        HoogEdelgestrengen Heer
+
+                           W. P. GROENEVELDT,
+               Gew. Vice-President van den Raad van Indië
+
+
+
+
+
+
+INHOUD.
+                                                                       
+                                                Bladz.
+    VOORWOORD                                       1
+    INLEIDING TOT DE FILOSOFIE VAN CONFUCIUS        7
+    HISTORISCHE OPHELDERINGEN                      25
+    HET LEVEN VAN CONFUCIUS                        34
+    CHOENG YOENG                                   79
+    TA HIŎH                                       144
+    FRAGMENTEN UIT DE LOEN YÜ                     178
+
+
+
+
+
+
+VOORWOORD.
+
+
+Tot dusverre zijn in de nederlandsche taal slechts zeer weinig werken
+over China en chineesche onderwerpen—literatuur, filosofie, ethnografie
+enz.—geschreven. De voornaamste werken van onze sinologen, de heeren
+Prof. Schlegel, Prof. de Groot, Groeneveldt enz. verschenen in de
+fransche of engelsche taal. Het ligt dan ook in den aard der zaak en is
+niet meer dan natuurlijk dat geleerden, die tientallen van jaren aan de
+studie van een of anderen tak van wetenschap besteedden, er op uit
+zijn, hun werk voor een zoo groot mogelijk publiek ter lezing open te
+stellen en de nederlandsche taal zullen zij hiervoor het allerlaatst
+kiezen. Alleen de groote nederlandsch-chineesche dictionnaire van Prof.
+Schlegel maakt hierop eene uitzondering, en dat Zijn Hooggeleerde de
+nederlandsche taal uitkoos voor een werk, waaraan hij een twintigtal
+levensjaren besteedde, is een daad, waarvoor het nederlandsche volk hem
+altijd dankbaar zal moeten blijven.
+
+Had ik eene studie gemaakt op een nog niet door anderen betreden
+sinologisch gebied, dan zou ik die ook vermoedelijk in een vreemde taal
+hebben geschreven.
+
+In het beginnen van dit werk echter ben ik juist van het voornemen
+uitgegaan, iets in het nederlandsch te schrijven, dat door ieder
+Nederlander kan worden gelezen, en overal in Nederland en
+Nederlandsch-Indië gemakkelijk te verkrijgen is. Vooral had ik daarbij
+op het oog de Nederlanders, en meer speciaal ook de nederlandsche
+ambtenaren, in onze koloniën, die dagelijks met chineezen in aanraking
+komen, en over hen te bevelen of recht te spreken hebben. Voor dezen,
+hoopte ik, zou dit boek een niet onwelkom middel wezen om de filosofie
+der oude chineezen, van welke een gedeelte ook wet is, van meer nabij
+te leeren kennen dan uit de onzekere mededeelingen daaromtrent van
+chineesche adviseurs en officieren. Wèl bestaat eene uitstekende
+engelsche vertaling van de confucianistische en van alle heilige boeken
+der chineezen, maar ik weet bij ondervinding, dat men er niet even
+licht toe overgaat die te koopen en vooraf te bestellen, als men
+eenzelfde nederlandsch werk, dadelijk bij den boekhandelaar
+verkrijgbaar, zou aanschaffen. En ook zijn er altijd personen, die eene
+vreemde taal niet zoo vlot lezen als hun eigen, daar drukke bezigheden
+hen niet toelieten, zich speciaal op die taal toe te blijven leggen.
+
+De filosofie van Confucius is onafscheidelijk van het geheele
+staatkundige systeem van China, en is de basis, op welke alle
+instellingen en wetten eigenlijk gegrondvest zijn. Mocht dit werk, door
+den heer van Kampen zoo bereidwillig uitgegeven, aan mijne verwachting
+beantwoorden en de kosten dekken, dan zou dit mij eene aansporing zijn,
+in aansluiting hieraan een ander, over de chineesche staatsinstellingen
+en wetten te ondernemen.
+
+Dat een speciaal voor niet-sinologen geschreven werk over Confucius wel
+in eene behoefte voorziet, bewees Prof. Legge’s speciaal voor
+niet-sinologen uitgegeven bewerking [1] van zijn vertaling en
+verklaring der confucianistische geschriften, die thans reeds een
+zevenden druk heeft beleefd. Dat het wenschelijk is, zooveel mogelijk
+te weten van de ideeën en de moraal van een volk als de chineezen, die
+zulk een gewichtige—ál te gewichtige—rol spelen in onze koloniën, zal
+verder wel niemand tegenspreken.
+
+Dit boek bevat eene korte inleiding tot de confucianistische filosofie,
+eene opheldering tot goed begrip van historische feiten, eene
+levensgeschiedenis van Confucius, de geheele vertaling der hoofdwerken
+„Choeng Yoeng” en „Ta Hiŏh,” en eene gedeeltelijke van het werk „Loen
+Yü,” een en ander zooveel mogelijk van besprekingen, verklaringen en
+noten voorzien.
+
+Het gemakkelijkste ware natuurlijk voor mij geweest, eenvoudig eene
+hollandsche vertaling te geven van het engelsche werk van Prof. Legge.
+Ik heb gemeend, mij er niet zóó van af te mogen maken, vooral niet,
+omdat ik, met al mijn eerbied voor den eminenten arbeid van dezen
+Nestor der sinologen, het op sommige punten, waaronder wel eens
+hoofdpunten, niet met dezen geleerde eens kan zijn. Ik heb Prof.
+Legge’s vertaling, en andere vertalingen bestudeerd en geraadpleegd,—en
+ook wel de versie daarin, waar ik zelf twijfelde, op vele plaatsen den
+doorslag laten geven, maar ten slotte heb ik een eigen, onafhankelijke
+vertaling en verklaring van den chineeschen tekst gegeven. Indien die
+vertaling op vele plaatsen met de reeds bestaande verschilt is dit,
+omdat ik vóór alles op mijn eigen voelen afging en dit, zonder
+oneerlijk te worden in mijn werk, niet aan de autoriteit van anderen,
+al zijn die over ’t algemeen verre mijn meerderen, kon opofferen. Van
+géén vertalingen zijn ooit zulke veel verschillende versie’s gegeven
+als van die uit het chineesch. Opmerkelijk is het b. v. hoe twee even
+eminente en onbetwistbaar kundige geleerden als Prof. Legge en S. Wells
+Williams somtijds van schijnbaar eenvoudige zinnetjes zulke
+uiteenloopende vertalingen kunnen geven, en het is niet onmogelijk, dat
+twintig sinologen van ééne bladzijde chineesch twintig, somtijds geheel
+met elkaar in strijd zijnde interpretaties geven.
+
+Dat er ook in mijne vertaling dwalingen zullen zijn, en zij, evenals
+die van wien ook, altijd bloot staat aan zooveel aanvallen, en te
+goeder trouw gedane, als er andere sinologen zijn, is iets, waarop ik
+vooruit voorbereid ben, en dat na het bovengezegde wel verklaarbaar zal
+wezen.
+
+Dit boek wil echter volstrekt geen bizonder ingenieuze en gewild aparte
+sinologische verdienste zijn; integendeel, het is voor niet-sinologen
+geschreven en mijn eenvoudige bedoeling is, de leer van Confucius op
+zoo eenvoudig mogelijke wijze in hoofdzaak bekend en begrijpelijk te
+maken voor allen, die uit den aard der zaken geen gelegenheid hebben
+het chineesche origineel te lezen. Is het mij gelukt, daardoor deze
+leer in hoofdzaak bij het groote publiek in ruimen kring zóó bekend te
+doen zijn, dat het goed kan begrijpen de moraal, de gewoonten en de
+gebruiken van het chineesche element in onze koloniën, dan zal mijn
+doel bereikt zijn.—De hoofdideeën van Confucius, de grondslag van de
+geheele staats- en familie-instellingen der chineezen, indien ik déze
+met dit werk duidelijk heb gemaakt, dan kan ik mij verder gerust de
+aparte fouten vergeven, die ik zeker weet dat, ondanks ernstige studie,
+mijne vertaling nog zullen aankleven, fouten in zinsconstructie zoowel
+als in het kiezen van nederlandsche equivalenten voor chineesche
+begrippen.
+
+
+
+Zijn de vertalingen en besprekingen, zoowel als de beschouwingen in de
+„Inleiding” oorspronkelijk van eigen hand, in het „Leven van Confucius”
+heb ik, wat de volgorde der feiten aangaat althans, mij geschikt naar
+de methode van Prof. Legge en van Robert K. Douglas („Confucianism and
+Taoïsm”), eene methode, welke deze geleerden hebben geput uit de
+eveneens door mij geraadpleegde werken „Shʼ Ki” van den
+geschiedschrijver Szʼ Ma Tsʼien, Kiang Yoengs „Leven van Confucius” en
+eenige anderen.—Ik heb, dezelfde volgorde van gebeurtenissen daaruit
+nemende, hier en daar iets bijgevoegd en uitgelaten, en eigen
+beschouwingen er ingelascht.—Gaarne had ik van het werk „Loen Yü”,
+evenals ik van de „Choeng Yoeng” en „Ta Hiŏh” deed, het geheel
+vertaald, maar ik wilde dit boek niet van te grooten omvang maken.
+Daarom heb ik voor de beknoptheid enkel de voor mij het meest
+merkwaardige en tot goed begrip van Confucius hoogst noodige fragmenten
+genomen uit deze „Loen Yü”.
+
+Ik voel mij vereerd, dit boek, waarin een ideale regeeringsvorm wordt
+beschreven, te mogen opdragen aan een geleerde en een staatsman als de
+heer Groeneveldt, aan wien onze koloniën zooveel te danken hebben, en
+naar allen hopen, nog altijd meer te danken zúllen hebben in de
+toekomst.
+
+                                                          8 Maart 1896.
+
+
+
+
+
+
+INLEIDING TOT DE FILOSOFIE VAN CONFUCIUS. [2]
+
+
+De meeste vertalers van Confucius, ook de eminente professor Legge,
+hebben zich beijverd om overal, waar dit maar eenigszins mogelijk is,
+de confucianistische filosofie te vergelijken met het christendom, om
+dan het laatste te verheffen, en de eerste als gebrekkig en inferieur
+te doen uitkomen. Ik geloof dat het beter is, dit geheel na te laten,
+en enkel de hoofdprincipes van Confucius’ filosofie op zich zelf aan te
+geven. Uit de vertaling van het werk, dat ik overal met aparte noten
+heb duidelijk gemaakt, vorme de ontwikkelde lezer zich dan zelf een
+oordeel. Toen Confucius eens, omringd van zijne discipelen, aan ’t
+oreeren was, zeide hij aan zijn leerling Tseng: „Mijn Leer is een
+éénheid, die alles samenhoudt.” En hiermede gaf hij de essence aan van
+zijn geheele filosofie.
+
+Die éénheid, van welke hij uitging, was de goddelijke natuur in den
+mensch, die hij de Sing noemde. Dat, wat de Hemel als natuur aan den
+mensch heeft verleend, was de Sing. Deze Sing was, hemelsch zijnde,
+absoluut rein, en was in alle menschen. Het hoogste levens-bewegen, dat
+den mensch in den oorspronkelijken, reinen staat kon behouden, was het
+altijd volgzaam zijn aan de Sing, en dit levens-bewegen, dit Pad van
+het goede leven, noemde Confucius Tao. Het begaan van Tao was dus ook
+vanzelf het beoefenen van alle deugden, die uit den aard der Sing aan
+den mensch eigen waren, als b. v. oprechtheid, rechtvaardigheid,
+plichtmatigheid, menschlievendheid, enz. enz., die allen hun wortel
+hadden in de hoofddeugd, die hij Hiao noemde, dat is de liefde, de
+eerbied en de gehoorzaamheid van het kind voor de ouders, en vooral den
+vader. Aan het hebben van al deze deugden te zamen gaf hij den naam
+„Jên.”
+
+Dit woord „Jên”, in chineesch karakter voorgesteld door een teeken dat
+„mensch” is, gecombineerd met een dat „twee” is (alzoo „twee menschen,
+vereenigd in één”) beteekent meestal in ’t chineesch
+„menschlievendheid”, vooral in boeddhistische werken, [3] maar in de
+meeste gevallen beteekent het in Confucius, zooals de wijze commentator
+Choe Hie dat zoo juist uitdrukte „de volmaakte deugd van het
+oorspronkelijke hart.” Ik heb dit woord „Jên,” om het idee mensch er in
+te behouden, dat grafisch in ’t chineesche karakter is uitgedrukt,
+vertaald door „menschelijkheid,” [4] en waarschuw den lezer vooruit,
+dit toch vooral in dezen chineeschen zin op te vatten, en niet als
+humaniteit, of menschlievendheid.
+
+De toepassing van Confucius’ filosofie van het Éene, dat alles
+samenhoudt, onderscheidde hij in twee deelen, die in ’t chineesch al
+dadelijk uit de schrijfwijze der karakters kan gevoeld worden.
+
+Het eene n.l., „chung” wordt weergegeven door een samengesteld
+karakter, dat bestaat uit het karakter „midden” met het karakter „hart”
+er onder (dus het centrumhart, het eigen hart, ik zelf), het andere
+„shoe” wordt uitgedrukt door een eveneens samengesteld karakter, n.l.
+uit een, dat „evenals” beteekent, en hetzelfde „hart” er onder
+(waarmede bedoeld wordt „ik in sympathie met anderen, die evenals ik
+zijn”). Het eene „chung” duidt aan, dat de mensch zijn eigen karakter
+moet verzorgen, zijn eigen Sing reinhouden, het andere „shoe” dat hij
+steeds moet bedenken, dat anderen „evenals hij” zijn, en hij dus ook
+die anderen in dat verzorgen moet helpen. In verband hiermede staat het
+gezegde uit de „Choeng Yoeng”: „Wat gij niet wilt dat aan U zelven
+gedaan wordt, doe dat aan anderen niet.” De mensch moet dus niet alleen
+Tao begaan, maar ook anderen helpen om Tao te begaan. Het volgen van de
+Sing, d. i. het gaan in den levensweg Tao, is voor het grootste
+gedeelte der menschen niet te doen zonder eene bepaalde regeling,
+zonder onderricht. Dit onderricht aan de menschen, dat hen in staat
+stelt, Tao te begaan, noemde Confucius Kiao.
+
+Deze drie dingen, Sing, de hemelsche natuur,—Tao, het volgen van de
+Sing,—en Kiao, het onderricht, het regelen van Tao, vormen de basis van
+het werk Choeng Yoeng.
+
+Alle menschelijke zonde en misère volgt uit het afwijken van Tao, (dus
+eveneens van de Sing), leert Confucius verder. De schitterende deugd,
+die uit den aard van de Sing aan den mensch eigen is, wordt in het
+leven verduisterd, en wel vooral door het egoïsme en de begeerten. De
+regeling van Tao, of het Onderricht (de Kiao), brengt dus vanzelf mede,
+dat die oorspronkelijke, schitterende deugd aan het volk wordt
+duidelijk gemaakt en helder getoond, zoodat het haar kan beseffen, en
+het, als oud geworden als het was, daardoor wordt opgewekt tot een
+nieuw leven in Tao. Verder zou het resultaat hiervan zijn dat het niet
+meer afweek, maar eeuwig bleef leven in het opperste Goede.
+
+Dit heldermaken van de schitterende deugd, deze hernieuwing van het
+volk, en deze rust in het opperste Goede (d. i. in de goddelijke
+natuur, de Sing) is de basis van het tweede, groote confucianistische
+werk, de Ta Hiŏh (lett. vertaald: „De groote Leering”).
+
+Confucius geeft verder geen beschrijving van de Sing, en gaat niet
+verder dan de bepaling, dat zij van „den Hemel” aan de menschen is
+gegeven, zonder ook zijn idee „de Hemel” nader te omschrijven.
+
+Het komt mij heel waarschijnlijk voor, dat de wijsgeer hier wel veel
+meer over had kunnen zeggen, maar dat hij het met opzet niet deed. Want
+het karakteristieke van Confucius’ filosofie is, dat zij enkel
+behandelt het leven der menschen, en hun voorschrijft hoe zij moeten
+bewegen, en in welke orde zij zich moeten schikken, om gedurende hun
+leven de Sing te volgen, d. i. Tao te begaan;—maar dat zij stelselmatig
+blijft zwijgen over zulke dingen als den dood, en het leven na den
+dood. Confucius leefde dus vooral voor zijn medemenschen, en wel om hen
+te leeren, het leven in Tao door te gaan. [5] Maar over dingen buiten
+het leven sprak hij niet, waaruit men, meen ik, nog niet de
+gevolgtrekking mag maken, dat hij er niets van wist, of vermoedde.
+Confucius’ werk verschilt hierin essentieel van dat van Lao Tszʼ,
+Chuang Tszʼ, Lieh Tszʼ, en andere filosofen, die in mysteriën van
+metaphysica doordringende, hoog boven het gewone leven uit, zich
+wegdroomden in eindelooze meditaties.
+
+Het ligt voor de hand, dat Confucius, het leven van de menschen
+beschouwende in den tijd tusschen geboorte en dood, zich vanzelf zou
+wijden aan de studie der inrichting van het groote geheel, dat zij te
+zamen vormden, den Staat. Zijne filosofie werd daardoor, behalve een
+moreel, in de eerste plaats een politiek systeem, en zij werd de
+verglorieïng van eene ideale regeering, gevoerd door een ideaal vorst.
+Wie anders dan de vorst moest het volk leiden, moest hun verduisterde
+deugd weer hernieuwen tot reinheid, moest hun leeren, Tao te begaan?
+Van dit hoofdidee uitgaande, dat de vorst de Leeraar moest zijn, op
+wien de plicht van Kiao,—leering rustte, verklaarde hij verder, dat de
+vorst in de eerste plaats zelf zijn Sing, en dus ook zijn Jên—volmaakte
+deugd—rein moest houden, en Tao begaan. Als voorbeelden van zulke
+ideaal-vorsten beschouwde hij de oude keizers Yaou, Shoen, Yu en
+Thʼang, de koningen Wên en Woe van Chow, en anderen, zoodat zijn werken
+vol zijn van toespelingen op die gestorven souvereinen, die zijn ideaal
+hadden belichaamd. Zijne verheerlijking van dit ideaal ging zóó ver,
+dat hij bij deze gelegenheden dikwijls buiten zijn beperkte plan ging
+om alleen van het gewone leven te leeren, en op de onsterfelijke natuur
+van den mensch toespeelde door te zeggen, dat deze oude Wijzen één
+waren met den Hemel, en met Hem deelnamen aan al Zijne acties en
+operaties, zoodat zij op alles en allen een transformeerenden invloed
+konden uitoefenen.—Ook verklaarde hij, dat zij het Al-Weten bezaten.
+
+Daar de regeling van den Tao, van de opwekking van het volk tot het
+volgen van zijn goddelijke natuur dus, het allergewichtigste ding was
+voor een vorst, was ook vanzelf het allergewichtigste, dat hij voor
+zijne ministers en ambtenaren ook menschen uitkoos, die zelf hun Sing
+volgden, en Tao begingen. De hoofdplicht was dus, volgens het oordeel
+van Confucius, voor den vorst het kiezen van de goede ambtenaren, en
+het ontslaan van de slechte. Een inbreuk hierop was een der grootste
+fouten, die een vorst kon begaan, omdat hij dan de Leering aan het volk
+onmogelijk maakte, en dus hun oorspronkelijke deugd verduisterd zou
+blijven, iets waarmede hij zich tegelijk schuldig maakte aan het niet
+betrachten van „shoe”, de plicht, om niet alleen de eigen natuur, maar
+ook die van anderen te verzorgen.
+
+De vorst was, volgens Confucius, geen vorst om zijn enkelen rang, maar
+om zijn volmaakte deugd, de reinhouding en het volgen van de hemelsche
+Sing, het begaan van Tao. De regeering had dus haar basis in de Sing,
+en daarom waren alle instellingen van eene goede regeering heilig, en
+in overeenstemming met het principe van den Hemel.
+
+Zooals Confucius het ideaal beschreef van een vorst, zoo gaf hij ook in
+al zijne leeringen het ideaal, van wat wij in europeesch begrip „een
+goed mensch” zouden kunnen noemen, en hij gaf dezen de benaming van
+Kiün Tszʼ (letterlijk verklaard: „de prinselijke mensch”). De mensch,
+zooals hij wezen moest volgens Confucius, van den laagste tot den
+hoogste, eenmaal Kiün Tszʼ genoemd zijnde, vond ik het beter, het
+chineesche woord niet te vertalen, en het origineele Kiün Tszʼ te
+behouden.
+
+De Kiün Tszʼ was wel het ideaal, maar niet het hoogste ideaal van een
+mensch, dat Confucius zich voorstelde, want de allerhoogste mensch was
+voor hem de „Shing Jen”, d. i. de Wijze, die de gelijke was van den
+Hemel, en met den hemel gelijk ageerde en transformeerde. Zijne
+conceptie van den Wijze is het vooral, die den aandachtigen lezer doet
+vermoeden, dat Confucius van veel hooger dingen voorgevoelens had, dan
+de inrichting van de regeering, en het regelen van het menschenleven en
+de menschelijke betrekkingen in den korten tijd tusschen geboren worden
+en sterven. Zijn Kiün Tszʼ was het model en het ideaal van den mensch
+in het leven der maatschappij, Zijn Wijze, dunkt mij, was daarbij ook
+nog het ideaal van den mensch met zijn hoogere leven in betrekking tot
+wat hij „de Hemel” noemde.
+
+Iets lager nog dan de „Shing Jen” of Wijze, staat nog de „Hjen Jen”,
+wat wij zouden kunnen vertalen door „Eerwaardige Mensch”. Tot deze
+„Hjen Jen” behooren o. a. de discipelen Yen Youen (Hwoey), Tszʼ Loe, de
+filosoof Choe Hie, e. a.
+
+De „Kiün Tszʼ”, de „Hjen Jen” en de „Shing Jen” zijn alzoo de drie
+hoogste klassen van menschen.
+
+De mindere menschen duidde Confucius aan met den naam „Siao Jên”, d.
+i., „kleine mensch”, waarin klein in den zin van gemeen, verachtelijk
+is te nemen. Overal in Confucius’ werk vinden wij de contrasten
+tusschen den „Kiün Tszʼ” en den „Siao Jên,” waarin hij den eerste als
+ideaal, en den tweede als afschrikwekkend voorbeeld stelde.
+
+
+
+De grootste moeilijkheid, die eene vertaling van oude chineesche
+klassieken oplevert, is de onmogelijkheid om sommige apart chineesche
+begrippen in een europeesch equivalent weer te geven. Er zijn
+chineesche begrippen in één karakter, die in één europeesch woord
+absoluut onvertaalbaar zijn, en die met omschrijving wel dicht te
+benaderen, maar nooit geheel te bereiken zijn. [6] De meeste vertalers
+hebben voor zulke begrippen dan ook de woorden gegeven, die er het
+dichtst bijkwamen. Ik heb gemeend, beter te doen, door die chineesche
+woorden in ’t geheel niet te vertalen of zeldzaam, en dan telkens, door
+het idee te omschrijven en te ontwikkelen, het zoodoende langzamerhand
+den lezer te doen voelen, zooals de chinees het voelt.
+
+Onder deze begrippen zijn wel de moeilijkste Tao en Lí. Het karakter
+Tao, in alle drie leeren op dezelfde wijze geschreven, heeft namelijk
+in de confucianistische, taoïstische en boeddhistische werken een
+geheel verschillende beteekenis. Door dit Tao met een europeesch woord
+te vertalen gaat men deze vertaling allicht in de drie verschillende
+filosofieën gebruiken, wat tot verwarring en verminking leidt. Ik
+waarschuw er dus uitdrukkelijk voor, dat de lezer in dit werk het
+begrip Tao alleen in den confucianistischen vorm moet opvatten, en
+daarbij moet bedenken, dat het iets anders is dan in de werken van Lao
+Tszʼ of van de boeddhistische scholen.
+
+Het karakter Lí dat minder gevaarlijk is, dan het vorige, daar zijn
+beteekenis in de geheele litteratuur ongeveer dezelfde is, levert enkel
+de moeilijkheid op, dat het onvertaalbaar is. Het woord „Decorum” komt
+er het dichtste bij, maar sluit het begrip niet geheel in zich. Want
+beteekent bij ons Decorum eenvoudig eene inachtneming van een zeker
+ceremonieel, en van beleefdheidsvormen, zooals die in de maatschappij
+met door den tijd telkens veranderende wetten is aangenomen, in het
+chineesch beteekent de Lí iets veel heiligers, iets dat eigen is aan en
+voortspruit uit het hemelsche principe in den mensch. Zooals Choe Hie
+zegt „de Lí is de kuische beschaving van het principe van den Hemel.”
+Aan de studie van deze Lí is een apart heilig boek gewijd, de „Lí Ki”
+die tot de vijf groote Kings behoort. Van zóóveel gewicht is de Lí, dat
+do Tao, de deugd, de menschlievendheid en de plichtmatigheid zonder Lí
+niet volmaakt zijn, naar de Lí Ki verklaart; en dat het niet hebben van
+Lí niets anders is dan „het egoïsme van het zelf.” Wel een bewijs, dat
+de Lí iets veel hoogers is dan ons Decorum. Daar Choe Hie de Lí noemde
+de „beschaving” (wen) van het hemelsche principe, bedoelde hij met dit
+„beschaving” weer „het zichtbaar te voorschijn komen van den Tao”,
+zoodat men, al deze dingen te zamen beschouwende, wel kan zeggen dat de
+Lí haar oorsprong heeft in de Sing, de goddelijke natuur, en een soort
+divine stijl is, waarin de Kiün Tszʼ leeft en beweegt, in welken men de
+hemelsche Sing kan herkennen, als in een gothieke kerk de adoratie voor
+God. Men zou Lí dus misschien wel kunnen vertalen met „de reverente
+stijl van het levens-bewegen volgens de hemelsche natuur, inwendig in
+den mensch zelf, en uitwendig naar buiten, in de gemeenschap.”
+
+Ook de titel van het werk „Choeng Yoeng” levert groote moeilijkheid op
+voor eene vertaling. Het is door verschillende geleerden vertaald, b.
+v. door „l’Invariable Milieu” (Rémusat), door „Golden Medium” (Collie),
+door „Constant Medium” (Morrison), door „Medium constans vel
+sempiternum” (Intorcetta), enz. enz. Ik heb den chineeschen titel
+behouden, daar uit het werk genoegzaam blijkt, welke de beteekenis
+daarvan is. Choeng Yoeng is n.l. een toestand van den mensch, ik zou
+bijna zeggen van de menschenziel, waarin Choeng beteekent „zonder
+(over)neiging zijn naar een of andere zijde” en Yoeng „zonder
+verandering zijn.” De toestand van Choeng is natuurlijk de hoogste
+staat, dien de mensch, die dan een Wijze is, kan bereiken, een staat,
+waarin geen bewegen in hem is van pleizier, toorn, droefheid of
+vreugde, en deze toestand is alleen te verkrijgen door het begaan van
+Tao, het precies volgen van de Sing. Vandaar, dat Tao geen enkel
+oogenblikje mag verlaten worden (wat overneiging, afwijking zou zijn),
+anders, is er uitdrukkelijk bij gezegd, „zou het geen Tao zijn”.
+
+
+
+Als wij een filosofisch systeem willen beschouwen, om er dat van
+Confucius, waar het een politiek is, mede te vergelijken, doen wij,
+meen ik, het beste, de politieke ideeën in Plato’s filosofie daarvoor
+te nemen. Dit niet om den vorm echter, die in Plato’s werken volmaakt
+is, en in Confucius’ werken, althans zooals zij overgeleverd zijn, als
+geheel vol hiaten. In Plato is een klare, heldere logica, die ons
+geleidelijk stap voor stap van het eene punt naar het andere voert, in
+Confucius gaat het dikwijls over groote leegten met sprongen vooruit,
+en is de studie veelal een tasten en gissen naar wat hij met zijne
+zinspelingen eigenlijk bedoelt. Ook is Plato harmonischer, en verheft
+zijne filosofie zich op veel reiner ideeënvlucht in pure subliemheid
+hooger en hooger naar Gods eigen wezen.
+
+Toch is er naast zeer groote verschillen op vele punten overeenkomst
+tusschen Confucius en Plato. Zegt Confucius, dit alle menschen, van den
+Hemel de Sing als natuur hebbende, oorspronkelijk goed zijn, en dat
+deze, verduisterd zijnde, door Leering weer moet verreind worden; dus
+dat deze Sing de bron is van alle menschelijke deugden, ook Plato
+leerde dat „de menschelijke ziel bemint van nature die volmaakte vormen
+van goedheid, waarheid en schoonheid, wanneer zij ze aanschouwt; maar
+deze liefde kan door opvoeding hetzij ontwikkeld worden, hetzij
+uitgebluscht.” [7] Zegt Confucius, dat dus de staat zóó moet ingericht
+zijn, dat de vorst en zijne ministers vóór alles menschen moeten zijn,
+wier Sing zelf rein is, Plato leerde eveneens dat het dan daarom ook
+behoort dat „in een volmaakten staat de opvoeding van alle burgers moet
+geregeld worden door hen, die reeds liefde koesteren voor de volmaakte
+en hoogere vormen en moet daar alles uitgesloten worden, dat aan die
+liefde afbreuk kan doen.”[7] Beiden, Confucius en Plato, hebben dan ook
+niet alleen den goddelijken oorsprong van den mensch aangenomen, maar
+óók een’ idealen staat verheerlijkt, op dien oorsprong gebaseerd. Een
+der hoofdprincipes van Plato uitgedrukt in zijn „Wetten”: „Het is ook
+de ziel op de meest reëele en complete manier onteeren door de
+schoonheid te verkiezen boven de deugd,” uit zich eveneens in
+Confucius’ klacht „Het is gedaan! Ik heb er nog niet een gezien, die de
+deugd bemint zooals hij de schoonheid bemint!” [8]
+
+Evenals Confucius neemt Plato aan dat de ouderlijke liefde, de liefde
+en eerbied voor de ouders, de Hiao dus, in ’t chineesch gezegd, een der
+allereerste plichten is, en mét Confucius verklaart hij, dat het
+allerrechtvaardigste recht van superioriteit over anderen is dat,
+„hetwelk aan den onwetende beveelt om te gehoorzamen, en aan den Wijze
+om te regeeren en te bevelen. [9]
+
+Dit hoofdprincipe voor de regeering en de inrichting van een staat is
+dus bij Plato en Confucius hetzelfde, terwijl beiden bovendien dikwijls
+de inrichting van eene familie met die van den staat vergelijken. En
+het essentieele chineesche idee, dat van de geheele chineesche moraal
+de basis is, kon niet zuiverder chineesch zijn uitgedrukt dan in
+Plato’s „Vervolgens moeten wij de makers van onze dagen vereeren
+gedurende hun leven; dit is de eerste, de grootste, de meest onmisbare
+van alle schulden; men moet zich overtuigen, dat al de goederen, die
+men bezit, behooren aan hen, van wie wij de geboorte en de opvoeding
+hebben ontvangen, en dat het past die zonder voorbehoud te wijden aan
+hún dienst, te beginnen met de goederen van het fortuin, vandaar komend
+op die van het lichaam, en eindelijk op die van de ziel; hun met woeker
+teruggevende de zorgen, de moeite, en de werken, die onze jeugd hun
+eertijds heeft gekost, en onze attenties verdubbelende naarmate de
+gebreken van den ouderdom die meer noodzakelijk maken.” [10]
+
+Ook omtrent het ware wezen der offeringen is veel analoogs in beide
+wijsgeeren te vinden. En geloofde Confucius, dat eenmaal de
+ideaal-staat, dien hij verheerlijkte, werkelijk had bestaan onder de
+keizers Yaou en Shoen, die hij dan ook als Wijzen beschouwde, als
+menschen, absoluut superieur aan alle anderen, menschen die ál-wetend
+waren en gelijken van den Hemel, ook Plato nam aan, dat er ten tijde
+van Saturnus, véél eeuwen vóór de bekende regeeringen, „een regeering
+was, een volmaakte administratie, waarvan het beste gouvernement van
+heden slechts een imitatie is,”[10] en die dan ook werd bestuurd, niet
+door gewone menschen, „maar Intelligenties van een fijnere en diviener
+natuur dan de onze,”[10] die hij demonen noemde. Zooals Yaou en Shoen
+deden, gaven deze demonen dan ook aan het volk „vrede, kuischheid,
+vrijheid en recht.” Precies in het systeem van Confucius passen dan ook
+Plato’s verdere woorden „dat onze plicht is, om het dichtst mogelijk te
+naderen tot de regeering van Saturnus (lees in ’t chineesch „Yaou en
+Shoen”) en de leiding van ons publieke en private leven toe te
+vertrouwen aan het onsterfelijke deel (lees: Sing) van ons wezen en den
+naam „wetten” te geven aan de voorschriften uitgevloeid uit onze Rede,
+en die voor gidsen te nemen in de regeling (regeering) van de families
+en den staat.”
+
+Een der hoofdplichten van Confucius’ Kiün Tszʼ, een fermheid te
+bewaren, maar tevens zachtheid, verdraagzaamheid, is ook bij Plato
+terug te vinden, waar hij zegt „Men moet véél zachtheid verbinden met
+een groote fermheid,” en eveneens beschouwden beiden een groot
+medelijden voor de slechten noodzakelijk.
+
+Maar de vergelijking is het hechtste in het idee, dat hij, die aan het
+hoofd van de regeering staat, allereerst aan de vereischte moet
+voldoen, vanzelf rein en wijs te zijn, en dat, waar dit niet het geval
+is, geen andere eigenschappen hem recht geven op den troon. Dat dit een
+ultra-democratisch idee is, behoeft nauwelijks hieraan toegevoegd te
+worden.
+
+
+
+Als men Confucius bestudeert, mag men vooral niet den naam van Choe
+Tszʼ of Choe Hie vergeten. [11] Hij was het, die de verspreide
+tabletten der confucianistische werken tot één geheel heeft
+gerangschikt, en van commentaren voorzag, die de beste zijn gebleven
+van allen, die vóór en ná hem zijn gemaakt. Choe Hie was tevens zelf
+schrijver van een aantal filosofische werken. Choe Hie’s rangschikking
+en commentaar was een voortzetting van het werk van zekeren Chʼing
+Heuen. Zekere Chʼing Hau en Chʼing Ie hebben zich tevens verdienstelijk
+gemaakt in het uitgeven van de confucianistische werken. Meermalen
+spreekt Choe Hie dan ook van Chʼing Ie als „Mijn Meester, de filosoof
+Chʼing.” Deze namen heeft men dus onafscheidelijk te verbinden aan den
+naam van Confucius. De edities, die nu over geheel China gelezen
+worden, zijn bijna allen het werk van Choe Hie, wat rangschikking en
+commentaar betreft.
+
+Ik besluit dit korte overzicht van Confucius’ werk met nog eens op te
+noemen, in westersche begrippen, de grondbeginselen, waarop zijne
+filosofie gebaseerd is.
+
+„—„De mensch is oorspronkelijk goed, en heeft in zich eene natuur van
+den Hemel.”
+
+„—„Alle menschen, deze natuur in zich hebbende, zijn dus oorspronkelijk
+gelijk.”
+
+„—„De mensch moet niet alleen zijn eigen hemelsche natuur reinhouden,
+maar ook zijne medemenschen, die zijne gelijken zijn, helpen, om hunne
+hemelsche natuur rein te houden.”
+
+„—Alle menschen zijn broeders.” [12]
+
+„—De Staat moet gefondamenteerd zijn op de hemelsche natuur van den
+mensch, en de vorst van een staat en zijne ministers moeten absoluut in
+de allereerste plaats zelf menschen zijn, die hun hemelsche natuur
+reinhouden, omdat het van hen afhangt, of het volk zich ook in dien
+reinen staat zal kunnen behouden.”
+
+„—Het is niet zoozeer de bizondere sluwheid of knapheid, die geschikt
+maakt voor den staatsdienst, maar vóór alles gaat de innerlijke waarde,
+de reinheid van de Sing, zonder welke al het andere slecht en
+verderfelijk ageert.” (In de „Loen Yü” meermalen uitgedrukt.)
+
+„—Er is een volmaakte ideaal-staat mogelijk, in welken een groote vrede
+is over een volmaakt gelukkig volk, als de vorst en zijne ministers hun
+regeering grondvesten in hun eigen hemelsche natuur, de Sing, die in
+hare zuivere actie even zeker ageert als de Hemel.”
+
+Ik heb mij, een oordeel aan den lezer overlatende, onthouden van eene
+critiek. Maar ik kan niet nalaten, ten slotte nog de vraag te stellen,
+na de studie van dit boek te beantwoorden, of men Confucius’ filosofie,
+zooals vele eminente en beschaafde menschen hebben gedaan, die van een
+heiden mag noemen, [13] een dwaalleer, die, desnoods met geweld van
+repeteergeweren en kanonnen moet worden uitgeroeid, of wel, of de
+beschaafde europeesche volkeren misschien niet goed zouden doen, wat
+van de voornaamste principes van Confucius aangaande de regeering en de
+inrichting van den staat over te nemen?
+
+
+
+
+
+
+HISTORISCHE OPHELDERINGEN. [14]
+
+
+Daar in Confucius’ werken herhaaldelijk gewezen wordt op: „de Ouden” is
+het absoluut noodzakelijk om, alvorens zijne filosofie te bestudeeren,
+een kort overzicht te hebben van de geschiedenis van China vóór zijn
+tijd.
+
+De eerste heerscher over China, zooals het toen was, van wien men kan
+aannemen, dat hij niet gehéél tot de mythologische geschiedenis behoort
+is Foeh Hie, die in 2852 v. C. op den troon kwam. Na hem zijn de
+voornaamste keizers Shin Nung en Hwang Ti (de Gele Keizer); de eerste
+onderscheidde zich bizonder op het gebied van agricultuur en van het
+bereiden van geneesmiddelen uit kruiden, de laatste vormde de
+chineesche kalender. Na Hwang Ti kwamen nog drie andere regeeringen,
+waarna de beroemde keizer Yaou op den troon kwam. Van af Yaou (2356 v.
+C.) begint de Shoe King, de Canon der Historie, begint de chineesche
+geschiedenis een grooteren schijn van waarheid aan te nemen.
+
+In de vroegere tijden werden de keizers door het volk uit het volk
+gekozen, en was het keizerschap niet erfelijk. Yaou was een gewone
+landbouwer. Hij is het, die door Confucius als de ideaal-vorst werd
+beschouwd. Onder zijne regeering schijnt het rijk een tijdperk van
+bloei doorleefd te hebben, waar men zich eigenlijk in deze tijden geen
+begrip meer van kan maken. Zoolang nog één zijner „kinderen”
+(onderdanen) in nood verkeerde, was deze keizer niet gelukkig, zoo
+luidt de legende. De „Shoe King” bevat het verhaal van Yaou’s groote
+deugden, die altijd het ideaal van alle chineesche filosofen zijn
+gebleven. Yaou, zegt de Shoe King, was „alwetend.” In de „Choeng Yoeng”
+zal de lezer zien, wat dit ál-wetend zijn beteekent, en hoe de
+ideaal-vorst de gelijke was van den Hemel. Een van de eerste zorgen van
+Yaou was, om voor zijne ministers en ambtenaren waardige menschen uit
+te kiezen, en de onwaardigen te ontslaan. Hij benoemde astronomen om de
+bewegingen en verschijningen van de zon na te gaan, en van de
+verschillende hemellichamen, en bepaalde de vier seizoenen en de lengte
+van het jaar. Hij voerde de schrikkelmaanden in en regelde een nieuwen
+kalender, die nu nog in China in gebruik is. In 2293 v. C. gebeurde
+onder zijne regeering een groote overstrooming. Shoen, óók een gewoon
+man uit het volk, onderscheidde zich bizonder in het bedwingen der
+vloeden, door uitdiepen van rivieren en het aanleggen van kanalen, en
+werd hierin krachtig bijgestaan door zekeren Yü. Yaou, de groote
+verdiensten van Shoen ziende, deed hem de regeering met hem deelen, en
+toen hij stierf gaf hij de regeering aan Shoen over, die met zijn
+dochter was gehuwd. Niettegenstaande zijn voorganger reeds zooveel roem
+had behaald door zijne deugden, deed Shoen in het geheel niet voor hem
+onder, en werd zijn naam voor ’t nageslacht onafscheidelijk aan dien
+van Yaou verbonden. Met Shoen begon de vereering voor Shang Ti, het
+Suprême Wezen, de oudste godheid der chineezen, die zij veelal met „den
+Hemel” verwarren. Shang Ti was één opperste God, [15] die over het lot
+der menschen beschikte, die leven en dood bepaalde, de goeden zegende,
+en de slechten strafte.
+
+Shoen verdeelde het rijk in twaalf provinciën, en benoemde ministers
+voor agricultuur, justitie, openbare werken, woudontginning, eeredienst
+en muziek.
+
+De moraliteit van het volk onder zijne regeering moet voorbeeldig zijn
+geweest. Wij zullen uit Confucius’ leer zien, dat hij dan ook de deugd
+van den vorst voor een transformeerende macht hield.
+
+Shoen nam Yü als zijn onderkoning aan, en na zijn’ dood volgde Yü hem
+op. Ofschoon het voor dezen eveneens bijna onmogelijk was, zijn
+voorgangers te overtreffen, wist hij zich tot hun gelijke te maken, en
+de ideaal-staat bleef onder zijn regeering bestaan. Yaou, Shoen en Yü
+zijn de drie ideaal-keizers der chineesche historie, als beschreven
+staat in de Shoe King.
+
+Na Yü’s dood begon het verderf in den staat te komen. Yü, de stichter
+der Hia dynastie, werd opgevolgd door zijn’ zoon Tai Kang, die in een
+losbandig leven zijne plichten als vorst geheel verwaarloosde. Met Tai
+Kang begon een tijdperk van verwarring, oorlog en ellende—met
+tusschenpoozen afgewisseld door de regeering van eenige goede vorsten,
+als b. v. Shau Kang en Ti Choe—dat een eind nam met den tyran Kjeh
+Kwei, den laatsten heerscher der Hia dynastie. Deze Kjeh hield er o. a.
+een vijver op na, waar een geheele boot in kon varen, en die gevuld was
+met wijn. Drie duizend menschen konden er tegelijk uit drinken. Deze
+vijver was omringd door geheele pyramiden van fijne vleeschspijzen, en
+de walgelijkste orgiën hadden daar plaats. Ten laatste werd de
+verdrukking van dezen tyran onhoudbaar, en het volk stond op onder
+aanvoering van zekeren Ching Thʼang, een afstammeling van Hwang Ti.
+Kjeh Kwei vluchtte, en Ching Thʼang besteeg den troon, en stichtte een
+nieuwe dynastie, de Shang dynastie. Hij is de beroemde Thʼang, dien wij
+in Confucius’ werken dikwijls vinden aangehaald. Thʼang zeide: „Niet
+ik, het kleine kind, ben het, die durf te doen wat een onderneming van
+rebellie lijkt, maar om de vele misdaden van den souverein van Hia
+heeft de Hemel mij bevolen, hem te vernietigen.”
+
+Thʼang scheen een wedergeboorte te zijn van Yaou of Shoen, zóó gelukkig
+was hij in de regeering van het rijk, dat weer tot zijn vorigen bloei
+terugkeerde. Thʼang vereerde, evenals zijn groote voorgangers, Shang Ti
+als oppersten God. Toen er eens een groote droogte heerschte, die den
+oogst dreigde te doen mislukken en hongersnood te doen ontstaan,
+schreef hij den toorn van Shang Ti aan zijn eigen gebrek aan deugd toe
+en bad Hem, toch niet om de zonde van één mensch als hijzelf, een
+geheel volk te dooden. Hij had zijn gebed nog niet geheel geëindigd,
+toen de regen reeds overvloedig neerviel. [16]
+
+Het gulden tijdperk van Thʼang eindigde met zijn’ dood, want na hem
+werden de vorsten al slechter en slechter, en werd het rijk op het
+laatst ten prooi aan bloedige oorlogen van acht en twintig prinsen, die
+elkaar achtereenvolgens met geweld verdreven en den troon usurpeerden.
+Evenals Kjeh de Hia dynastie eindigde als een tyran, zoo eindigde de
+Shang dynastie—die van af zekeren vorst Pʼan Keng Yin dynastie werd
+geheeten, naar de nieuwe hoofdplaats Yin—met den tyran Cheu Sin, die om
+zijn monsterachtige wreedheid de Nero van China wordt genoemd (1154 v.
+C.–1112 v. C.). Met hem als Nero heeft zich zijn bijzit Tan Ki als de
+chineesche Messalina onsterfelijk gemaakt. De wandaden, door deze twee
+bedreven, zijn ongeloofelijk van verfijnde barbaarschheid. Toen Cheu
+Sin b. v. eens eenige vrouwen blootsvoets aan den oever van een rivier
+zag loopen, liet hij haar de beenen afsnijden, enkel om te zien, wat
+voor merg die menschen hadden, die de koude zoo goed konden weerstaan.
+Een zwangere vrouw liet hij eens openhakken, om te zien, hoe een
+ongeboren kind er wel uitzag. Hij had een rivier met bloed van gedoode
+onderdanen, omdat hij de roode kleur daarvan zoo mooi vond, enz. enz.
+
+Een zijner grillen zou zijn ondergang zijn. Hij had n.l. eens, enkel om
+zijn macht aan zijn bijzit te toonen, de buskruitseinen laten
+ontbranden, waarna zijn groot leger van mandarijnen in allerijl op zijn
+noodsignalen afkwam. Toen hij echter later werkelijk in nood was, en
+weer de seinen ontbrandde, daagde het leger niet op, dat het weer voor
+een aardigheid hield.
+
+Onderhoorig aan Shang bestond in die tijden een koninkrijk Chow. Aan
+het hoofd van dezen staat stond Wĕn Wang, koning Wĕn, een der groote,
+wijze mannen uit de chineesche geschiedenis, een ideaal-vorst van
+Confucius. Wĕn Wang trachtte Cheu Sin door eerbiedige raadgevingen te
+waarschuwen, maar werd daarvoor in de gevangenis geworpen, en niet dan
+met groote offers weer door zijn zonen bevrijd. Wĕn Wang was voor zijn
+rijk wat Yaou en Shoen voor het keizerrijk waren geweest, een toonbeeld
+van rechtvaardigheid en toewijding voor zijn volk. Hij werd daarin
+ondersteund door een Wijze, Kiang Tai Koeng, dien hij als een’
+tachtigjarigen, armen grijsaard, in een bosch had gevonden. Geen
+wonder, dat Wĕn Wang ten laatste de tyrannie van Cheu Sin niet langer
+kon aanzien, en besloot, tegen hem op te staan en het rijk te
+bevrijden. Vóór hij dit plan kon volvoeren stierf hij. Zijn oudste zoon
+Woe Wang (de Krijgshaftige Koning) volgde hem op. Woe Wang was het
+evenbeeld van zijn’ vader in vorstelijke deugden, en bovendien een
+groot veldheer. Evenals vroeger Thʼang, beschouwde Woe Wang het als een
+bevel van den hemel, dat hij het rijk van den tyran moest bevrijden.
+Niet alleen het volk van Chow, maar ook dat van de naburige staten viel
+hem bij. Met een groot leger trok hij tegen Cheu Sin op, en versloeg
+hem in een veldslag. Cheu Sin vluchtte in zijn eigen luxueuze paleis,
+dat hij in brand stak, en stierf den glorieuzen dood, dien driehonderd
+jaren later ook Sardanapalus zou sterven.
+
+Woe Wang nam nu bezit van den troon, en werd de eerste keizer der Chow
+dynastie (1122 v. C).
+
+Deze tijd van Cheu Sin, Wĕn Wang, Kiang Tai Koeng, en Woe Wang leverde
+de stof voor de mooiste romans en legenden der chineesche middeleeuwen,
+zooals de „Toeng Chow Ljeh Kwoh,” de „Fung Shen” enz. en hunne
+heldendaden en oorlogen worden dagelijks over geheel China op het
+chineesche tooneel voorgesteld. In de Shoe King vindt men er de
+getrouwe geschiedenis bovendien van opgeteekend. In de Shi King (de
+Canon der Odes) vinden wij Wĕn en Woe eveneens verheerlijkt. Deze
+eerste Chow vorsten werden het model voor het nageslacht in al hun
+daden en bewegingen. Het decorum, dat zij in acht namen in het
+dagelijksch leven werd in de Lí Ki (Annalen van het Decorum) vereeuwigd
+en als wet gesteld. Gelijk met Wĕn en Woe behoort Woe’s jongere broeder
+te worden genoemd, die den titel droeg van Chow Koeng, of de hertog van
+Chow. Deze hertog van Chow was zulk een ideaal voor Confucius, dat hij
+bezorgd en onrustig was, als hij in langen tijd niet van hem gedroomd
+had. Toen zijn oudere broeder Woe ernstig ziek werd, twee jaren na zijn
+overwinning op Cheu Sin, liet de hertog van Chow drie aarden altaren
+maken, één voor zijn vader, één voor zijn grootvader en één voor zijn
+overgrootvader, en smeekte hen om van den Hemel uit Woe te bewaren, en
+liever hem zelf in zijn plaats te doen sterven. Woe werd inderdaad
+genezen.
+
+De hertog van Chow diende zijn broeder als raadsman in alles, en het
+rijk kwam wederom in den bloeitijd, als in de tijden van Yaou en Shoen.
+Behalve om vele goede instellingen, is de hertog van Chow ook beroemd
+om het uitvinden van het kompas.
+
+Één maatregel nam Woe, die tot groot verderf van het rijk zou leiden.
+Hij verdeelde namelijk het rijk in een groot aantal kleine staatjes,
+met Chow als hoofdstaat. Aan het hoofd van deze staatjes stelde hij
+zijne eigen familieleden aan, zijne gunstelingen, en afstammelingen der
+oude koningen. Dit had later het noodlottige gevolg, dat de vorsten
+dier staatjes zich als geheel onafhankelijk beschouwden, zich niet meer
+om den koning van Chow bekommerden, en onderling onophoudelijk oorlog
+voerden. De feudale vorsten waren steeds begeerig op elkanders goed. In
+Confucius’ tijd (d. i. 66 jaar na de troonsbestijging van Woe), waren
+er twee en vijftig.
+
+Zóó ging door dien maatregel van Woe ten laatste de oude, pure
+monarchie verloren.
+
+Woe regeerde niet lang. Na zijn dood werd het rijk in twee groote
+deelen verdeeld, waarvan de hertog van Chow er één kreeg.
+
+Na den hertog van Chow regeerden achtereenvolgens Kioe Chʼin en King
+Ching, onder welken het rijk steeds in een periode van bloei bleef tot
+1079 v. C.
+
+Met King Kʼang begon het rijk te vervallen, en de suprematie van Chow
+verzwakte al meer en meer onder diens opvolgers Chaou en Muh Wang. In
+den tijd van Confucius bestond het heerscherschap van Chow over de
+andere staten feitelijk alleen nog maar in naam. De hoofdstad van Chow,
+die door Woe in het tegenwoordige Sin An Toe was gevestigd (in de
+tegenwoordige provincie Shen Si) was in Confucius’ tijd verplaatst naar
+Lŏ (in de tegenwoordige provincie Ho Nan, en wel in het departement,
+dat dienzelfden naam draagt). De vorst, die in Confucius’ tijd
+regeerde, heette King, en het rijk bestond in zijn tijd, zooals ik
+reeds zeide, uit twee en vijftig staten, onder welke dertien groote.
+King was in naam heerscher over het geheele rijk, maar had bijna geen
+macht meer buiten Chow. Confucius leefde dus in een tijd van uiterst
+verval, toen de glorie van het huis Chow reeds lang voorbij was, en het
+rijk geheel en al verwarring en degeneratie was.
+
+
+
+
+
+
+HET LEVEN VAN CONFUCIUS.
+
+
+In den tijd van Confucius was China niet, zooals nu, één groot
+keizerrijk, verdeeld in door onderkoningen onmiddellijk aan den keizer
+onderdanige provinciën, maar het bestond uit verschillende staten,
+welker koningen en hertogen vrij wel oppermachtig waren in hun eigen
+land. De voornaamste van deze staten was Chow, gelegen in een gedeelte
+van de tegenwoordige provincie Honan. In ’t Noorden grensde het aan het
+machtige Tsin, bestaande uit de tegenwoordige provincie Shan Si en een
+gedeelte van Chihli; in ’t Zuiden aan Tʼsoe, en in ’t Oosten waren een
+aantal kleinere staten, waaronder Tsʼi, Loe, Wei, Soeng en Ching; en
+aan de Westzijde van de Gele Rivier was Tsʼin. Bij de stichting van de
+Chow dynastie, had koning Woe al die verschillende staten weten te
+brengen onder het beheer van zijne bloedverwanten, zijn aanhangers, en
+de nakomelingen der oude koningen. Zoolang koning Woe regeerde ging
+alles goed, en had Chow eene suprematie over de andere rijken, maar
+toen onder zijne opvolgers Chow zelf verzwakte, ontstond er tusschen de
+verschillende staten een eindelooze strijd. Toen Confucius werd
+geboren, in 551 v. C., was China dan ook in een toestand van wanorde
+zooals nooit te voren geheerscht had. Hij leefde in het zwartste,
+ongelukkigste tijdperk van zijn land. Volgens oude schrijvers stamde
+hij af van keizer Hwang Ti (2637 v. C.), maar volgens de nieuweren
+leefde de stamvader van zijn geslacht in het begin van de Chow dynastie
+(1121 v. C.). Zijn vader was Shoeh Liang Heih, een militair mandarijn,
+om zijn dapperheid en kracht [17] in dien tijd zeer beroemd. De eerste
+vrouw van Shoeh Liang Heih baarde hem geen zonen, waarom hij op
+zeventigjarigen leeftijd een andere vrouw nam, uit de familie Yen,
+genaamd Ching Tsai. Evenals bij de meeste geboorten van wijzen en
+goden, b. v. bij die van Lao Tszʼ en Kwan Yin, heeft men de geboorte
+van Confucius aan wonderen toegeschreven. Zoo wil men, dat Ching Tsai
+in een droom vijf oude mannen zag naderen, die een dier leidden,
+gelijkende op een kleine koe, met één hoorn, en bedekt met schubben,
+als een draak. Dit beest, een Kʼi Lin—een der vele wonderdieren uit de
+chineesche oudheid, als de draak, en de feniks—knielde voor Ching Tsai
+neder, en liet een juweel uit den bek vallen met de inscriptie: „De
+zoon van de essence van het Water zal de verdorrende Chowdynastie
+opvolgen en een koning zijn zonder troon”. Ook werd Ching Tsai gezegd,
+naar een grot te gaan, genaamd „De holle moerbezieboom”. In den nacht,
+dat zij daar het kind baarde, hielden twee draken de wacht ter rechter-
+en linkerzijde en twee vrouwelijke geesten besprenkelden het kind met
+geurige wateren. Op den top van het hoofd had het kindje een bizondere
+uitgroeiing in vorm gelijkend op den berg Kʼioe waarom het „Kʼioe” [18]
+werd genoemd. De geheele naam was Kʼioe Choeng Ni. De geboortedag was
+den 21en van de 10e maand van het 21e regeeringsjaar van den hertog
+Siang van Loe, d. i. het 20ste jaar van keizer Ling, of 551 v. C.
+
+Confucius werd geboren in het district Tsow van den staat Loe, waar
+zijn vader Heih gouverneur van was. Deze plaats correspondeert ongeveer
+met het departement Yen Chow, in het tegenwoordige Shan Toeng. Van zijn
+eerste jeugd is weinig bekend. Uit een van hem geciteerd gezegde in het
+2e hoofdstuk van ’t werk „Loen Yü” weten wij, dat hij op zijn 15e jaar
+met serieuze studie begon, en uit een ander, in het 9e hoofdstuk van
+dat werk, dat hij, toen hij jong was, ook wel in veel dingen bekwaam
+was, maar in ordinaire.
+
+Toen hij 19 jaar was trouwde hij met een meisje van de Kien Kwan
+familie, uit den staat Soeng, die hem een jaar daarna een zoon schonk.
+Hertog Chʼaou zond hem als felicitaties twee karpers. Daarom gaf hij
+dit kind den naam Li Poh Yu (Karper Visch primus). Het huwelijk van
+Confucius was zoo ongelukkig, dat hij ten laatste van zijne vrouw
+scheidde. Dit is een zeer vreemd geval als men weet, hoe ideaal hij
+zich in zijn geheele filosofie de betrekking tusschen man en vrouw
+voorstelde. Ook blijkt nergens iets van eene meer dan gewone
+gehechtheid aan zijn zoon. En toch was de Hiao—de ouderlijke en
+kinderlijke liefde—de basis, waarop hij de regeering van het geheele
+rijk wilde grondvesten. Door velen wordt de koelheid van Confucius
+tegen zijn zoon echter aan een bizondere, gereserveerde waardigheid
+toegeschreven.
+
+Op zijn 20e jaar ging Confucius in eene officieele betrekking, en wel
+als bewaarder van de graanschuren, en één jaar daarna werd hij
+bevorderd tot opzichter over de publieke landerijen. Hij achtte deze
+ambten zelf niet bizonder hoog, en volgens Mencius zeide hij
+hieromtrent: „De ossen en schapen moeten vet en sterk en uitstekend
+zijn; dat is alles, waar ik voor heb te zorgen.” Op zijn 22e jaar ging
+hij uit den dienst, en werd een publiek onderwijzer. Dadelijk kreeg hij
+een groot aantal leerlingen. Hoe klein het salaris ook was, dat zijn
+pupillen konden geven, nooit weigerde hij zijn onderwijs. Maar met
+domme en onwillige leerlingen wilde hij niets te doen hebben, en hij
+zeide: „Ik open de waarheid niet voor een, die geen begeerigen ijver
+toont. Als ik één hoek van een onderwerp heb aangetoond en mijn
+toehoorder kan daar de drie andere niet uit begrijpen, dan herhaal ik
+mijn les niet.” [19]
+
+Dit laatste moet elke lezer van Confucius goed in het oog houden. Want
+bij de studie van de confucianistische werken is het veel meer wat er
+niet staat dan wat er staat, dat hij moet begrijpen. Confucius’
+gezegden waren in de hoogste mate laconiek. Hoewel niet zoo sterk als
+bij Lao Tszʼ, vindt men in de gezegden van Confucius meer de
+hoofdwaarheden van zijne filosofie,—die dan ook gedrukt zijn,—dan den
+geheelen gecompliceerden gedachtengang van die filosofie zelve, dien
+men zich er bij moet denken. De lectuur der oude chineesche klassieken
+is niet, zooals b. v. die van Plato, een gewillig, oplettend volgen van
+eene in letters duidelijk te volgen logica, maar een voortdurend voelen
+naar de onzichtbare ideeën, achter de in de chineesche karakters
+uitgedrukte volzinnen.—Zóó bestaat het eerste hoofdstuk van het werk
+Choeng Yoeng slechts uit 109 chineesche karakters, waarin, of beter
+waarachter de geheele filosofie van dat werk in essence moet gevoeld
+worden. De andere hoofdstukken zijn slechts verduidelijkingen, maar het
+„diepe” zooals de chinees het noemt, de essence van alles, ligt in het
+eerste hoofdstuk. Zóó ligt ook de geheele filosofie van Lao Tszʼs „Tao
+Teh King” in de 59 karakters van het eerste hoofdstuk. Het lezen van
+chineesche klassieken is heel dikwijls daardoor een intuïtief voelen,
+slechts geleid door enkele zekerheden en zichtbaarheden in de zoo
+uiterst weinige karakters. En uren aan uren eenzame studie zijn meestal
+noodig om de geheele portée te doorgronden van in weinige seconden op
+te lezen karakterreeksen. Een groote moeilijkheid is daarbij nog
+dikwijls, de zinnen behoorlijk af te ronden, die noch door komma’s,
+noch door punten zijn aangegeven, en waarvan de juiste rythmus enkel
+door het bewegen van de idee kan worden bepaald.
+
+Toen Confucius 28 jaar oud was, leerde hij boogschieten, een in die
+tijden eervol bedrijf. Een jaar daarna kreeg hij lessen in muziek van
+den beroemden musicus Siang.
+
+Daar hij altijd eene bizondere vereering had gehad voor de stichters
+der Chow dynastie, was het een zijner liefste wenschen, een reis naar
+den staat Chow te doen. Ten laatste kwam die wensch tot vervulling. De
+roem van zijne wijsheid was toen blijkbaar ver verbreid, want toen de
+hertog van Chow van zijn voorgenomen bezoek hoorde, zond hij hem een
+wagen met paarden. Twee dingen waren het, die hem tot Lŏ, de hoofdstad
+van Chow, zoo sterk aantrokken. Ten eerste, de studie van den
+regeeringsvorm, de inrichting der paleizen en den aard der ceremoniën
+van de oude keizers der Chow dynastie, en ten tweede de aanwezigheid in
+die plaats van Lao Tan, meer bekend als Lao Tszʼ, die daar bewaarder
+van het archief was.
+
+Een bizonder curieuze gebeurtenis, die ontmoeting van de twee grootste
+mannen van de chineesche oudheid, die de hoofden zijn van twee groote
+filosofische systemen, en zoo essentieel van elkaar verschilden! Zij
+geeft dan ook in de gesprekken, die de wijzen met elkander hielden,
+precies dat verschil aan. [20] Confucius was opgetogen over wat hij in
+Chow zag, en na alles gezien te hebben riep hij uit: „Nú begrijp ik de
+wijsheid van den hertog van Chow, en hoe zijn huis eens tot het
+keizerschap kwam!” En aan zijn volgelingen zeide hij: „Zooals wij een
+glas gebruiken om de vormen der dingen te onderzoeken, zóó moeten wij
+de oudheid bestudeeren om het tegenwoordige te begrijpen.” In de zaal
+van den voorvaderlijken tempel was een metalen beeld van een man met
+drie krammen op den mond. Op de achterzijde daarvan was gegrift: „De
+ouden waakten over hun spraak, en evenals zij moeten wij
+praatzuchtigheid vermijden.” Toen keerde Confucius zich tot zijne
+discipelen en zeide: „Merkt dit op, mijne kinderen! Deze woorden zijn
+waar, en spreken tot onze rede”. Hij sprak ook veel over muziek met den
+Chow’schen geleerde Chʼang Wang, en men wil dat deze van hem gezegd
+heeft: „Ik heb bij Choeng-Ni menig kenteeken van een wijze opgemerkt.
+Hij heeft rivier-oogen en een draken-voorhoofd—de echte kenteekenen van
+Hwang Ti. Zijn armen zijn lang, zijn rug is als een schildpad, en hij
+is negen voet zes duim hoog—de echte gelijkenis van Thʼang den
+gelukvolle. [21] Als hij spreekt prijst hij de oude koningen. Hij gaat
+het pad der nederigheid en hoffelijkheid. Hij heeft van ieder onderwerp
+gehoord, en onthoudt met een sterk geheugen. Zijn kennis van dingen
+lijkt onuitputtelijk. Hebben wij niet in hem de rijzenis van een
+wijze?”
+
+Hetzelfde jaar keerde Confucius terug naar Loe, waar hij spoedig een
+gevolg kreeg van drieduizend discipelen. Kort na zijn terugkomst brak
+een opstand uit. De drie clans van Kie, Shoeh en Meng, die vroeger
+onder elkaar gestreden hadden, vielen hertog Chaou van Loe aan (516 v.
+C.), die genoodzaakt was, naar het naburige rijk Tsʼi te vluchten.
+Confucius, die den hertog trouw was, en de wanorde in zijn land niet
+kon aanzien, volgde hem. In het werk „Kʼoeng Tszʼ Kia Yü” staat het
+volgende incident vermeld, dat voorviel op zijn reis naar Tsʼi: „Toen
+hij langs den grooten weg ging, ontmoette hij eene vrouw, die weende
+bij een graf, en, medelijden met haar gevoelende, zond hij zijn
+discipel Tszʼ Loe om naar de oorzaak van haar verdriet te vragen. „Gij
+weent of gij verdriet na verdriet hebt ondervonden.”—„Dat is ook zoo,”
+antwoordde de vrouw. „Mijn schoonvader is hier gedood door een tijger,
+en mijn man ook; en nu heeft mijn zoon hetzelfde lot getroffen.” Toen
+vroeg Confucius: „Waarom gaat gij dan niet van deze plaats
+heen?”—„Omdat hier geen tyrannieke regeering is,” antwoordde de vrouw.
+Toen Confucius dat hoorde zeide hij tot zijne discipelen: „Mijne
+kinderen, onthoudt dit. Een tyrannieke regeering is woester dan een
+tijger.” In het boek Lí Ki, de Canon van het Decorum, wordt dit verhaal
+bevestigd.
+
+In Tsʼi, waar een hertog, later koning regeerde, van wien Confucius
+later zeide: „hij had duizend spannen, elk van vier paarden, maar op
+den dag van zijn’ dood prees het volk hem om geen enkele deugd,” maar
+waar een eerste minister was van uitstekende bekwaamheid Gan Ying, werd
+aan het hof nog de muziek van den ouden, wijzen keizer Shoen [22]
+gespeeld. Toen Confucius in Tsʼi aankwam, en die muziek hoorde, werd
+hij er zoo door aangedaan, dat hij in drie maanden geen vleesch kon
+eten.
+
+„Ik had niet gedacht,” zeide hij, „dat muziek ooit zoo uitstekend als
+deze gemaakt kon worden.” De hertog King, die Confucius verscheidene
+malen raadpleegde, was zóó met hem ingenomen, dat hij hem de stad
+Lin-kjoe wilde geven, die rijke inkomsten opleverde. Confucius, die,
+blijkens het boven aangehaalde gezegde uit de „Loen Yü”, weinig met den
+hertog ophad, sloeg dit geschenk af, en zeide tot zijne discipelen:
+„Een superieur mensch neemt alleen belooning aan voor door hem bewezen
+diensten. Ik heb advies gegeven aan hertog King, maar hij heeft er niet
+aan gehoorzaamd; en nu wil hij mij die stad geven! Hoe ver is hij er
+van, mij te begrijpen!”
+
+Eens vroeg de hertog hem over regeering, en kreeg het merkwaardige
+antwoord: „Er is regeering als de vorst vorst is, en de minister
+minister; als de vader vader is, en de zoon zoon.” [23] De hertog werd
+meer en meer met hem ingenomen, en wilde hem voorgoed aan zich
+verbinden, maar de minister Gan Ying bracht hem hier van af, zeggende:
+„Die geleerden zijn onhandelbaar en kunnen niet nagevolgd worden. Zij
+zijn trotsch en lekker met hun eigen inzichten, zoodat zij niet
+tevreden zijn met inferieure betrekkingen.” Hoewel de hertog in zijn
+hart Confucius meestal gelijk moest geven, vond hij het—zooals dat ook
+nú nog overal gaat—eigenlijk lastig, zulk een Mentor bij zich te
+hebben, en zeide: „Ik ben oud; ik kan deze leer niet gebruiken.” [24]
+
+Toen keerde Confucius terug naar zijn vaderland Loe. Gedurende vijf
+jaren bleef Loe ten prooi aan bloedige oorlogen. Hertog Chaou bleef in
+Tsʼi, en na zijn’ dood kwam niet zijn rechtmatige erfgenaam, maar een
+ander lid zijner familie, genaamd Ting, in zijne plaats. Zijne
+regeering beteekende weinig, daar de drie clans Kie, Shoeh en Meng
+doorgingen onder elkaar en met hunne onderhoorigen te vechten.
+Confucius ging gedurende die vijftien jaren niet in staatsdienst, maar
+wijdde zich geheel aan de studie van de „Shi King”, het Boek der Odes,
+en de Shoe King „Het Boek der Historie”, en aan het vormen van
+discipelen.
+
+In het jaar 501 v. C. werd de orde nagenoeg hersteld, en toen aan
+Confucius de magistratuur van de stad Choeng-Toe werd aangeboden, nam
+hij haar aan. Dit was de eerste gelegenheid, die hij had, om zijne
+principes van eene ideale regeering in toepassing te brengen, en de
+resultaten waren schitterend. Hij nam afdoende maatregelen tot
+behoorlijke voeding van het volk, en voor de betrachting der ceremoniën
+voor de dooden. Aan ouden en jongen werd verschillend voedsel
+aangewezen, en de lasten voor oude en jonge koelies moesten
+verschillend zijn. Mannen en vrouwen moesten gescheiden gaan op straat.
+Iets, dat op straat was gevallen, werd niet opgeraapt. De binnenste
+doodkisten moesten vier duim dik zijn, de buitenste vijf. Graven
+moesten op hoogten gelegen zijn; er mochten geen wallen boven opgericht
+worden, en geen boomen er om heen. Op de markten was geen loven en
+bieden, maar één vaste prijs. Enz. Enz.
+
+Binnen een jaar tijds was zijn naam hierdoor zoo beroemd, dat alle
+vorsten van de omliggende staten zijne maatregelen wilden overnemen. De
+hertog Ting, zeer verrast over den buitengewonen bloei van Choeng Toe,
+vroeg aan Confucius, of op die manier ook het geheele land kon
+geregeerd worden. En Confucius antwoordde: „Wel zeker; en niet alleen
+de staat Loe, maar het geheele keizerrijk.” Toen werd hij bevorderd tot
+tweeden Superintendent van openbare werken, in welke betrekking hij
+zich bizonder onderscheidde op het gebied van agricultuur. Ten laatste
+werd hij minister van Justitie. Deze enkele benoeming was reeds
+voldoende, om de misdaad te vernietigen. Het was als in de gelukkige
+tijden van Yiau en Shoen. Er waren geen misdadigers, en de strafwet was
+overbodig. Dat Confucius een buitengewoon moedig man was, die den dood
+durfde trotseeren, toonde hij in 499. Er zou eene vriendschappelijke
+samenkomst plaats hebben tusschen de hertogen van Loe en Tsʼi, in het
+plaatsje Shih kʼi. Confucius was ceremoniemeester. Het doel van de
+samenkomst was het sluiten van een verbond. Maar de hertog van Tsʼi had
+een verraderlijken overval beraamd, en op een gegeven teeken viel een
+bende der halfwilde bewoners van Shih kʼi den hertog van Loe aan.
+Confucius had dit echter voorzien. Hij snelde toe, sprak den hertog van
+Tsʼi aan met zulke waardige woorden, dat deze vol schaamte zijne
+huurlingen terugriep, en slaagde er in, zijn’ vorst in veiligheid te
+brengen. Ten laatste kwamen, door Confucius’ wijze bemiddeling, de twee
+rijken toch nog tot een verdrag, waarbij Loe al de indertijd door Tsʼi
+veroverde landen terugkreeg.
+
+Twee jaren bleef Confucius minister van Justitie. Hij was altijd zeer
+bescheiden, en schaamde zich niet, in ernstige gevallen steeds de
+adviezen van anderen te vragen. Steeds was de publieke opinie met hem
+in al zijne uitspraken. Een beroemd geval, dat zich in die tijden
+voordeed, was het volgende: „Een vader bracht een aanklacht in tegen
+zijn’ zoon. Confucius liet daarop beiden in de gevangenis opsluiten.
+Toen men hem hierover interpelleerde, en men hem vroeg, waarom hij, die
+de Hiao (ouderlievendheid) als eerste deugd van den mensch noemde, den
+ontaarden zoon niet strenger strafte, antwoordde hij: „Als de meerderen
+(zelf) hun plicht niet doen en toch hunne minderen ter dood brengen, is
+dat onrecht. Deze vader heeft zijn’ zoon niet geleerd, om Hiao te
+hebben; als ik naar zijn aanklacht luisterde zou ik dus den onschuldige
+dooden. Misdaad is niet eigen aan de menschelijke natuur, en daarom
+zijn de vader van een gezin en de regeering van den staat
+verantwoordelijk voor de misdaden tegen de Hiao en de openbare wetten.
+Als een koning slordig is in het uitvaardigen van wetten, en dan
+absoluut straft naar de letter, dan speelt hij de rol van een
+zwendelaar; als hij de belasting willekeurig vergaart zonder
+waarschuwing te geven, is hij schuldig aan verdrukking; en als hij het
+volk ter dood brengt zonder het onderwezen te hebben, begaat hij een
+wreedheid.”
+
+Het was dan ook Confucius’ hoofddoel, het volk te leeren en te
+onderrichten door voorbeeld, wijze lessen en rechtvaardige wetten. Bij
+het berechten van overtredingen bedacht hij altijd, dat de staat sedert
+zoovele jaren in groote wanorde was geweest, en het volk dus geen
+gelegenheid had gehad tot leeren. Hij handhaafde den in China thans nog
+heerschenden regel: „In het maken der wetten kan men niet streng genoeg
+zijn, in hare toepassing niet zacht genoeg”. Hij stelde bovendien zich
+zelf altijd ten voorbeeld aan het geheele volk. Dit maakte hem bij
+velen gehaat, die dit verwaand en trotsch vonden, en dit was een van de
+redenen, waarom Lao Tszʼ hem niet bizonder hoog achtte, maar het had
+toch stellig zijn goede zijde. In de tegenwoordigheid van zijn vorst
+was hij vol eerbied en reverentie, ofschoon niet verlegen. Als hij
+voorbij den troon ging, al was deze ledig, bogen zijn beenen onder hem,
+en veranderde zijn gelaatskleur. Als hij den koninklijken schepter
+moest dragen, boog zijn lichaam, alsof het zulk een kostbaren last
+moeilijk kon dragen. Als hij ziek was, en de prins kwam hem bezoeken,
+lag hij met het hoofd naar het Oosten, in zijne staatsiekleederen, met
+den gordel. Als hem een gave in gekookt vleesch werd gegeven door zijn
+vorst maakte hij eerst zijn mat netjes in orde, en proefde éven van het
+eten; als het ongekookt was offerde hij het aan de geesten zijner
+voorvaderen; als het geschenk bestond uit levende dieren hield hij ze
+in leven.
+
+In alles, tot in de kleinste bizonderheden van zijn leven handhaafde
+hij een statig decorum. Al zijne bewegingen waren om zoo te zeggen
+gestyleerd. En dit alles deed hij zeer stellig, opdat het volk het
+vooral zou zien. Een mensch, de drager van het principe van den hemel,
+moest zich ook bewegen met waardige bewegingen en statige gebaren. Er
+is dan ook op de geheele aarde geen volk, dat zoo volleerd is in
+decorum als het chineesche. De studie van het chineesche decorum is
+eene studie apart, waar jaren voor noodig zijn.
+
+De drie grootste oorzaken van de nog steeds niet geheel verbeterde
+wanorde in het rijk, telkens uitbrekend, waren de drie hoofden van de
+clans Kie, Meng en Shoeh. Eindelijk, door fijn beleid, en vooral
+gesteund door de raadgevingen van een zijner discipelen, Tszʼ Loe,
+slaagde Confucius er in, de steden Pe, van de clan Kie, en How, van de
+clan Shoeh, tot onderwerping te brengen. Tot op dien tijd waren deze
+steden als de onneembare kasteelen van roofridders geweest, waarin zij,
+na gepleegde wandaden, altijd een veilig toevluchtsoord vonden. Alleen
+Chʼing, de stad der Mĕngs, bleef zich verzetten.
+
+Het geheele volk werd, ten tijde van Confucius’ regeering, ten goede
+veranderd. Trouw en vertrouwbaarheid werden de karaktertrekken der
+mannen, kuischheid en zachtheid die der vrouwen. De staat Loe werd zoo
+bloeiend en machtig, dat van heinde en ver vreemdelingen toestroomden
+om onder zulk eene gelukkige regeering te leven.
+
+Ten laatste wekte de regeering van Loe de jaloezie en de bezorgdheid op
+van den hertog van het naburige Tsʼi. „Met Confucius aan het hoofd van
+het gouvernement,” zeide hij, „zal Loe de suprematie hebben over de
+staten, en Tsʼi, dat het dichtste bij is, zal opgeslokt worden. Laten
+wij het gunstig stemmen door een afstand van territorium.” Maar een
+zijner ministers begreep, dat de hoofdzaak was, in Loe een breuk
+tusschen Confucius en hertog Ting te veroorzaken. De wijze, waarop dit
+werd beproefd, bewees, dat de Tsʼische minister een bizonder helderen
+blik en heel wat menschenkennis bezat. Tachtig mooie meisjes, bedreven
+in zang en dans, werden uitgekozen, en met honderd twintig van de beste
+paarden, die in het rijk konden worden gevonden, als een geschenk aan
+hertog Ting aangeboden. Zij werden eerst geschaard buiten de stad, en
+het hoofd van de zoo invloedrijke Kie familie ging vermomd uit om hen
+te zien. Bij het aanschouwen van zooveel schoonheid vergat Kie Hwan de
+wijze lessen van Confucius, en haalde den hertog om naar die tractatie
+te komen zien. Ook deze werd er door verbijsterd.
+
+De vrouwen werden in de stad geleid, en hiermede was de wijsheid
+voorgoed verloren. In drie dagen gaf de hertog niet eens audiëntie aan
+zijne ministers. [25]
+
+„Meester!” zeide Confucius’ discipel Tszʼ Loe, „het is uw tijd om te
+gaan.”
+
+Maar Confucius kón het nog niet gelooven, dat zóó licht zijne wijsheid
+door vrouwenlachen was verslagen, en hij hoopte, den hertog nog tot
+inkeer te brengen. Binnenkort zou namelijk de groote ceremonie van de
+offering aan den Hemel plaats hebben. Maar toen bij die plechtigheid
+hertog Ting in zijn haast om er doorheen te wezen op allerlei wijzen
+het decorum—de Lí—schond, zag Confucius in, dat het rijk was verloren.
+En aarzelend, met kleine passen, alsof hij nog telkens een afgezant
+wachtte om hem terug te roepen, ging hij heen.
+
+Dit moet het groote tragische moment in Confucius’ leven zijn geweest,
+het moment, waarin de innigste, heiligste wijsheid van een mensch òf
+voorgoed uit elkander breekt tot starren dood, òf zich boven de misère
+van het leven eeuwiglichtend verheft, en gewijd wordt tot
+onsterfelijkheid.
+
+En al ware de geheele filosofie van Confucius ééne absurde dwaling
+geweest—wat zij niet was—of één systeem van diep-verdorven slechtheid,
+dan zou hij nóg een groot man zijn geweest, een groote onder de grooten
+der wereld, omdat hij in dien merkwaardigen tijd, toen het werk,
+waaraan hij jaren en jaren had gearbeid, verloren ging, en hij eenzaam
+en vreemd stond in de koude wereld, die hem verguisde, en die hij groot
+had willen maken, tóch ook zelfs geen oogenblik aan zijn eigen
+zielewijsheid twijfelde, en zeer wèl doorzag, dat het onsterfelijke
+niet kon zijn verslagen door wereld en menschen. Dit sublieme geloof in
+de wijsheid van eigen ziel is het geloof van martelaren en heiligen, en
+in elken godsdienst, welke ook, gewijd en adorabel.
+
+Confucius bleef onwankelbaar in het geloof aan zijn leer. „Als eenigen
+onder de vorsten mij wilden gebruiken,” zeide hij, „zou ik in den loop
+van twaalf maanden iets belangrijks hebben kunnen doen, en in drie jaar
+zou de regeering volmaakt zijn.” Zijn discipel Tszʼ Koeng had al eens
+tegen hem gezegd: „Uw principes zijn uitstekend, maar zij zijn
+onaannemelijk (onuitvoerbaar) in het keizerrijk; zou het daarom niet
+goed zijn, ze wat te verminderen?”
+
+„Een goed landbouwer,” antwoordde Confucius, „kan zaaien, maar hij kan
+geen oogst verzekeren. Een handwerksman kan uitstekend zijn in zijn
+handwerk, maar hij kan geen markt voor zijn goederen bezorgen. En op
+dezelfde wijze kan een Kiün Tszʼ zijne principes cultiveeren, maar hij
+kan ze niet aannemelijk maken.” („Shʼ Ki”.)
+
+Toen Confucius Loe verliet ging hij naar den staat Wei (gelegen, waar
+nu de provincies Chih-li en Honan samenkomen). Hij was toen zes en
+vijftig jaar. Kiang Yoeng in zijn „Leven van Confucius” verhaalt, hoe
+hij zijne melancholie en zijn droefheid uitte in de volgende verzen:
+
+„De wind huilt door de valleien; de motregen valt dik en snel. De
+jeugdige bruid gaat huiswaarts door de velden, omringd door de menigte.
+Hoe is het, o! azuren Hemel, dat ik aldus word voortgedreven, om door
+het land een weg te vinden, zonder vaste woonplaats? Duister, duister
+zijn de zielen der menschen! Woorden komen vergeefs tot hun geslacht!
+Mijn leeftijd haast ten einde. Ouderdom verschijnt, troosteloos.”
+
+Toen Confucius, vergezeld van een aantal zijner discipelen, in de stad
+Ie kwam, op de grenzen van Wei, kwam de grenswachter hun tegemoet en
+zeide, als vermeld staat in de „Loen Yü”, op troostenden toon: „Mijne
+vrienden, waarom zijt gij zoo bedroefd dat uw Meester zijn betrekking
+verloren heeft? Het keizerrijk is lang zonder Tao geweest; de Hemel
+gaat uw Meester gebruiken als een bel met houten tong.”
+
+Toen Confucius in Wei kwam, werd hij goed ontvangen, kreeg huisvesting
+in de hoofdstad bij een’ mandarijn, en de regeerende hertog, die
+evenwel een bandeloos vorst was, gaf hem een vast inkomen van 60000
+maten graan, hetzelfde dat hij in Loe had genoten. Hij bleef slechts 10
+maanden, en wilde toen naar de staat Chʼin gaan. Confucius leek
+bizonder veel op den beruchten Yang Hoe, die indertijd rooftochten in
+het land had ondernomen, en toen hij in de stad Kʼwang in Kʼee Foeng
+kwam, werd hij voor dien vijand aangezien en door het verwoede volk
+aangevallen. Zijne discipelen waren zeer ontsteld, maar Confucius
+stelde hen gerust met de kalme woorden: „Was, na den dood van koning
+Wĕn, de waarheid niet hier in mij gehuisvest? Als de hemel had gewild
+dat deze zaak der waarheid zou te niet gaan, zou ik, een toekomstige
+sterveling, niet in zulk eene betrekking tot haar zijn gekomen. Als de
+Hemel de waarheid nog niet laat ondergaan, wat kan het volk van Kʼwang
+mij dan doen?” Hij slaagde er dan ook in te ontvluchten. Dit incident
+gaf hem echter aanleiding, zijn reis naar Chʼin op te geven en naar Wei
+terug te keeren. Aldaar teruggekomen woonde hij bij den mandarijn Kioe
+Pih Yuh.
+
+Hertog Ling had in dien tusschentijd een vrouw getrouwd uit het huis
+van Soeng, genaamd Nan Tszʼ. Deze vrouw, berucht als zij was om haar
+slechtheid en haar intrigues, was zoo verlangend Confucius te zien, dat
+zij hem bij zich liet ontbieden. Confucius weigerde haar verzoek niet,
+en bezocht haar. Volgens de regelen van het decorum was zij verborgen
+achter een scherm. Zijn discipel Tszʼ Loe was hevig verontwaardigd, dat
+Confucius zich met zulk een beruchte vrouw had afgegeven. In de „Loen
+Yü” staat vermeld, dat hij den Meester hierover interpelleerde. En
+Confucius antwoordde met den sedert beroemd geworden eed: „Indien ik
+hierin iets slechts heb gedaan, moge de Hemel mij vernietigen! moge de
+Hemel mij vernietigen!”
+
+Confucius kon op den duur aan een hof als dat van Wei niet lang met
+behoud van zijn waardigheid blijven. Op zekeren dag reed de hertog met
+de vrouw Nan Tszʼ in ’t openbaar door de straten van de hoofdstad, en
+beval Confucius in een wagen achter hem te volgen. Het volk begreep
+dadelijk, wat de vorst hiermede bedoelde, en welke positie hij aan den
+wijze toekende, en het riep ontevreden uit: „Lust vóórop, en de deugd
+achteraan!” Toen was Confucius beschaamd, en hij zeide smartelijk: „Ik
+heb nog niemand gezien, die de deugd even liefheeft als de schoonheid.”
+[26]
+
+Toen zag hij in, dat hij niet in Wei kon blijven, en ging op weg naar
+Chʼin, een staat ten Zuiden van Wei. Op zijn gewone reizen vergat hij
+nooit, ceremoniën te verrichten. Zóó verrichtte hij eene ceremonie
+onder de schaduw van een pruimeboom op den weg in het staatje Soeng,
+dat hij door moest trekken. In Soeng leefde toen een mandarijn, Hwan
+Tʼoey, die reeds lang vijandig was aan Confucius en zijn leer. Deze
+zond nu een bende op hem af, om den boom te vellen en den wijze te
+dooden. De discipelen waren hevig verschrikt, maar Confucius bleef
+kalm, en sprak de schoone, later in de „Loen Yü” vereeuwigde woorden:
+„De Hemel heeft de deugd in mij voortgebracht; Hwan Tʼoey!—Wat kan hij
+mij (dan) doen?” Toch was hij met zijn discipelen genoodzaakt te
+vluchten naar den staat Chʼing, en in die vlucht werd hij van zijne
+discipelen gescheiden. Zijn discipel Tszʼ Koeng kwam vóór hem in Chʼing
+aan, en toen hij daar overal naar zijn’ Meester vroeg, antwoordde
+iemand hem, met de voor Confucius’ persoonlijkheid karakteristieke
+woorden: „Er was een man, staande bij de oostelijke poort, met een
+voorhoofd als Yaou, een nek als Kaou Yaou, zijn schouders even hoog als
+die van Tszʼ Chʼan, maar beneden het middel drie duim lager dan de
+lengte van Yu, en met geheel en al het troostelooze voorkomen van een
+verdwaalden hond.” Tszʼ Koeng vond daarna zijn Meester spoedig uit, en
+toen Confucius hoorde, hoe hij was beschreven, had hij er veel pleizier
+over, en zeide: „De lichamelijke gestalte is maar een ding van weinig
+belang, maar te zeggen dat ik als een verdwaalde hond was—die is goed!
+die is goed!”
+
+Ofschoon men hem in Chʼing niets in den weg legde, was de regeering
+volstrekt niet van plan hem te onderscheiden en te gebruiken. Na
+verloop van korten tijd, in 493 v. C., was Confucius weer in Chʼin. In
+Chʼin was het echter niet rustig, daar de troepen van den staat Woe
+daar gedurig invallen deden. Daarom besloot Confucius ten laatste maar
+weer naar Wei terug te gaan. Er is in zijn geheele geschiedenis, en ook
+aan sommige zijner gezegden in de „Loen Yü” te bemerken, dat hij een
+onverklaarbare voorliefde voor hertog Ling en den staat Wei had,
+niettegenstaande de vernedering, die hij daar had ondergaan. Hij had
+een soort idée fixe dat Wei door den hemel was voorbestemd om zijn
+modelstaat te worden, hoewel daar geen enkele reden voor bestond. Toch
+heeft hij tot op het laatste dat voorgevoel behouden, en hij is
+gestorven zonder er ook maar een schijn van verwezenlijking van te
+hebben gezien.
+
+Wèl terecht zei hij dan ook eens van zich zelf: „Ik heb de getrouwheid
+van een hond, en als een hond word ik behandeld. Maar wat doet de
+ondankbaarheid der menschen er toe? Zij zal mij niet beletten, al het
+goed te doen dat ik kan. Als mijne lessen onvruchtbaar blijven zal ik
+ten minste in mij zelf den troost hebben, dat ik trouw mijn plicht heb
+gedaan.”
+
+Op zijn tocht naar Wei werd Confucius in de plaats Pʼoe tegengehouden
+en niet losgelaten, dan toen hij zijn woord gegeven had, nooit meer
+naar Wei te gaan. Dat hij een andere opvatting van een eed had dan de
+westersche bleek uit de woorden, die hij toen tot zijne discipelen
+sprak: „Het was een gedwongen eed. De geesten hooren dien niet.” Hij
+ging daarom toch door naar Wei. Hertog Ling ontving hem heel beleefd,
+maar luisterde evenmin naar hem als te voren.—In den staat Tsin was in
+dien tijd een opstand uitgebroken. De mandarijn Peih Heih had zich
+meester gemaakt van de stad Choung Mow, en verdedigde die tegen zijn
+wettigen heer. Peih Heih liet Confucius bij zich ontbieden, en hier
+werd hij voor ’t eerst aan ’t wankelen gebracht. Daar hij in Wei toch
+niet geapprecieerd werd, en geen verwezenlijking vond van zijn idealen,
+wilde hij dan maar naar den oproerigen Peih Heih gaan, bij wien hij
+zeker was, waardeering en voldoening te vinden. Had hij aan zijn plan
+gevolg gegeven, dan zou hij zijn eigen principes verzaakt hebben. Maar
+hij zelf had indertijd aan zijn discipelen geleerd, dat de leerling,
+die vóór alles eerbied en gehoorzaamheid was verschuldigd, toch
+verplicht was, hem, waar noodig, gepast op zijne fouten te wijzen, en
+Tszʼ Loe redde hem. Hij zeide tot zijn Meester: „Meester, ik heb u
+hooren zeggen, dat als een man in eigen persoon schuldig is aan kwaad
+doen, de Kiün Tszʼ niet met hem kan samengaan. Peih Heih is in
+rebellie; wat zal men er van zeggen, als gij tot hem gaat?”
+
+En in het antwoord van Confucius was al de opgekropte teleurstelling
+van zijn leven: „Ja, die woorden gebruikte ik. Maar zegt men niet, dat
+als een ding werkelijk hard is, het gemalen kan worden zonder fijn te
+worden; en dat als het werkelijk wit is, het in een donkere vloeistof
+kan gedompeld worden zonder zwart te worden gemaakt. Ben ik een bittere
+pompoen? Moet ik ergens langs den weg worden opgehangen zonder gegeten
+te worden?” („Loen Yü”.)
+
+Maar het eind er van was, dat hij zijn drogreden inzag, en niet naar
+Peih Heih ging.
+
+In Wei ging het hem maar niet beter. Hertog Ling raadpleegde hem nooit
+in zaken, waar hij zoo gaarne in wilde gekend worden, maar altijd over
+krijgskunde. In de „Loen Yü” (Boek XV) wordt verhaald, hoe hij daarom
+Wei weer verliet:
+
+„De hertog Ling van Wei vroeg Confucius over tactiek. Confucius
+antwoordde: „Ik heb alles gehoord (ik weet alles) van offervazen, maar
+militaire zaken heb ik niet geleerd.” Hierna aanvaardde hij den
+volgenden dag zijn vertrek.”
+
+De staat waar hij nu weer heentrok was Chʼin. Confucius was toen zestig
+jaar. Hij bleef niet lang in Chʼin, ziende dat men hem daar evenmin
+waardeerde.
+
+In zijn vaderland Loe, waar hij sinds al die jaren niet was terug
+geweest, was intusschen èn hertog Ting èn het machtige hoofd van de Kie
+clan, Kie Hwan, gestorven. Kie Hwan, die indertijd Confucius
+verloochend had, door de van Tsʼi gekomen vrouwen niet terug te zenden,
+maar er den hertog mede had doen verleiden, voelde op zijn sterfbed
+berouw, en droeg zijn opvolger Kie Kʼang op, om Confucius terug te
+roepen. Ware dit gebeurd, dan zou Confucius zijn vaderland ten laatste
+nog groot hebben gemaakt, maar Kie Kʼang, naar den raad van een zijner
+mandarijnen luisterend, zond niet om Confucius zelf, maar om Yen Kʼioe,
+een zijner discipelen. Confucius, verlangende naar zijn vaderland, en
+wetende dat Yen Kʼioe nog niet ver genoeg was om eene goede regeering
+te leiden, riep smartelijk uit: „Laat mij terugkeeren! Laat mij
+terugkeeren! De kleine kinderen van mijn school zijn te wild en
+onbezonnen. Zij zijn wèl volmaakt volleerd in de schoone kunsten, maar
+zij weten zich niet te verbeteren en te vormen.” („Loen Yü”.)
+
+In 490 v. C. ging hij weer uit Chʼin naar Tsʼae, een klein staatje,
+afhankelijk van het rijk Tsʼoe. Die reis is vol kommer en gebrek
+geweest, en eens was zijn voorraad levensmiddelen geheel op. Zijn
+discipelen waren geheel op van vermoeienis en Tszʼ Loe riep uit: „Moet
+de Kiün Tszʼ werkelijk zóó (ellende) verduren?” Maar waardig antwoordde
+Confucius: „De Kiün Tszʼ kan werkelijk gebrek te verduren hebben, maar
+de kleine mensch, als hij in gebrek is, geeft zich over aan toomelooze
+buitensporigheid („Loen Yü”). In de „Kʼoeng Tszʼ Kia Yü” staat vermeld,
+dat deze ellende zeven dagen duurde, en Confucius al dien tijd even
+waardig bleef, ja zelfs vroolijk was, op zijn luit speelde en zong.
+
+Hij bleef ongeveer een jaar in Tsʼae, en trok toen naar Shie, een ander
+district van Tsʼoe, waar de district-mandarijn den titel van hertog had
+aangenomen. Deze hertog, niet wetende wat hij van zijn’ vreemden
+bezoeker moest denken, informeerde naar hem bij Tszʼ Loe. Toen
+Confucius later hoorde, dat Tszʼ Loe niet had durven antwoorden, zeide
+hij: „Waarom zeidet gij niet: hij is een man, die in zijn ijverig
+zoeken (naar wijsheid) zijn voedsel vergeet, die in de vreugde (van het
+verkrijgen) zijn smart vergeet, en niet bemerkt dat de ouderdom
+naderende is?” („Loen Yü”.) De hertog vroeg Confucius over regeering,
+en kreeg weer een zijner typische, kernachtige antwoorden: „(Er is een
+goede regeering als) zij die nabij zijn gelukkig zijn en zij, die ver
+zijn, komen (worden aangetrokken).”
+
+Van Shie ging hij weer terug naar Tsʼai. Op dien terugtocht had
+Confucius twee ontmoetingen, die in de „Loen Yü” (Hoofdstuk 18. No 5)
+zijn vereeuwigd, en waarin hij, niet voor den eersten keer, vermaand
+werd om zijn hopelooze pogingen op te geven. Ik vertaal daarom deze
+ontmoetingen hieronder:
+
+„De krankzinnige van Tsʼoe, Tsieh Yü, [27] ging zingende voorbij
+Confucius: „O Feniks! O Feniks! Hoe is uw deugd zoo vergaan? Wat
+verleden is kan u niet meer vermaand worden, maar voor de toekomst kan
+gezorgd worden. Houdt op! Houdt op! Wie nu aan de regeering meedoen
+loopen gevaar.”
+
+Confucius steeg uit en wilde met hem spreken. Maar (Tsieh Yü) ging
+ijlings weg, zoodat hij niet met hem kon spreken. Onmiddellijk hierop
+volgt in de „Loen Yü” de volgende ontmoeting, waarin hem ongeveer
+hetzelfde werd gezegd:
+
+„Chʼang Tsü en Kieh ’Neih waren aan ’t werk op het veld. Confucius ging
+voorbij en stuurde Tszʼ Loe op hen af om naar het veer te vragen.
+Chʼang Tsü zeide: „Wie is het, die den wagen daar bestuurt?”—Tszʼ Loe
+zeide: „Het is Kʼoeng Kʼioe.” [28]—„Kʼoeng Kʼioe van Loe?” (vroeg
+Chʼang Tsü).—„Die is hij” (zeide Tszʼ Loe).—„Die weet het veer wel.”
+(was het antwoord.) [29]
+
+„Toen vroeg (Tszʼ Loe) aan Kieh Neih. Kieh Neih zeide: „Wie zijt
+gij?”—„Ik ben Choeng Yioe” [30] (was het antwoord).—„Zijt gij niet de
+discipel van Kʼoeng Kʼioe van Loe?” (vroeg de andere).—„Dat ben ik”
+(antwoordde Tszʼ Loe). (Waarop Kieh Neih) zeide: „Het geheele rijk is
+(in wanorde als) een zwellende stroom en wie zal dat veranderen? En dan
+volgt gij nog wel een Meester, die (van de eene plaats naar de ander
+trekkend telkens verschillende) menschen ontwijkt! Deed gij niet beter
+met degenen na te volgen, die zich geheel hebben teruggetrokken van de
+wereld?” [31] (Daarna) bedekte hij het zaad en hield niet (weder) op.
+
+Tszʼ Loe ging het aan Confucius vertellen. Deze zeide, met een zucht:
+„Ik kan niet met vogels en beesten in eenzelfde kudde (of vlucht) zijn.
+Als ik niet samenga, met deze menschen (het volk), met wien dan? Als er
+recht in het rijk was zou ik het niet (behoeven te) veranderen.””
+
+De koning van Tsʼoe, die veel van Confucius gehoord had, liet hem ten
+laatste bij zich ontbieden. Het scheen wel, of nu eindelijk de
+uitvoering van Confucius’ plannen nabij was, want de koning, die hem
+eerst als raadsman had gebruikt, wilde hem zelfs een eigen grondgebied
+geven. Zijn eerste minister bracht den koning echter van dit voornemen
+af, door hem te doen gelooven, dat een staat in den staat met zulke
+uitstekende ministers en mandarijnen als Confucius’ discipelen en zulk
+een hoofd als Confucius gevaarlijk voor Tsʼoe zou worden. Hierdoor
+argwaan gekregen hebbend, hield nu de koning geheel op, den wijze om
+advies te vragen. Toen kort hierop de koning stierf wilde Confucius
+niet langer in Tsʼoe blijven, en ging weer naar Wei. Daar was sinds
+Confucius’ laatste verblijf veel veranderd. Hertog Ling was gestorven,
+en zijn kleinzoon Chʼoeh had de regeering geüsurpeerd en moest die
+verdedigen tegen zijn eigen vader, Ling’s zoon. Dit was wel het ergste,
+wat, volgens Confucius’ eigen leer, kon gebeurd zijn, want geen
+ouderlievendheid hebben was de grootste zonde die maar mogelijk was.
+Geen wonder dan ook dat Confucius, toen Chʼoeh hem als raadsman bij
+zich liet roepen, die betrekking weigerde, ofschoon Chʼoeh in dezen
+zijn grootmoeder Nan Tszʼ had geholpen, die door haar zoon, dus zijn
+vader, bijna vermoord was. Welk een toestand voor Confucius in zijn
+vaderland! Een zoon, die getracht had, zijn eigen moeder te vermoorden,
+en een zoon, die met zijn grootmoeder oorlog voerde tegen zijn’ vader
+en onrechtmatig den troon in bezit had genomen! En dat nadat hij
+zooveel jaren en jaren zijn leer had verkondigd!
+
+Hij bleef toen vijf jaren in Wei zonder betrekking. In het eerste jaar
+stierf zijn meest geliefde discipel Yen Hwoey.
+
+Toen hij stierf riep Confucius zuchtend uit: „De Hemel verlaat mij! De
+Hemel verlaat mij!” Hij had gedacht, dat na zijn’ dood Yen Hwoey zijn
+leer zou verspreiden, dien hij voor de beste zijner discipelen hield,
+en toen hij nu stierf, was hij bang, dat zijn principes niet zouden
+overgeleverd worden. Zijne discipelen wilden Yen een schitterende
+begrafenis geven, maar Confucius hechtte zóó aan de Lí (’t Decorum) dat
+hij dit verbood, omdat Yen, die uit eene arme familie was, daar geen
+recht op had. Confucius, oud als hij nu was, zou toch niet sterven,
+vóór zijn vaderland te hebben teruggezien. In 483 werd hij, op aanraden
+van zijn daar vertoevenden discipel Yen Yioe, teruggeroepen. Yen Yioe
+had zich namelijk zeer verdienstelijk gemaakt in een oorlog tegen Tsʼi
+en toen hij aan Kie Kʼang had verklaard, dat hij ook zijne militaire
+bekwaamheden aan Confucius had te danken, besloot Kie hem terug te doen
+roepen. De regeerende hertog zelf, toen Ngai, nam hiertoe het
+initiatief. Confucius was toen 69 jaar. Hoewel hij nu met de grootste
+voorkomendheid aan het hof werd ontvangen, nam hij toch geen deel aan
+de staatszaken. Hij hield zich verder uitsluitend bezig met literairen
+arbeid, het bestudeeren en bewerken der Shoe King (Canon der Historie)
+en de Shi King (Canon der Poëzie); voor de eerste schreef hij een
+voorrede. Maar zijn geliefkoosde studie was de Yih King. „Als nog
+eenige jaren bij mijn leven werden gevoegd, zou ik er vijftig wijden
+aan de studie van de Yih King en dan zou ik misschien zonder groote
+fouten komen te zijn.”
+
+Ook gaf hij aan den filosoof Tseng Sin de gegevens voor de Hiao King,
+het later klassiek geworden Boek der Ouderlievendheid.
+
+In het voorjaar van 480 v. C. werd op een jacht een vreemd dier
+gevangen, dat niemand nog ooit gezien had. Toen het voor Confucius
+gebracht was, zag hij dat het een „kʼi lin” was, hetzelfde dier, dat
+bij zijne geboorte aan zijne moeder was verschenen, en het droeg dan
+ook op zijn hoorns het stuk lint, door zijn moeder indertijd daarop
+gehecht.
+
+Toen wist hij, dat zijn einde nabij was en hij riep uit:
+
+„Dit is het einde van mijn Leer! [32] Dit is het einde van mijn Leer!”
+Toch stierf hij niet onmiddellijk na de verschijning van de „kʼi lin”
+maar bleef hij nog twee jaar in het leven. In dien tijd hield hij zich
+druk bezig niet zijn werk „Chʼoen Chʼioe,” Lente en Herfst (annalen),
+het eenige, dat hij zelf geheel en al heeft geschreven. Al de andere
+confucianistische werken heeft hij wel gezegd, in gesprekken en
+leeringen aan zijn discipelen, maar zijn niet door hem nedergeschreven.
+Hij zeide van de „Chʼoen Chʼioe”: „Het is de Chʼoen Chʼioe, die zal
+maken, dat de menschen mij kennen en het is de Chʼoen Chʼioe, die zal
+maken, dat de menschen mij veroordeelen.” En Meng Tszʼ (Mencius)
+getuigde later: „Confucius voltooide de Chʼoen Chʼioe, en oproerige
+ministers en slechte zonen waren geslagen van angst.”
+
+De „Chʼoen Chʼioe” kan opgevat worden als een vervolg op de Shoe King,
+en bevat de geschiedenis van Loe (Confucius’ geboortestaat) in verband
+met die der andere staten onder Chow, van 722–484 v. C. Het moet wèl
+hard voor hem zijn geweest, die geschiedenis van verval en verwarring
+te schrijven, hij, die zelf zulke droomen van een ideaal-staat had.
+Voor den liefhebber der historie is zijn werk zeer gewichtig, maar voor
+het begrijpen zijner filosofie kan het evengoed gemist worden. Ook
+durfde hij er niet de volle waarheid in zeggen. Nog slechts éénmaal
+trachtte Confucius invloed op de regeering uit te oefenen, toen de
+hertog van Tsʼi door een zijner ambtenaren was gedood, en hij den
+hertog van Loe bezwoer, deze daad te wreken. Deze poging bleef echter
+zonder gevolg. In 479 ontviel hem zijn trouwe discipel Yen Yioe, of
+Tszʼ Loe. Toen Confucius uit Wei naar Loe was gegaan, had hij Tszʼ Loe
+met een anderen discipel, Tszʼ Kaou, daar achtergelaten, waar dezen een
+ambt hadden gekregen. Confucius had vroeger al voorspeld, dat Tszʼ Loe,
+de dappere, nog eens zou worden gedood. „Yioe daar! Hij zal geen
+natuurlijken dood sterven!” is een zijner gezegden uit de „Loen Yü”.
+Toen er later in Wei een opstand uitbrak en de zaken hopeloos stonden,
+wist Tszʼ Kaou te ontvluchten. Tszʼ Loe wilde den vorst niet in het
+ongeluk verlaten, die hem zoo onderscheiden had, en kwam om in den
+strijd.
+
+Op zekeren morgen voelde Confucius zich ziek, en ging voor zijn deur
+zitten. Tszʼ Koeng kwam bij hem en hoorde hem zuchtend de sinds beroemd
+geworden woorden spreken. „De groote berg valt in puin. De stutbalk
+breekt. De wijze sterft weg als een plant.”
+
+Zooals te verwachten was van iemand als Confucius, die zijn geheele
+leven lang het Decorum zoo hoog had gehouden, waren zijne laatste
+beschikkingen over de „Li” die men bij zijn’ dood moest in acht nemen:
+„Volgens de (regelen der) menschen van de Hia dynastie werd het lijk
+gekist op de westelijke trappen, volgens die der Chow dynastie op de
+oostelijke trappen, volgens die der Yin dynastie tusschen de twee
+pilaren. Gisteren nacht droomde ik, dat ik met offeringen voor mij
+tusschen de twee pilaren zat. Ik ben van ’t begin af een man van Yin
+geweest. Zeven dagen daarna stierf hij” („Shʼ Ki”).
+
+Zijn dood was op den 11en dag van de 4e maand van 478 v. C. [33] acht
+jaar vóór de geboorte van Socrates. Hij was toen 71 jaar.
+
+
+
+Uit dit verslag van zijn levensloop, zooals wij dien vooral uit Kiang
+Yoeng’s Leven van Confucius en Szʼ Ma Tsʼien’s „Shʼ Ki” met
+nauwkeurigheid kunnen nagaan, blijkt duidelijk, dat zijn leven ééne
+teleurstelling is geweest, ook zijn huiselijk leven. Hij trok van land
+tot land, en werd overal afgewezen. Wèl deed zijn treurig leven hem
+dikwijls wanhopige uitroepen doen als: „Ik ben toch geen rhinoceros of
+geen tijger, dat ik zoo in ’t wild moet leven. Mijn Leer is toch niet
+ontaard, waarom moet het dan zóó met mij zijn!” („Shʼ Ki”), maar
+meestal bleef hij sterk, en rees hij boven zijn smart op. En dan liet
+zijn hooge berusting en wijze zekerheid hem grandioze woorden zeggen,
+die zouden vereeuwigd worden, en meer dan tweeduizend jaren daarna nog
+door een volk van honderd millioenen met eerbied aangehoord uit zijne
+werken: „Ik murmureer niet tegen den Hemel. Ik toorn niet op de
+menschen. Laag begint mijn studie en hoog doordringt zij den Hemel. Wie
+mij kent, dat is de Hemel.” („Shʼ Ki” en „Loen Yü”.)
+
+Dat zijn Leer geen opgang maakte was omdat zij veel te hoog was voor
+den ellendigen toestand van het rijk en zijne tijden eeuwen vooruit
+was. Wèl voelde dit zijn discipel Yen Hwoey toen hij zeide: „Als de Tao
+niet begaan wordt is dat mijn schande. Maar als de Tao eenmaal begaan
+is en het niet wordt gebruikt (reeds dat voorbeeld hebbende) is dat de
+schande van de wereld” („Shʼ Ki”). En dat zijne discipelen zulk een
+onbegrensd geloof in hem hadden, dat zij het eene onmogelijkheid
+achtten, dat Tao werd begaan zonder in Confucius het voorbeeld te
+eeren, blijkt uit het gezegde van Tszʼ Koeng: „Lang kan Tao niet begaan
+worden in het rijk, want men kan den Meester niet vereeren!” („Shʼ
+Ki”.)
+
+Confucius werd begraven aan de oevers van de rivier Szi, ten Noorden
+van Loe. Een zijner discipelen plantte op zijn graf den boom „kiai”.
+Een tronk van dezen boom is nog blijven staan, en een teekening van
+deze reliquie is onmisbaar geworden in de studeerkamer van literati.
+Zijne discipelen droegen drie jaren rouw voor hem. Zooals het met alle
+groote mannen is gegaan, ging het ook met Confucius. Men wacht slechts
+op hunnen dood om hen te vereeren en te verafgoden.
+
+Hertog Ngai van Loe, die Confucius nooit de volle eer had bewezen die
+hem toekwam, besefte na zijn dood op eens wat hij in hem had verloren,
+en riep uit: „De Hemel heeft den ouden man niet aan mij gelaten! Nu is
+er niemand om mij op den troon te steunen. Wee mij! Helaas! O
+eerwaardige Ni!”
+
+
+
+Wat wij van Confucius’ wijsheid overhebben is, zoo als ik reeds zeide,
+alleen wat de „Chʼoen Chʼioe” en de voorredes en bewerking der „Kings”
+aangaat van zijne eigen hand.
+
+De drie voornaamste werken, waarin zijn leer zuiver is bewaard zijn 1o
+de „Choeng Yoeng”, dat gewoonlijk, doch niet geheel correct met „De
+Leer van het Midden”, „Het Gouden Midden”, „Het Onveranderlijke Midden”
+enz. wordt vertaald, 2o de „Ta Hiŏh”, vertaald met „De Groote Leering”,
+en 3o de „Loen Yü”, of „Confucianistische Fragmenten.” [34]
+
+De „Choeng Yoeng” is geschreven door Confucius’ kleinzoon, dus Li’s
+zoon, genaamd Kʼoeng Keih, doch gewoonlijk bij zijn studienaam Tszʼ Szʼ
+genoemd. Deze Tszʼ Szʼ had van jongs af aan veel van zijn’ grootvader
+geleerd, en het volgende incident doet zien, dat Confucius veel hoop op
+hem gevestigd had, en als een voorgevoel had, dat door hem zijn leer
+zou worden vereeuwigd:
+
+Eens, toen Tszʼ Szʼ alleen met zijn’ grootvader was, en hem hoorde
+zuchten, vroeg hij hem, na driemaal te hebben gebogen: „Is het omdat
+gij denkt, dat uwe afstammelingen, door hun karakter niet te verzorgen,
+u onwaardig zullen zijn? Of is het, dat gij in uwe bewondering voor de
+wegen van Yaou en Shoen bedroefd zijt, dat gij er in te kort
+komt?”—„Kind,” antwoordde Confucius, „hoe kent gij zoo mijne
+gedachten?”—„Ik heb dikwijls van u de les gehoord,” zeide Tszʼ Szʼ,
+„dat als de vader het brandhout heeft verzameld en bereid, en de zoon
+den bundel niet kan dragen, die zoon ontaard en onwaardig wordt
+verklaard. Die opmerking heb ik dikwijls in mijne gedachten, en vervult
+mij met vrees.” Toen zeide Confucius verheugd, met een glimlach: „Nu
+behoef ik voorwaar niet meer bezorgd te zijn. Mijn onderneming zal niet
+op niets uitloopen. Zij zal worden voortgezet en bloeien.”
+
+De toekomst heeft geleerd, dat Tszʼ Szʼ inderdaad den bundel heeft
+gedragen.
+
+Na Confucius’ dood werd Tszʼ Szʼ een leerling van Tseng. Hij leefde in
+groote armoede. Alleen graan wilde hij aannemen als men hem wilde
+helpen, maar wijn en andere weelderige spijzen weigerde hij. Er wordt
+van hem verhaald, dat hij eens in dertig dagen slechts negen maaltijden
+gebruikte. Hij droeg schamele kleeren, en toen men hem een pels
+aanbood, wees hij dien af. Eigenaardig is het, dat ook hij, evenals
+zijn grootvader, in zijn huiselijk leven zeer ongelukkig was, en zich
+ten laatste van zijne vrouw liet scheiden. In tegenstelling met het
+lot, dat zijn’ grootvader trof, was hij overal in hoog aanzien, en werd
+hij in Loe, zoowel als in Wei, Soeng en Pie met groote eer ontvangen.
+Zijn eenvoud en armoede behield hij echter trouw. Dat hij een democraat
+was in den grond van zijn hart en tegen de vorsten rond voor zijne
+meening uit durfde komen, blijkt uit het volgende geval, waaruit men
+tevens kan zien, hoe hij de beginselen van zijn’ grootvader wist te
+handhaven.
+
+Toen de hertog van Wei hem bedankte voor de eer, dat hij uit Loe naar
+hem toe was gekomen en hem verzocht, hem met raad en daad van dienst te
+zijn, sprak hij:
+
+„Als ik uw vorstelijke gunst zou willen winnen met geld en zijde, dan
+zouden uwe schatkamers er toch reeds vol van zijn, en ik ben arm. Als
+ik haar zou willen winnen met goede woorden, ben ik bang dat zij niet
+met uwe ideeën zouden strooken, zoodat ik tevergeefs zou spreken en
+niet aangehoord worden. De eenige wijze om haar te winnen is om
+menschen van waarde onder uw’ aandacht te brengen.” De hertog zeide:
+„Menschen van waarde is juist wat ik hebben moet.”—„Maar,” zeide Keih
+(Tszʼ Szʼ) „gij kunt ze niet apprecieeren.”—„Ik zou toch wel willen
+weten wien gij denkt dat dien naam (mannen van waarde) verdienen,”
+zeide de hertog. Tszʼ Szʼ antwoordde: „Wilt gij uwe ambtenaren kiezen
+om den naam dien zij hebben of om hun werkelijke waarde?”—„Natuurlijk
+om hun werkelijke waarde,” antwoordde de hertog. Toen zeide zijn gast:
+„Op de oostelijke grenzen van uw staat is een zekere Lie Yin, die een
+man van werkelijke waarde is.”—„Wat waren zijn grootvader en zijn
+vader?” vroeg de hertog. „Zij waren landbouwers,” was het antwoord;
+waarop de hertog in luid lachen uitbarstte en zeide: „Ik houd niet van
+het landbouwvak. De zoon van een’ landbouwer kan niet geschikt voor
+eene betrekking zijn. Ik geef zelfs niet al de jongeren van families
+wier ambten erfelijk zijn, eene betrekking.” Tszʼ Szʼ merkte op: „Ik
+noem Lie Yin om zijne bekwaamheden; wat heeft het feit, dat zijne
+voorvaderen landbouwers waren, te maken met dit geval? En bovendien was
+de hertog van Chow een groote wijze en Kʼang Shoeh een waardig man.
+Toch, als gij hun begin nagaat, zult gij zien, dat zij van het
+landbouwvak afkomende stichters van den staat werden. Ik twijfel er nu
+stellig aan, of gij in de keuze van uwe ambtenaren wel het oog hebt op
+hun werkelijk karakter en hunne bekwaamheden.” Hiermede was het gesprek
+uit. En de hertog zweeg.
+
+Tszʼ Szʼ bereisde vele landen, en sleet de laatste jaren van zijn leven
+in Loe. Treffend is zijne uitlating omtrent de bekendwording van de
+Leer van groote mannen. Toen de hertog van Loe hem eens vroeg, of hij
+goed deed zonder daarvoor eenigen lof van menschen te willen ontvangen,
+antwoordde hij: „Neen, dat is niet mijn sentiment. Als ik betracht wat
+goed is wensch ik, dat de menschen dit weten, want als zij het weten en
+mij prijzen voel ik mij aangemoedigd om nog ijveriger in die
+betrachting te zijn. Dit is wat ik wil, en (maar) niet verkrijgen kan.
+Als ik betracht wat goed is, en de menschen weten het niet, is het
+waarschijnlijk, dat zij in hun onwetendheid kwaad van mij zullen
+spreken. Zoo word ik door al mijn goed doen maar kwaad besproken. Dit
+is, wat ik niet wil, maar niet kan vermijden. Als iemand opstaande met
+het hanengekraai begint te betrachten wat goed is, en volhardend met
+die poging doorgaat tot middernacht, en tegelijkertijd zegt dat hij
+niet wil, dat de menschen het weten, zou ik van zoo iemand zeggen dat
+hij zoo niet bedriegelijk dan toch dom is.”
+
+Tszʼ Szʼ gaf in de „Choeng Yoeng” een werk van een’ prachtigen,
+statigen stijl, dat na meer dan twintig eeuwen nóg een der groote
+standaardwerken van de chineesche litteratuur is. Kort en laconiek
+geeft zijn stijl slechts de essence van de bedoeling, zonder noodelooze
+uitweiding. De ideeën staan onsterfelijk in hun simpelste gedaante, met
+het hart der divine waarheid bloot, zonder gewaden van daaromheen
+zwevende en golvende woorden, in de naaktheid van het essentieele
+Wezen.
+
+Van de „Ta Hiŏh” weet men den auteur niet met zooveel zekerheid als van
+de „Choeng Yoeng.” Volgens eene oude traditie zou ook dít werk van Tszʼ
+Szʼ zijn, maar door velen wordt dit betwist. Hoe het ook zij, dat het
+een werk uit de school van Confucius is, en geheel en al in den geest
+en volgens de leer van Confucius is, enkel opgebouwd uit zijne
+principes, is zeker.
+
+De „Loen Yü”, „redeneeringen en gezegden” zijn niets dan aanhalingen
+van Confucius’ eigen gezegden, van stukken van gesprekken, die hij met
+zijne discipelen had, en gezegden van zijne discipelen onderling. Het
+is niet één logisch geheel, maar een verzameling fragmenten.
+Vermoedelijk is het niet door Confucius’ discipelen geschreven,
+ofschoon velen dit gelooven, maar door de discipelen van zijne
+discipelen, en wel op het einde van de vierde eeuw vóór Christus. De
+authentiekheid staat vast, en niemand twijfelt er aan, of het bevat de
+origineele gezegden van Confucius, door zijne discipelen trouw
+overgeleverd.
+
+Van groote waarde is de uitgave en de commentaren en inleidingen van
+den filosoof Choe Hie, die de „Choeng Yoeng” en de „Ta Hiŏh”
+bestudeerde. De tegenwoordig overal in gebruik zijnde edities zijn
+allen voorzien van Choe Hie’s aanteekeningen en door hem gerangschikt.
+Deze filosoof leefde in de Soeng dynastie. [35] Zonder Choe Hie zou
+wellicht alles verloren zijn gegaan of verkeerd opgevat. De klassieken
+zijn in groot gevaar geweest in den tijd der eerste Tsien dynastie.
+Toen de verzwakte Chow dynastie was gevallen voor de macht der Tsien
+vorsten, brak onder de regeering van Chie Hwang Ti, (d. i. „de Eerste
+Keizer”) voor de Confucianisten een tijd van vervolging aan. Deze
+keizer, wiens eenige verdienste is, dat hij den grooten muur liet
+bouwen, en die door geweld zijn macht had verkregen en moest handhaven,
+vreesde terecht, dat de leer van Confucius een blijvende beschuldiging
+tegen hem zou worden. Het was dan ook waar, dat zijne wetten en
+verordeningen door de litterati werden getoetst aan de leer van
+Confucius, en daardoor vanzelf veroordeeld.
+
+Toen eindelijk zijn eerste minister, om hem te vleien, verklaarde, dat
+niet hém een nieuwe era zou beginnen, en dus al het oude moest worden
+weggedaan, en het voorstel deed, aan allen, uitgezonderd het hoogste
+litterarische College, het bezitten van de Confucianistische boeken, de
+Shi King (Canon der Poëzie) en de Shoe King (Canon der Historie) te
+verbieden, volvoerde Chie Hwang Ti dit plan met genoegen. Allen, die
+zelfs maar over deze boeken durfden spreken, zouden met den dood worden
+gestraft. Verder werd aan ieder, op straffe van brandmerking en vier
+jaar dwangarbeid aan den grooten muur, bevolen, de in zijn bezit zijnde
+boeken onmiddellijk te verbranden. Een jaar na dien brand vluchtten
+twee geleerden van het keizerlijke hof. De keizer, voorziende, dat het
+hun te doen was, om de verboden litteratuur weer te doen herleven, en
+het volk tot opstand aan te zetten, liet hen vervolgen en door de
+Censoren eene inquisitie instellen. Deze inquisitie had ten gevolge,
+dat vierhonderd en zestig geleerden en studenten werden betrapt op
+overtreding van het verbod, en als afschrikkend voorbeeld levend werden
+verbrand.
+
+Tot overmaat van ramp werd in den strijd, die later ontstond toen de
+Han’s de Tsien dynastie aanvielen, de hoofdstad (toen Hien Yang) door
+Hiang Yu, den grootsten vijand der Han’s, verbrand. Drie maanden lang
+duurde de brand van de paleizen en gebouwen.
+
+Lioe Ping, een beroemd veldheer der Han’s, slaagde er in, de Tsien
+dynastie te verdrijven en verhief zich tot keizer, onder den naam Kao
+Tsoe. Met de Han [36] dynastie begon een gouden tijdperk voor China,
+waarin kunsten en wetenschappen een ongekenden bloei bereikten. Onder
+de Han dynastie werd de oude litteratuur weer in eer hersteld.
+Natuurlijk waren, niettegenstaande de felle maatregelen der Tsiens,
+niet alle copieën van de boeken verloren gegaan, die niet op papier,
+maar op bamboe-tabletten waren geschreven of gegraveerd. De
+achtereenvolgende keizers der Han dynastie beijverden zich zeer voor de
+herleving der litteratuur. Honderden verschillende edities der oude
+werken werden nog gaaf gevonden, en door bekwame handen gerangschikt en
+gecatalogiseerd. De thans in ons bezit zijnde boeken, zooals die door
+geheel China worden gelezen, zijn zonder eenigen twijfel de
+authentieke. Alleen aan de echtheid van de „Chʼoen Chʼioe” wordt wel
+eens getwijfeld.
+
+Het is wel nagenoeg aan iedereen bekend, dat Confucius thans door
+geheel China als zijn grootste wijze vereerd wordt.
+
+Van af 57 n. C. verspreidde zich de aanbidding van Confucius, die eerst
+uitsluitend in Loe werd betracht, over het geheele rijk, en werd er
+bepaald, dat in het keizerlijke college en alle colleges van het rijk
+offeringen aan hem moesten worden gedaan. En op dezen tijd zijn in
+China bijna twee duizend tempels voor hem opgericht. Vroeger werden in
+deze tempels beelden van hem aangebeden, maar deze zijn thans bijna
+overal vervangen door tabletten, zooals die nu ook voor de
+afgestorvenen bij het geheele volk in gebruik zijn. In die tempels zijn
+niet alleen de tabletten van Confucius, maar ook die van zijne
+voorvaderen en al zijne discipelen, en wel in een zaal achter die, waar
+de tablet van hemzelf is. Op den 1en dag van elke maand worden er
+offeringen van vruchten en groenten aangeboden, en op den 15en van
+wierook. Tweemaal in het jaar, in de middenste maanden van lente en
+herfst, gebeurt de grootste, plechtigste ceremonie. In Peking wordt
+deze door den keizer zelf geleid, die, na tweemaal geknield en zesmaal
+het hoofd gebogen te hebben, den geest van Confucius aanroept met de
+woorden: „Groot zijt Gij, o volmaakte Wijze! Uw deugd is volkomen, uw
+leer is volmaakt. Alle koningen eeren U. Uwe statuten en wetten zijn in
+glorie overgeleverd. Gij zijt het voorbeeld in deze keizerlijke school.
+Eerbiediglijk zijn de offervazen uitgezet. Vol van eerbiedigen angst
+slaan wij onze trommen en bellen!”
+
+In de plechtige aanspraak na het aanbieden der offeringen worden ook
+zijne discipelen herdacht met de woorden: „Met U zijn saamverbonden de
+filosoof Yen (Hwoey), voortzetter van U; de filosoof Tseng (Sin),
+uitlegger van uwe fondamenteele principes; de filosoof Tszʼ Szʼ, uw
+overleveraar; en de filosoof Meng, [37] de tweede na U!”
+
+Het graf van Confucius is thans nog te zien, en wordt door Dr.
+Williamson die het in 1865 bezocht, aldus beschreven: „Een mooie avenue
+van cypressen leidt noordelijk van de noordelijke poort (van de
+vroegere hoofdstad van Loe) naar de begraafplaats. Het graf ligt in een
+bosch van eiken, cypressen, en andere boomen, omringd door een hoogen
+muur. Het kerkhof binnentredend, gingen wij door een mooi
+geornamenteerde poort, en toen door een tweede laan, met leeuwen en
+anderen beesten, in steen, aan elke hand, en de onvermijdelijke
+cypresboomen [38] boven onze hoofden. Bij het graf staan twee steenen
+beelden, grooter dan levensgroot tegenover elkaar, wijzen, met plechtig
+gezicht. Voorbij het huis gaande, waar de offeringen worden bereid, en
+de aanbidders komen rusten, werd ons een boom gewezen, indertijd
+geplant door zijn discipel Tszʼ Koeng, en een paviljoen, opgericht door
+keizer Kien Loeng. Het graf van Confucius is een kolossale wal,
+overgroeid door boomen en struiken, met de gebruikelijke gelegenheden
+voor offering in het front. Naast het graf staat een tablet, 25 voet
+hoog bij 6 voet breed, waarop de namen van den wijze en zijne daden
+zijn gegraveerd.—Ten Westen van het graf van den wijze is dat van zijn’
+zoon Lí, en overal in ’t rond de graven van de hoofden van zijn clan.”
+[39]
+
+
+
+Behalve uit de Confucianistische werken, hebben wij vaste en
+correspondeerende gegevens omtrent zijn levensloop in het werk „Shʼ Ki”
+(Historische Annalen) van den beroemden historieschrijver Szʼ Ma
+Tsʼien, [40] het leven van Confucius door Kiang Yoeng, de „Kʼoeng Tszʼ
+Kia Yü” (Familiegezegden van Confucius), en de werken van Kʼoeng Toe,
+„Kʼoeng Tsʼoeng Tszʼ”, een afstammeling van Confucius, die bij de
+uitvaardiging van het gebod tot verbranding de werken van Confucius in
+den muur van zijn huis verborg. Het zijn deze werken, vooral de „Shʼ
+Ki” (in het hoofdstuk over Confucius „Koeng Tszʼ Shi Kia”), die door de
+westersche geleerden, o. a. James Legge, als voorbeeld en bron voor
+hunne beschrijving van Confucius’ leven zijn gebruikt.
+
+
+
+
+
+
+CHOENG YOENG.
+
+
+INLEIDING.
+
+Mijn Meester, de filosoof Chʼing zegt: „Zonder overneiging zijn is
+Choeng; zonder verandering zijn is Yoeng.” Choeng is de rechte Tao van
+alles onder den Hemel; Yoeng is het vaste principe van alles onder den
+Hemel. Dit Boek is de overgeleverde wet van het hart [41] uit de school
+van Confucius. Tszʼ Szʼ, vreezende dat zij op den duur verkeerd zou
+(overgebracht) worden, schreef haar neer in een Boek, dat hij aan Meng
+Tszʼ [42] overhandigde. Dit Boek spreekt eerst van het ééne principe;
+dan spreidt het dit uit, en het omvat alle dingen; ten laatste keert
+het terug en vereenigt ze (weer) tot één principe. Ontrol het, en het
+vult het Heelal; rol het op, en het keert terug, en verbergt zich in
+mysterie. Het genot er van is onuitputtelijk. Het is alles waarachtige
+leering. Als de aandachtige leerling het met genot heeft gelezen en
+begrepen, zal hij hebben, wat niet kan worden uitgeput.
+
+
+
+
+HOOFDSTUK I.
+
+1. Wat de Hemel (als natuur) verleend heeft, wordt genoemd Sing. Het
+volgen van de Sing wordt genoemd Tao. Het regelen van Tao wordt genoemd
+Kiao (onderwijs).
+
+2. Tao mag geen oogenblikje verlaten worden; kon Tao verlaten worden,
+dan zou het Tao niet zijn. Daarom is de Kiün Tszʼ [43] waakzaam al ziet
+hij niet, en in vreeze al hoort hij niet.
+
+3. Er is niets zichtbaarders dan wat duister is, niets openbaarders dan
+wat klein is. Daarom is de Kiün Tszʼ waakzaam over zijne eenzaamheid.
+
+4. Als pleizier, toorn, smart of geluk niet bewegen, noemt men dat
+Evenwicht; als zij bewegen, maar in de juiste middenmaat, noemt men dat
+Harmonie. Dit Evenwicht nu is de groote Oorsprong van alles onder den
+Hemel. Deze Harmonie nu is de manifestatie van Tao.
+
+5. Als men de staten van Evenwicht en Harmonie tot het uiterste heeft
+opgevoerd, zijn Hemel en Aarde gevestigd, en alle dingen zijn
+(overvloediglijk) gevoed en bloeiend.
+
+
+    Dit ééne hoofdstuk bevat de essence van het geheele boek Choeng
+    Yoeng. Het is niet doenlijk, met europeesche woorden de
+    veelbeteekenende chineesche karakters precies met equivalenten weer
+    te geven. Men kan de begrippen wel naderen, en met vage omtrekken
+    weergeven, maar niet geheel met europeesche woorden omvatten.
+    Daarom is eene bespreking altijd noodzakelijk.
+
+    Het komt mij voor, dat de meeste vertalers, die dit hoofdstuk
+    vertaalden, den inhoud te veel beperkt hebben, daar zij de
+    begrippen Sing en Tao exclusief op menschen toepasten, en dit toch
+    stellig op de geheele natuur, dieren en dingen moet gedaan worden.
+    Het is, of men bang geweest is voor een schijnbaar pantheïsme, dat
+    men er door krijgen zou. Toch verklaarde Choe Hie zeer stellig, dat
+    de Sing in alles en allen is.
+
+    Wat ik uit dit hoofdstuk voel—in de meeste gevallen samenvoelende
+    met Choe Hie, is het volgende:
+
+    Er bestaat in alles en allen als oorsprong en natuur een essence
+    van den Hemel. Deze noemde Confucius Sing. Het volgen van, het zich
+    volkomen richten naar die Sing, met andere woorden het ware, aan de
+    Sing aangepaste levensbewegen, noemde hij Tao. Dit Tao zou—(althans
+    in Confucius’ werken) met de Weg, het Pad kunnen vertaald worden.
+    Aan den mensch kan de regeling van dat pad geleerd worden door
+    Kiao, onderricht, leering, en diegenen, die dit kunnen doen, heette
+    Confucius Wijzen. Tao kan geen oogenblik verlaten worden, anders
+    zou het de ware Tao niet zijn. Immers Tao is aangepast aan de
+    eeuwige, eindelooze Sing, en kan dus evenmin als de Sing ooit
+    veranderen, of afwijking gedoogen. De ware Tao is dus een weg,
+    streng en recht als een rechte lijn, die geen kromming gedoogt, uit
+    den aard van haar rechtheid. Maar Tao is niet alleen het pad, dat
+    de mensch moet begaan; het is ook de natuurlijke (d. i. aan de Sing
+    aangepaste) gang van de geheele wereld, menschen, dieren en dingen,
+    zooals ook de Sing niet alleen aan de menschen, maar in de geheele
+    creatie is gegeven.
+
+    Omdat Tao geen oogenblik kan verlaten worden, en niet gebonden is
+    aan met de zinnen waarneembare dingen, evenmin als de Sing zelve,
+    zal de Kiün Tszʼ niet wachten tot hij iets met de oogen ziet, om
+    steeds er voor te waken, dat hij Tao toch vooral volgt, noch zal
+    hij wachten met er voor in vreeze te zijn dat hij misschien zou
+    afwijken, tot hij met de ooren iets hoort. Want zijn Sing, zijn
+    natuur van den Hemel, is niet een uitwendige schijn, maar ligt
+    verborgen in mysterie, en do Tao doordringt toch alles; hij is in
+    het allerkleinste gemanifesteerd, en zijn Weg gaat in het
+    allerduisterste evengoed. Daarom is de Kiün Tszʼ steeds wakende als
+    hij eenzaam is, want, ofschoon schijnbaar alleen, heeft hij toch
+    als waarachtige wezen de Sing in zich, die hij aldoor moet blijven
+    volgen in Tao.
+
+    Het zonder overneiging zijn naar eene of andere zijde, noemde
+    Confucius Choeng, met een hiëroglyphisch karakter, dat „het midden”
+    verbeeldt (n.l. een vierkant, dat precies in het midden door een
+    rechte lijn in twee gelijke deelen wordt gesneden). Dit Choeng
+    drukt uit de richting van Tao, het aan de Sing aangepaste
+    levensbewegen, dat alles onder den Hemel moet volgen, en dat
+    (evenmin als het juiste midden) nooit een oogenblik verlaten kan
+    worden, of afwijking gedoogt. Wat onveranderlijk is—, dus: in zich
+    zelf eeuwig bestaat, noemde Confucius Yoeng, en dit was het
+    principe, dat alles onder den Hemel regelt.
+
+    Als géén emoties van pleizier, toorn, smart, of geluk bewegen,
+    noemde Confucius dit een toestand van Evenwicht. Dit Evenwicht was
+    de groote Oorsprong van alles onder den Hemel. Is het noodig te
+    zeggen, dat dit Evenwicht dus de toestand is, waarin de Sing
+    oorspronkelijk verkeert?
+
+    Als deze emoties wél worden bewogen, maar in een juiste maat,
+    zonder bruuskheid of schokken, dan is er een toestand van Harmonie
+    in den mensch. Deze Harmonie is het bewijs, dat de mensch zich
+    inspant om de Sing te volgen, is dus de manifestatie van zijn Tao,
+    en het is alleen mogelijk Tao te begaan als er Harmonie is.
+
+    En nu nog over die gewichtige woorden aan het eind van het vijfde
+    artikel:
+
+    Als de mensch zich door groote inspanning weer kan brengen tot den
+    toestand van Choeng Yoeng,—zonder neiging naar eene of andere zijde
+    zijn, in stabiel evenwicht, en onveranderlijk, zooals de Sing
+    oorspronkelijk is—dan zou hij één zijn met Hemel en Aarde en met
+    álle dingen. Choe Hie voegt er in zijn commentaar bij: „(dan zijn)
+    Hemel en Aarde en alle dingen met mij één lichaam. Is mijn hart
+    (hier in den zin van ziel) recht, dan is dat van Hemel en Aarde ook
+    recht.” Als de mensch het tot Choeng heeft gebracht, zal hij Hemel
+    en Aarde en alle dingen zien zooals zij zijn, zullen zij dus, wat
+    de chineesche filosoof noemt, „gevestigd” zijn, en wel één met hem.
+
+
+
+    De op dit eerste hoofdstuk volgende hoofdstukken zijn geen
+    voortgaan op het daarin vastgestelde, maar eerder eene
+    verduidelijking en omschrijving, meestal met voorbeelden uit de
+    geschiedenis. De volzinnen beginnende met „De Meester zeide” zijn
+    oorspronkelijke gezegden van Confucius, de andere zijn
+    waarschijnlijk van Tszʼ Szʼ. Velen gelooven, dat de Choeng Yoeng
+    oorspronkelijk van Tszʼ Szʼ is zonder dat hij de hoofdideeën alle
+    van Confucius had, en in dat geval zouden de ideeën als van de Sing
+    enz. niet van Confucius maar van Tszʼ Szʼ zijn. Wij zullen ons hier
+    niet in verdiepen.
+
+    Op den hoofdtekst volgt nog het:
+
+
+
+
+NAWOORD.
+
+In dit eerste hoofdstuk publiceert Tszʼ Szʼ de aan hem overgeleverde
+bedoelingen, als basis van zijne woorden. Eerst maakt het duidelijk,
+dat de Oorsprong van Tao in den Hemel is, dat Tao onveranderlijk is, en
+belichaamd is in ons eigen lichaam, en geen oogenblik kan worden
+verlaten. Dan spreekt het van het noodzakelijke om (het van den Hemel
+gegevene) (goed) te bewaren en te onderhouden, en om steeds (waakzaam)
+onderzoek (in ons zelven) te doen. Ten laatste spreekt het van de
+verdiensten en den (ten goede) veranderenden invloed van de Wijzen en
+spiritueele menschen, tot het uiterste opgevoerd. Die dit alzoo willen
+leeren moeten het in zich zelf zoeken, en zullen het (dan) vanzelf (in
+zich) verkrijgen. Dan zullen zij alle uitwendige verleiding, die op hun
+egoïsme werkende is, van zich wegdoen, en hun natuurlijke Goedheid zal
+vervuld zijn. Dit hoofdstuk is wat de schrijver Yang het noemde: „Het
+lichaam (hier: Wezen) van het geheele Boek.” In de tien volgende
+hoofdstukken haalt Tszʼ Szʼ des Meesters woorden aan, om de bedoeling
+compleet te maken.
+
+
+
+
+HOOFDSTUK II.
+
+1. Choeng Ni (Confucius) zeide: „De Kiün Tszʼ is Choeng Yoeng; de
+kleine mensch is tegenovergesteld aan Choeng Yoeng.
+
+2. Dat de Kiün Tszʼ Choeng Yoeng is, is omdat hij een Kiün Tszʼ is, en
+altijd in Choeng is. Dat de kleine mensch tegenovergesteld aan Choeng
+Yoeng is, is omdat hij een klein mensch is, en niet in vreeze.”
+
+
+
+
+HOOFDSTUK III.
+
+De Meester zeide: „Hoe uitstekend is Choeng Yoeng! (Maar) zeldzaam zijn
+er onder het volk die het lang kunnen (handhaven).”
+
+
+
+
+HOOFDSTUK IV.
+
+De Meester zeide: „Ik weet hoe het is, dat Tao niet wordt begaan! Die
+weten overschrijden het, die dom zijn komen er niet aan toe! Ik weet
+hoe het is, dat Tao niet helder is! Die waardig (en deugdzaam) zijn
+overschrijden het, die onwaardig zijn komen er niet aan toe!
+
+2. Er zijn geen menschen, die niet drinken en eten. (Maar) weinigen
+kennen den (waren) smaak!”
+
+
+
+
+HOOFDSTUK V.
+
+De Meester zeide: „Helaas! Hoe is Tao onbegaan!”
+
+
+
+
+HOOFDSTUK VI.
+
+De Meester zeide: „Shoen! Hij was een wijs mensch! Shoen hield er van
+om anderen te vragen, en onderzocht (schijnbaar) oppervlakkige woorden.
+Het kwade (er in) verborg hij, het goede spreidde hij uit. Hij greep de
+twee uitersten, nam er het Midden (Choeng) van, en gebruikte dat (in de
+regeering). Daardoor was hij (juist) Shoen!”
+
+
+    In bovenstaande hoofdstukken wordt gezinspeeld op het feit dat Tao,
+    en dus ook het bereiken van Choeng Yoeng, geen oogenblik uit het
+    oog moet worden verloren, en de mensch altijd door, in waakzaamheid
+    en vrees, op zijn gedrag moet passen. Alleen door niet-nadenken
+    overschrijdt de goede mensch Choeng, en de domme komt er niet eens
+    aan toe. Iedereen drinkt en eet, maar weinigen kennen den smaak,
+    zóó ligt Choeng eveneens in al de dingen en daden van het leven,
+    maar weinigen beseffen het, en denken niet om het gewicht van al
+    die schijnbaar gewone acties en dingen.
+
+    Volgens gewoonte haalt Confucius hier een Wijze uit de Oudheid aan,
+    keizer Shoen, die in de meest gewone woorden, in de benèden hem
+    staande menschen toch door het bepalen van het Midden het goede
+    ontdekte, en dat ook aanwendde in de regeering.
+
+
+
+
+HOOFDSTUK VII.
+
+De Meester zeide: „De menschen zeggen allen: „Wij weten,” maar
+voortgedreven, en gevangen in een net, een val, of een kuil, weten zij
+niet hoe er uit te komen. De menschen zeggen allen: „Wij weten,” maar
+als zij Choeng Yoeng uitkiezen kunnen zij er zich niet voor den tijd
+van een maand in handhaven.”
+
+
+
+
+HOOFDSTUK VIII.
+
+De Meester zeide: „Het menschzijn van Hwoey [44] bestond daarin, dat
+hij Choeng Yoeng uitkoos. Als hij iets goeds verkreeg hield hij het
+stijf vast, als droeg hij het op zijn borst, en verloor het niet
+(weer).”
+
+
+
+
+HOOFDSTUK IX.
+
+De Meester zeide: „Het keizerrijk, de staten en de families kunnen goed
+geregeerd worden; waardigheden en jaarwedden kunnen geweigerd worden;
+blanke wapenen kunnen worden vertreden. Maar Choeng Yoeng kan niet
+bereikt worden!”
+
+
+    Choe Hie zegt hiervan, dat de drie bovenbedoelde dingen, hoe
+    moeilijk ook, toch nog licht zijn in vergelijking met het
+    verkrijgen van Choeng Yoeng. Want om dit te bereiken mag de mensch
+    „geen greintje egoïsme en begeerten” (dus overneiging) hebben, en
+    dit is het allermoeilijkste, en schier onmogelijk.
+
+
+
+
+HOOFDSTUK X.
+
+1. Tszʼ Loe [45] vroeg wat geweldigheid was.
+
+2. De Meester zeide: „Meent gij de geweldigheid van het Zuiden, die van
+het Noorden, of die van U zelf?”
+
+3. Geduldigheid en zachtheid in ’t onderwijzen, geen onrecht met
+onrecht beantwoorden; dit is de geweldigheid van het Zuiden, en hierin
+woont de Kiün Tszʼ.
+
+4. Onder de wapenen zijn en den dood vinden zonder morren; dit is de
+geweldigheid van het Noorden, en hierin woont de geweldige.
+
+5. Daarom betracht de Kiün Tszʼ Harmonie, zonder week te zijn. Hoe
+recht is zijne geweldigheid! Hij staat rechtop in Choeng (het Midden)
+en neigt niet over! Hoe recht is zijn geweldigheid! Als er recht is in
+de regeering van het rijk verandert hij niet van wat hij was toen hij
+nog particulier was. Hoe flink is zijn geweldigheid! Als er geen recht
+is in de regeering van het rijk verandert hij niet, tot in den dood.
+Hoe flink is zijn geweldigheid!
+
+
+    Beide soorten „geweldigheid”, die van ’t Zuiden en Noorden
+    (geïnfluenceerd door het klimaat), de ééne verkeerdelijk zacht- en
+    weekheid, de tweede woestheid gingen ver van het juiste Midden.
+    Daarom betracht de Kiün Tszʼ het Midden er van; hij betracht
+    harmonie, dus zoover het kon vriendschap met staten en menschen,
+    maar blijft tegelijkertijd vast op zijn stuk. Of er recht of niet
+    in het rijk is (lett. staat er, of het rijk Tao heeft of niet), dus
+    goede principes [aangepast aan de Sing] of niet, hij laat er
+    zichzelf niet door veranderen, en staat pal. Dit was volgens
+    Confucius de ware geweldigheid.
+
+
+
+
+HOOFDSTUK XI.
+
+1. De Meester zeide: „In duisternis te leven, en wonderen te doen opdat
+het nageslacht die zal vertellen, dit is, wat ik niet doe.
+
+2. De Kiün Tszʼ gaat volgens den gang van Tao, maar halverweg wijkt hij
+er van af; dit is, wat ik niet doe.
+
+3. De Kiün Tszʼ voegt zich aan Choeng Yoeng. Ofschoon hij onbekend is,
+en de wereld hem niet ziet, voelt hij geen verdriet. Alleen de Wijze is
+hiertoe in staat.”
+
+
+    Hier is de toepassing van Kiün Tszʼ ietwat verward. Met den
+    eersten, in No 2, bedoelt hij meer den gewonen, goeden mensch, met
+    den tweeden den hoogeren Wijze.
+
+
+
+
+HOOFDSTUK XII.
+
+1. De Tao van den Kiün Tszʼ is eindeloos, en (toch) verborgen.
+
+2. Gewone mannen en vrouwen, in hun domheid, kunnen met de kennis er
+van iets te maken hebben; maar wat betreft het opperste er van, al is
+iemand een Wijze is er iets in, wat hij niet weet. Gewone mannen en
+vrouwen, in hun onwaardigheid, kunnen er iets van begaan; maar wat
+betreft het opperste (van Tao), is er (altijd) iets, wat zelfs een
+Wijze niet kan. (Zelfs) in de grootheid van Hemel en Aarde is iets wat
+den menschen (nog) hatelijk is.
+
+Daarom, als de Kiün Tszʼ de grootheid (van Tao) wilde zeggen, zou er
+niets onder den Hemel zijn, dat het kan omvatten; als hij de kleinheid
+(er van) wilde zeggen, zou er niets onder den Hemel zijn, dat het kan
+splijten.
+
+
+    De meeste vertalers zijn het eens, dat dit tweede artikel zeer
+    duister is. Legge o. a. is zoo eerlijk om ronduit te verklaren „I
+    confess to be all at sea in the study of this paragraph.” Ook met
+    de commentaar van Choe Hie kan ik in dezen niet meegaan.
+
+    Mijn bescheiden meening—die ik gaarne voor een betere geef—is de
+    volgende:
+
+    „De Tao (d. i. levensweg aangepast aan de Sing) van den Kiün Tszʼ
+    is eindeloos en toch verborgen,” begint Tszʼ Szʼ (want hier is het
+    niet meer Confucius’ die spreekt). De Tao n.l. gaat tot in het
+    oneindige (n.l. één zijn met Hemel en Aarde en alle dingen, zie
+    Bespreking Hfdst I No. 5). Maar Tao moet ook gevolgd worden in het
+    allerkleinste, verborgenste. Gewone menschen doen ook wel eens zoo
+    iets aan Tao, maar aan het opperste, oneindige er van komen zelfs
+    Wijzen wel eens niet toe. Want er is altijd nog iets, zelfs in de
+    grootheid van Hemel en Aarde, dat den mensch hatelijk is (omdat hij
+    ’t niet kan begrijpen), en ook dus in de grootheid van Tao. Daarom
+    wijken zij er dan weer van af, terwijl het geen oogenblik mag
+    verlaten worden. Wil iemand de oneindige grootheid van Tao zeggen,
+    de eindeloosheid waar Tao toe leidt, hij zou geen woorden vinden,
+    die het omvatten. Wilde hij de kleinheid zeggen—want de
+    allerkleinste dingen hebben een Tao, in het allerminiemste en
+    geringste en duisterste is altijd nog een Tao te volgen—hij zou het
+    zóó klein moeten vinden, dat het door niets nog te splijten (d. i.
+    nog kleiner gemaakt) zou kunnen zijn.
+
+
+3. De Shi King [46] zegt: „De havik vliegt op in den Hemel; de visschen
+springen in de diepte.” Dit zegt, hoe (Tao overal) boven en onder
+(alles) doordringt.
+
+4. De Tao van den Kiün Tszʼ begint met (den gewonen omgang, het gewone
+leven van) mannen en vrouwen. Maar, aan het opperste er van gekomen,
+strekt Tao zich uit over Hemel en Aarde.
+
+
+    De twee artikelen schijnen mij juist aan te passen aan mijne
+    opvatting van het vorige. Zoo hoog als haviken vliegen, zóó reikt
+    ook Tao hoog, en het is eveneens diep en laag, zooals visschen
+    springen naar den bodem van het water. De Tao begint met het heel
+    gewone leven, het huiselijk leven, den gewonen omgang met menschen,
+    maar het opperste er van is eindeloos, en doordringt en omvat het
+    Heelal. Immers, zooals Choe Hie zeide, „wordt Tao ganschelijk
+    begaan, en is Choeng Yoeng geheel bereikt, dan zijn „Hemel en Aarde
+    in mij”.” Dit twaalfde hoofdstuk eindigt met het:
+
+
+
+
+NAWOORD.
+
+Dit twaalfde Hoofdstuk bevat de woorden van Tszʼ Szʼ, dienende om het
+eerste te doen uitkomen en duidelijk te maken, namelijk „dat Tao niet
+mag verlaten worden.”
+
+In de acht hoofdstukken hieronder haalt hij door elkaar woorden van
+Confucius aan, om het (verder) te illustreeren.
+
+
+
+
+HOOFDSTUK XIII.
+
+1. De Meester zeide: „Tao is niet ver van de menschen.”
+
+Als menschen Tao (trachten te) begaan, en ver gaan van de menschen, kan
+het (de ware) Tao niet zijn.
+
+
+    Confucius bedoelde, dat Tao begint met het instandhouden der vijf
+    menschelijke betrekkingen of z. g. „Loen” (die van vader tot zoon,
+    ouderen broeder tot jongeren broeder, vorst tot minister, man tot
+    vrouw, vriend tot vriend, en omgekeerd). Tao, is reeds gezegd, ligt
+    in het kleinste zoowel als in het grootste, en mag geen oogenblik
+    verlaten worden. In den gewonen omgang der menschen, in al het
+    menschelijke is Tao te betrachten. Wie Tao wil begaan buiten de
+    menschen en het menschelijke om, heeft den waren Tao reeds
+    verlaten.
+
+
+2. De Shi King zegt: „In ’t hakken van een bijl-handvatsel, in het
+hakken van een bijl-handvatsel is het model niet ver weg.” Wij grijpen
+één handvatsel om het andere te hakken, en (toch) als wij terloops van
+het eene naar het andere kijken is het of zij apart zijn. Daarom, de
+Kiün Tszʼ regeert de menschen naar wat aan menschen eigen is, en zoodra
+zij veranderen houdt hij op.
+
+
+    Heel duidelijk is mij dit bovenstaande niet. Legge teekent in zijne
+    vertaling aan (maar zegt er eveneens bij „the object of this
+    paragraph seems to be” enz.) dat Tszʼ Szʼ het volgende bedoelde:
+    „De regel, om menschen te behandelen, volgens de principes van het
+    Midden (Choeng) is nader tot ons dan de bijl in de hand tot
+    dengene, die er mede uitgehouwen moet worden, en naar háár
+    gemodelleerd. De tak is gehouwen en de vorm veranderd van den
+    natuurlijken vorm. Niet zoo met den mensch. De verandering brengt
+    hem slechts tot den gepasten staat. Men moet dadelijk met die
+    behandeling ophouden als hij verandert.”
+
+
+3. Als iemand tot het uiterste zijn eigen principes van de Sing
+verzorgt, en tegelijk beschouwt dat andere menschen zijn als hij, dan
+is hij niet ver van Tao. Wat gij niet wilt dat aan U zelven gedaan
+wordt, doe dat (ook) aan anderen niet.
+
+
+    Hier hebben wij de karakters „chung” en „shoe”, waarvan ik in ’t
+    begin van mijne „Inleiding tot de Filosofie van Confucius” heb
+    gesproken. Zooals ik daarin reeds zeide, waren deze woorden niet
+    met precies twéé equivalente hollandsche woorden te vertalen. Prof.
+    Legge noemt „shoe” zeer juist „het principe van reciprociteit,” het
+    beginsel van wederkeerigheid. Het eerste „chung” noemt hij „het
+    zijn plicht doen met het oog op zich zelven.” Ik zal deze vertaling
+    bijwijlen overnemen.
+
+
+4. In Tao van den Kiün Tszʼ zijn vier dingen, die ik nog niet gekund
+heb: „Mijn vader te dienen zooals ik zou willen, dat mijn zoon mij
+diende, dat heb ik nog niet gekund. Mijn vorst te dienen, zooals ik zou
+willen, dat mijn minister mij diende, dat heb ik nog niet gekund. Mijn
+ouderen broeder te dienen, zooals ik zou willen, dat mijn jongere
+broeder mij diende, dit heb ik nog niet gekund. Mijn’ vriend ten
+voorbeeld zijn in behandeling, zooals ik zou willen, dat hij mij
+behandelde, dat heb ik nog niet gekund.” Ernstig in ’t betrachten der
+deugd, altijd er van sprekende met zorgzaamheid als hij in iets te kort
+schiet, durft (de Kiün Tszʼ) niet nalaten, zich in te spannen, (en) als
+hij in zijne woorden iets te veel heeft, durft hij ze niet allen uit te
+putten (d. i. te spreken). Zoo correspondeeren zijne woorden met zijne
+daden, en zijne daden met zijne woorden. Is de Kiün Tszʼ dus niet
+geheel eerlijk en waarachtig?
+
+
+
+
+HOOFDSTUK XIV.
+
+1. De Kiün Tszʼ doet wat gepast is aan zijne positie, en wenscht daar
+niet buiten te gaan.
+
+2. In een positie van weelde en aanzien doet hij wat gepast is aan een
+positie van weelde en aanzien. In een positie van armoede en lagen
+stand doet hij wat gepast is aan eene positie van armoede en lagen
+stand. Onder barbaarsche stammen doet hij wat gepast is aan barbaarsche
+stammen. In een toestand van droefheid en moeilijkheden doet hij wat
+gepast is aan droefheid en moeilijkheden. De Kiün Tszʼ kan nooit in een
+toestand komen, waarin hij niet zelf (het weten van hoe te moeten doen)
+verkrijgt.
+
+3. Is hij in een hooge positie, dan verguist hij niet zijne
+inferieuren. Is hij in een lage positie, dan vleit hij niet zijne
+superieuren. Hij maakt zich zelf recht, en zoekt het niet bij anderen,
+zoodat hij geen teleurstellingen heeft. Hij murmureert niet tegen den
+Hemel en mort niet op de menschen.
+
+4. Daarom woont [47] de Kiün Tszʼ in de rust, wachtende op wat (de
+Hemel) beschikken zal, en de kleine mensch gaat op gevaarlijke paden,
+en hoopt op de fortuin.
+
+5. De Meester zeide: „Met boogschieten hebben wij iets als met (de
+handelwijze van) den Kiün Tszʼ. Als de schutter de schijf mist keert
+hij zich om en zoekt de fout in zich zelf.”
+
+
+
+
+HOOFDSTUK XV.
+
+1. De Tao van den Kiün Tszʼ kan vergeleken worden met reizen. Men moet
+stellig eerst het nabijë bereiken om tot het vèrafgelegene te komen.
+Ook is het er mede als met het bestijgen van een hoogte. Men moet
+stellig eerst het lage begaan om tot het hooge te komen.
+
+2. De Shi King zegt: „De goede vereeniging met vrouw en kinderen is als
+de muziek van harpen en luiten. Als er eendracht is onder broeders, is
+de harmonie gelukkig en langdurig. Zóó behoort gij uwe familie te
+regelen en te genieten van uwe vrouw en kinderen.
+
+3. De Meester zeide: „En wat zullen uwe ouders dan rustig en gelukkig
+zijn!”
+
+
+    In bovenstaande hoofdstukken ziet men, dat Confucius Tao aanwees in
+    de gewone verhoudingen der menschen. De Kiün Tszʼ, wetende dat de
+    Sing in hem is, zal, waar hij ook is, steeds Tao begaan, in
+    armoede, of rijkdom, of onder barbaren. Hij maakt zich zelf
+    „recht”. Dit recht, lett. vertaald, is hier het engelsche „right”,
+    goed, zooals het behoort, puur en rein als een rechtopgaande lijn.
+    Ook in de familie moet Tao begaan worden, en moet er dus Harmonie
+    zijn.
+
+
+
+
+HOOFDSTUK XVI.
+
+1. De Meester zeide: „Hoe overvloedig is de deugd, die de geesten ten
+toon spreiden!”
+
+2. Wij zien naar hen uit, maar zien hen niet; wij luisteren naar hen,
+maar hooren hen niet. Zij zijn in alle dingen belichaamd. Er is niets
+zonder hen.
+
+3. Zij maken, dat de menschen onder den Hemel eerbiedig zijn, zich rein
+maken, zich volmaken, aan hen onderworpen zijn, ten einde hun
+offeringen te brengen. Zij zijn overal in overvloed, en het is, of zij
+overal boven, en links en rechts zijn!
+
+4. De Shi King zegt: „Gij kunt niet zeker zijn (in ’t denken over) het
+komen der geesten; des te meer moogt gij er niet lichtvaardig over
+denken!”
+
+5. Het waarachtige wezen van de manifestatie van het kleine, kunt gij
+maar zóó niet verbergen!
+
+
+    Confucius hield zich niet veel op met beschouwingen over geesten,
+    dit blijkt uit al zijne gezegden. In de „Loen Yü” zegt hij o. a.,
+    dat men de geesten moet eeren, maar altijd op een afstand van hen
+    blijven. Toen hij verder eens door zekeren Kie Loe (Zie „Loen Yü”
+    Boek XI) werd gevraagd, hoe men de geesten moet dienen, antwoordde
+    hij: „Terwijl gij niet in staat zijt menschen te dienen, hoe kunt
+    gij dan hunne geesten dienen?”
+
+    Ik schaam mij niet,—waar zoo vele vertalers hier in twijfel waren,
+    en o. a. Legge eerlijk verklaarde (van No. 2) dat de juiste
+    bedoeling hier niet te bepalen is—te zeggen, dat ik van mijne
+    vertaling niet zeker ben, noch van mijne uitlegging. Vooral weet ik
+    niet zeker of hij de geesten van afgestorvenen bedoelt dan wel
+    anderen. Geesten is in ’t chineesch „kwei shin”. Kwei is de geest,
+    correspondeerende met het principe „Yin” (duister), „shin” is de
+    geest, correspondeerende met het principe „Yang” (licht). Deze twee
+    principes, Yin het vrouwelijke en Yang het mannelijke, zijn
+    ontstaan uit het openscheuren van den Chaos, en alle menschen en
+    wezens en dingen, alle leven, is ontstaan door het samenkomen van
+    Yin en Yang. Als het leven sterft gaan Yin en Yang weer uit elkaar.
+    Daarom, ook kwei en shin zijn in alles wat leeft. De chineezen
+    hebben een verbazende vrees voor „kwei shin,” maar weten eigenlijk
+    zelf niet wat daarmede bedoeld wordt. Volgens dit hoofdstuk zouden
+    zij in alles en allen zijn, altijd vlak bij en om en in de
+    menschen, onzichtbaar. Men is nooit zeker, wanneer die van om ons
+    heen bij ons zullen komen. Een oude chineesche literator, met wien
+    ik over dit onduidelijke hoofdstuk—dat mij voorkomt te onpas in
+    „Choeng Yoeng” te zijn opgenomen—sprak, gaf mij als zijne meening,
+    dat het een voorzichtige twijfel en een fijne ironie uitdrukte.
+    Confucius zou zelf wel eens aan het bestaan van „kwei shin”
+    getwijfeld hebben, daar hij het voor zich zelf hierover nog niet
+    eens was, geraden hebben, in elk geval respect voor hen te hebben
+    „omdat men nooit kan weten”. En dan zouden No. 1 en 2 dien twijfel
+    zeer fijn uitdrukken. Dit klopt ook wel met de boven aangehaalde
+    gezegden uit de „Loen Yü”. Ook een der chineesche commentators in
+    mijne editie zegt dat Confucius „lichtvaardig” van de „kwei shin”
+    sprak.
+
+    Op dit hoofdstuk volgen weer eenige over oude vorsten en wijzen, en
+    over familie en regeering.
+
+
+
+
+HOOFDSTUK XVII [48].
+
+1. De Meester zeide: „Hoe groot was de Hiao van Shoen! Zijn deugd was
+die van den wijze. Zijn eerwaardigheid was die van den keizer. Zijn
+rijkdom die (welke bevat was binnen al) de vier zeeën. Hij deed zijne
+offeringen in den voorvaderlijken tempel, en zijne kinderen en
+kleinkinderen zorgden steeds voor de offeringen aan hem.
+
+2. Daarom, de groote deugd krijgt stellig haar (verdiende) positie,
+stellig haar jaarwedde, stellig haar roem, stellig een lang leven.
+
+3. Aldus is het, dat de Hemel in het voortbrengen der dingen mild is
+volgens hun natuur (hoedanigheden). De (gezaaide) bloeiende (boomen)
+ondersteunt Hij. De ten val neigenden werpt Hij om.
+
+4. De Shi King zegt: „De eerbiedwaardige, gelukwaardige prins! Hij deed
+eerwaardiglijk zijn groote deugd zien, hij regelde het volk en regelde
+zijne ambtenaren, hij kreeg zijne jaarwedde van den Hemel. De Hemel
+beschermde hem, stond hem bij en beschikte dat hij den troon zou
+krijgen; zendende herhaaldelijk deze gunsten van den Hemel.”
+
+5. Daarom, zij die de groote deugd hebben, krijgen stellig de belooning
+van den Hemel.
+
+
+    Het „jaarwedde” dat in dit hoofdstuk in ’t hollandsch eenigszins
+    vreemd klinkt is in ’t chineesch „loeh” en dit woord is een der
+    drie heilige en gelukaanbrengende karakters „foeh” (geluk), „loeh”
+    (jaarwedde van mandarijnen), en „sjoe” (lang leven). Dit „loeh”
+    wordt eveneens uitgesproken als „loeh” hert, en vandaar, dat men in
+    chineesche decoraties op zijde, in bouwstijl enz. veel een hert
+    ziet gebezigd, wat dan jaarwedde beteekent. Zoo ziet men voor
+    „foeh” dikwijls een reiger, daar deze eveneens een gelijkluidenden
+    naam draagt.
+
+    Met den „prins” in No. 4 wordt koning Wĕn, van Chow bedoeld.
+
+    Het is curieus, Confucius, wiens deugd nooit beloond werd, zulke
+    optimistische woorden als hierboven te hooren uitspreken. Shoen
+    werd 100 jaar oud, vandaar ook de toespeling op het lange leven.
+
+
+
+
+HOOFDSTUK XVIII [49].
+
+1. De Meester zeide: „Het is alleen koning Wĕn, die geen verdriet had.
+Zijn vader was koning Kie en zijn zoon was koning Woe. Zijn vader
+maakte (zijne waardigheid), zijn zoon leverde (haar) over.”
+
+2. Koning Woe zette het werk van de koningen Ta, Kie en Wĕn voort. Hij
+gordde (slechts) ééns zijne wapenrusting aan, en verkreeg het
+keizerrijk. Hij verloor zijn uitstekenden naam in het keizerrijk niet.
+Zijne eerwaardigheid was die van den keizer. Zijn rijkdom was die
+(welke bevat is binnen) de vier zeeën. Hij deed zijne offeringen in den
+voorvaderlijken tempel, en zijne kinderen en kleinkinderen zorgden
+steeds voor de offering aan hem.
+
+3. Het was aan het eind van zijn leven dat koning Woe de beschikking
+(van den Hemel) kreeg (over den troon), en de hertog van Chow volmaakte
+de deugd van Wĕn en Woe. Hij voerde het koningschap op tot Ta en Kie,
+en offerde aan alle hertogen boven hen met de keizerlijke ceremonieën.
+En dezen regel verbreidde hij over alle vorsten van het rijk, de hooge
+ambtenaren, de geleerden, en het gewone volk. Was de vader een hoog
+mandarijn en de zoon een geleerde, dan was de begrafenis die van een
+hoog mandarijn, de offering die van een geleerde. Was de vader een
+geleerde en de zoon een hoog mandarijn, dan was de begrafenis die van
+een geleerde, en de offering die van een hoog mandarijn. De rouwtijd
+van één jaar werd uitgebreid (tot gebruik) enkel bij hooge mandarijnen.
+
+De rouwtijd van drie jaren werd alleen uitgestrekt tot den keizer. In
+den rouw om vader en moeder werd geen verschil gemaakt tusschen
+aanzienlijken en minderen.
+
+
+    Het verband tusschen deze oude vorsten en het in vorige
+    hoofdstukken behandelde is niet heel duidelijk. De chineesche
+    filosoof gaat niet van één punt uit, dat hij dan streng logisch
+    beschouwt en ontwikkelt, zooals b. v. Plato deed. Zóó hebben wij
+    hier een verheerlijking van eenige instellingen over Lí (Decorum)
+    die eigenlijk met Choeng Yoeng niet in logisch verband staan. Het
+    bizondere geluk van koning Wĕn was, dat hij èn een goeden vader had
+    èn een goeden zoon (iets wat b. v. met Yau en Shoen, die zeer
+    slechte zoons hadden en een’ ordinairen vader, en met Yu, niet het
+    geval was geweest). Deze omstandigheid verhoogt in chineesche oogen
+    de glorie van koning Wĕn.
+
+    Een groote verdienste van den hertog van Chow was, dat hij ook
+    zijne voorvaderen in de glorie van Chow deed deelen, en hen met
+    keizerlijke ceremonieën vereerde, alsof ook zij keizerlijke vorsten
+    waren geweest. Kie, of Kie Leih, de hertog van Chow destijds (niet
+    te verwarren met den hertog van Chow, Woe’s broeder, die Tan heette
+    van zich zelf) was Wĕn’s vader, en Kie Leih’s vader was Ta.
+
+    Toen Woe Wang keizer werd, was hij 87 jaar.
+
+
+
+
+HOOFDSTUK XIX.
+
+1. De Meester zeide: „Hoe vèr reikte de Hiao [50] van koning Woe en den
+hertog van Chow!”
+
+2. Nu, de Hiao is het goed voortzetten van de wenschen der voorvaderen,
+het goed voortzetten van de zaken der voorvaderen.
+
+3. In de lente en in den herfst herstelden zij de voorvaderlijke
+tempels, rangschikten zij de voorvaderlijke offervazen, maakten zij de
+gebruikelijke gewaden in orde, en offerden de offeringen der seizoenen.
+
+4. Door de ceremoniën van den voorvaderlijken tempel onderscheidden zij
+de (keizerlijke) bloedverwanten volgens hun afstamming. Door het
+regelen volgens den adellijken rang onderscheidden zij aanzienlijken en
+minderen. Bij het regelen der diensten onderscheidden zij talent en
+bekwaamheid. Bij de ceremonie van het drinken boden de lageren den
+beker aan de hoogeren en kregen (dus) óók iets (in die ceremonie) te
+doen. Bij het (tot besluit aangerichte) feest werden de plaatsen
+geregeld volgens het haar, en zoo werden de jaren (van leeftijd)
+onderscheiden.
+
+5. Zij namen de plaats in van hun voorvaderen, verrichtten hunne
+ceremoniën, speelden hun muziek. Zij vereerden diegenen, die hun
+voorvaderen hadden vereerd, hadden diegenen lief, die hun voorvaderen
+hadden liefgehad. Zóó dienden zij de dooden, zooals zij de levenden
+zouden gediend hebben; zij dienden de verschenenen, zooals zij hen
+zouden gediend hebben indien zij bij hen waren gebleven. Dit is de
+opperste Hiao.
+
+6. Met de ceremoniën aan den Hemel en de Aarde dienden zij Shang Ti, en
+met de ceremoniën van den voorvaderlijken tempel dienden zij hun
+voorvaderen. Hij, die de ceremoniën van de offeringen aan Hemel en
+Aarde, en de bedoeling van de verschillende offeringen aan de
+voorvaderen begreep, zou de regeering van een koninkrijk even
+gemakkelijk vinden als het kijken in zijn handpalm.
+
+
+    Wij zien uit een en ander dat de Hiao niet enkel bestaat uit het
+    liefhebben en eerbiedigen van de ouders, maar ook uit het navolgen
+    van hun leven, het treden in hun voetspoor. Zóó staat in de „Loen
+    Yü” dat men eerst van iemand zeggen kan dat hij Hiao heeft als hij
+    drie jaren na zijn’s vaders dood niet afgeweken is van diens
+    gedragslijn. Het buitengewoon gewicht, dat Confucius aan ceremoniën
+    van de Lí hechtte, schijnt wel wat overdreven, maar men vergete
+    hierbij vooral niet, dat hij het begaan van Tao daarvan
+    onafscheidelijk achtte, en het hem niet om den uiterlijken schijn
+    te doen was, maar om het ware wezen er van, de reverentie, die er
+    mede werd uitgedrukt. Zoo zegt hij („Loen Yü,” Boek XVII) zeer
+    terecht: „Zijn edelsteenen en zijde (die bij ceremoniën worden
+    gedragen) dan alles wat bedoeld wordt met de Lí?” Zóó opgevat, als
+    symboliek van de reverentie voor het diviene, wordt Confucius’
+    hooge opvatting van de Lí begrijpelijker. Het eerbiedigen der
+    familiebetrekkingen en der rangen en standen was eveneens voor hem
+    niet zoozeer bekrompenheid als wel eerbied voor de „hemelsche orde
+    der dingen.”
+
+
+
+
+HOOFDSTUK XX.
+
+1. De hertog N-gai (van Loe) vroeg over regeering.
+
+2. De Meester zeide: „De regeering van Wĕn en Woe is (te vinden) in de
+tabletten van hout en bamboe (de annalen). Als er (ware) menschen zijn
+zal de regeering bloeien; als er geen (ware) menschen zijn zal de
+regeering vergaan en ophouden.”
+
+3. Met de ware menschen gaat de regeering vlug, zooals met de ware
+aarde de boomen bloeien, ja, hun regeering mag genoemd worden een
+overvloedig groeiend riet.
+
+4. Daarom, de regeering bestaat uit (het weten te krijgen) van de
+(ware, geschikte) menschen. Het kiezen van de (ware, geschikte)
+menschen ligt in het zelf (karakter van den regeerder). Het verzorgen
+van het zelf (karakter) bestaat uit het doen van plicht en recht. Het
+betrachten van plicht en recht ligt in (het betrachten van)
+menschlievendheid.
+
+5. Menschlievendheid is (eigen aan) den mensch. Het voornaamste daarvan
+is, zijn bloedverwanten lief te hebben. Rechtmatigheid is doen wat
+behoort gedaan te worden. Het voornaamste daarvan is het eeren van de
+eerwaardigen. Steeds meer en meer zijn bloedverwanten lief te hebben en
+de graden van het eeren van de eerwaardigen, is wat uit de Lí geboren
+wordt.
+
+6. Als de lageren (in positie) het vertrouwen (van hun Heer) niet
+verkrijgen kunnen zij er niet in slagen, het volk (goed) te regeeren.
+
+
+    Deze tekst No. 6, neemt men algemeen aan, is hier abusievelijk
+    ingelascht en behoort bij No. 17.
+
+
+7. Daarom mag (de Vorst die) een Kiün Tszʼ (is) niet verzuimen, zijn
+eigen karakter te verzorgen. Wil hij zijn eigen karakter verzorgen, dan
+mag hij niet verzuimen, zijn ouders te dienen. Wil hij zijn ouders
+dienen, dan mag hij niet verzuimen, de menschen te kennen. Wil hij de
+menschen kennen, dan mag hij niet verzuimen, den Hemel te kennen.
+
+
+    Het directe, logische verband tusschen deze graden van kennen is
+    niet heel duidelijk, ook bij de commentators niet.
+
+
+8. De Wegen, te begaan door allen onder den Hemel (zijn) vijf; de
+(deugden), waarmede ze begaan worden, (zijn) drie. (Het betrachten van
+de plichten tusschen) Vorst en minister, vader en zoon, man en vrouw,
+ouderen broeder en jongeren broeder en die (van den) omgang van
+vrienden, dit zijn de vijf wegen, door allen onder den Hemel te begaan.
+Kennis, menschelijkheid [51] en energie, dit zijn de drie deugden van
+allen onder den Hemel. Dat, waardoor ze worden toegepast, is éénheid.
+
+
+    Men herinnere, dat aan dit „menschelijkheid” eigen is, het gehéél
+    zonder egoïsme zijn. Wat dat eene is, zal nader uit dit werk
+    blijken, waar over „Chʼing” wordt gesproken. Wij zouden den eersten
+    zin ook vrijer kunnen vertalen door „De universeele plichten zijn
+    vijf (in getal) enz.” In No. 3 heb ik met de vertaling: „met de
+    ware menschen” niet letterlijk vertaald, omdat ik in twijfel was.
+    Ik heb daarom de door anderen o. a. Legge genomen versie genomen,
+    die vrij en niet letterlijk is vertaald.
+
+
+9. Sommigen worden met de kennis (dier plichten en deugden) geboren;
+sommigen leeren haar later; sommigen kennen haar (eerst) na een
+smartelijk besef van hun onwetendheid. Maar als ze haar (eenmaal) weten
+is het ’t zelfde. Sommigen betrachten haar gemakkelijk (uit den aard
+hunner natuur); sommigen om het voordeel (van het goede, er mede te
+doen); sommigen door krachtdadige pogingen. Maar als het (werk eenmaal)
+volmaakt is, is het (resultaat) ’t zelfde.”
+
+
+    Hierin wordt No. 8 nader toegelicht. Men lette hier op het verband
+    tusschen de kennis—correspondeerende met het met die kennis geboren
+    worden en het (uit den aard der natuur) gemakkelijk betrachten—de
+    menschelijkheid, correspondeerende met het voordeel (van het goede,
+    er mede te doen)—en de energie—correspondeerende met het
+    krachtdadig pogen. Het resultaat is één. Het volgende nummer gaat
+    hierop logisch door:
+
+
+10. De Meester zeide: „Houden van de studie is dicht bij kennis zijn.
+Krachtdadig beoefenen is dicht bij menschelijkheid zijn. Schaamte
+kennen is dicht bij energie zijn.
+
+11. Wie deze drie kent weet hoe hij zijn karakter heeft te verzorgen.
+Wie weet, hoe zijn karakter te verzorgen, weet hoe hij (andere)
+menschen kan regeeren. Wie weet, hoe (andere) menschen te regeeren,
+weet hoe de staten en families van het geheele rijk te regeeren.
+
+12. Allen, die het rijk regeeren, hebben (zich te houden aan) negen
+fondamentale regels; „de verzorging van het (eigen) karakter, het eeren
+van de eerwaardigen, liefhebben (en nabijkomen) van bloedverwanten,
+eerbied hebben voor hooge ambtenaren, beleefde welwillendheid tegenover
+alle andere ambtenaren, het geheele volk beschouwen als kinderen, het
+aanmoedigen van de verschillende ambachten, (vriendelijk en) zacht zijn
+tegen verafwonenden, liefderijk zijn tegen de vorsten der
+(onderhoorige) staten.”
+
+13. Verzorgt (de opperheer, de regeerder) het eigen karakter, dan zijn
+de universeele plichten gegrondvest. Eert hij de eerwaardigen, dan
+wordt vergissing (in ’t beoordeelen en benoemen) voorkomen. Heeft hij
+zijne bloedverwanten lief, dan is er geen onaangenaamheid tusschen
+zijne ooms en broeders over en weer. Eerbiedigt hij de hooge
+ambtenaren, dan is er geen verwarring. Is hij beleefd en welwillend
+tegenover alle (andere) ambtenaren, dan beantwoorden zij dit met
+dankbaarheid. Beschouwt hij het geheele volk als kinderen, dan zal het
+zich onderling vermanen (tot het goede). Moedigt hij de ambachten aan,
+dan heeft hij nut van zijne uitgaven. Is hij (vriendelijk en) zacht
+tegen verafwonenden, dan komen zij van alle vier windstreken (in zijn
+rijk). Is hij liefderijk tegen de vorsten der staten, dan wordt hij
+vereerd in het geheele rijk.
+
+14. Zelfbeheersching en helder doorzicht, het verzorgen van zijn
+kleeding, en geen beweging maken, die niet gepast aan de Lí is,—dat is
+de manier (voor den Regeerder) om zijn eigen karakter te verzorgen.
+Laster van zich afstooten, zich verwijderd houden van de schoonheid,
+rijkdom gering schatten, de deugd hoogachten,—dat is, hoe hij de
+eerwaardigen moet aanmoedigen. Hun een eervolle positie te geven en hun
+traktement vast te stellen, met hen gelijk op lief te hebben en te
+haten,—dat is de manier om tot liefhebben van bloedverwanten aan te
+moedigen. Hun volop ambtenaren te geven om hunne bevelen en opdrachten
+te volvoeren,—dat is de manier, om groote ministers aan te moedigen.
+Hun een loyaal vertrouwen te schenken, en hun traktement solide te
+maken,—dat is de manier om alle (andere) ambtenaren aan te moedigen.
+Het slechts op (gepaste) tijden (voor diensten) te gebruiken, en lichte
+belastingen heffen,—dat is de manier om het volk aan te moedigen.
+Dagelijks hun werk te onderzoeken en maandelijksche proefwerken te doen
+houden, en hunne rantsoenen in overeenstemming met hun arbeid te
+maken,—dat is de manier, om de honderd (verschillende soorten van)
+ambachtslieden aan te moedigen. Hen bij hun vertrek een uitgeleide te
+geven, en hen bij hun aankomst tegemoet te gaan, de goeden (onder hen)
+geluk te wenschen, en de onbekwamen te bemedelijden,—dat is de manier
+om de verafwonenden (vriendelijk en) zacht te behandelen. Families,
+welker lijn van afstamming verbroken is, (weer) te herstellen, de orde
+te handhaven in staten, waar verwarring is, en te helpen, wie in gevaar
+zijn, op vaste tijden audiënties te geven en hen te ontvangen, ruime
+geschenken te geven bij hun vertrek, en (slechts) geringe aan te nemen
+bij hun komst,—dat is de manier om de vorsten van de staten liefderijk
+te behandelen.
+
+
+    Met die ambachtslieden, die proefwerken doen, zullen wel bedoeld
+    zijn, die welke door het gouvernement worden gebruikt. Het
+    weer-herstellen der families wordt gedaan, door z. g. „stamhouders”
+    te benoemen.
+
+
+15. Allen, die de regeering over het rijk voeren met zijn staten en
+families, hebben deze negen fondamenteele regels. Dat, waardoor ze
+worden toegepast, is éénheid.
+
+
+    Men ziet hier, evenals in No. 9, dat telkens na de opsomming van
+    plichten, deugden of dergelijken wordt gezegd, dat hetgene,
+    waardoor ze worden toegepast, één is. In de voorrede heeft de
+    filosoof Chʼing al gezegd, dat het boek spreekt van het ééne
+    principe dat uitgespreid tien duizend (d. i. in ’t chineesch: alle)
+    dingen omvat. De geheele „Choeng Yoeng” is de verheerlijking van
+    die eenheid.
+
+    De bovenbedoelde eenheid, waar alles door wordt toegepast, gaf
+    Confucius (of misschien Tszʼ Szʼ) den naam „Chʼing”, alweer een
+    absoluut onvertaalbaar woord, van zóó mystieke beteekenis, dat
+    geheele scholen van chineesche geleerden er de meest verschillende
+    uitleggingen van gaven. Ik meen, dat de drie begrippen te zamen:
+    „absolute waarheid, absolute puurheid, absolute oprechtheid” het
+    ongeveer omvatten. Ik zal echter het chineesche woord behouden.
+    Samuel Johnson (Oriental Religions: China) zegt er van: „And the
+    chinese Chʼing is confessedly no less than the ideal of personal
+    wholeness or integrity as the motive of conduct or steadfast
+    culture of the shoots of goodness in one’s own being.” Prof. Legge,
+    ook verklarend, dat het eigenlijk onvertaalbaar is, vertaalt het
+    door „sincerity,” en geeft de volgende hoofddefinities op: „Men
+    zegt ons, dat „de geleerden der Han dynastie geheel onwetend waren
+    van zijn (Chʼing’s) bedoeling.” Onder de Soeng dynastie kwam eerst
+    Lie Pang Chih, die het definieerde „Vrij zijn van alle bedrog”. Na
+    hem zeide Sioe Choeng Kioe dat het beteekende „altijddurendheid”.
+    Toen noemde een der Chʼings het „vrij zijn van alle moreele
+    dwaling”, en eindelijk voegde Choe Hie hier het positieve element
+    bij van „waarheid en realiteit”, waarmede de definitie van den term
+    compleet was. Eenvoud of éénheid van ziel schijnt te zijn wat
+    voornamelijk met den term bedoeld wordt; de dispositie tot en
+    capaciteit voor wat goed is, zonder eenig bedervend element, met
+    geen gebrek van verstand, of invoeging van zelfzuchtige gedachten.
+    Dit („Chʼing”) hoort bij den Hemel, bij Hemel en Aarde, en bij den
+    Wijze.”
+
+    Ik zou bij deze beschrijvingen van Prof. Legge nog dit willen
+    voegen, dat ik dus geloof dat Chʼing beteekent „de oorspronkelijke
+    toestand van de Sing”, zooals die volmaakt puur en rein is, de
+    zuivere, diviene staat der natuur. Dit dan verwant aan „Yoeng”. Uit
+    een en ander volgt tevens nog deze hoofdidee van de
+    confucianistische leer, die men toch vooral onthoude: „dat alle
+    deugden natuurlijk voortvloeien uit de Sing, en dus geen toevallige
+    door de menschen gemaakte begrippen zijn, maar in de natuurlijke
+    orde der dingen liggen.”
+
+
+16. Over ’t algemeen, als dingen vooraf voorbereid zijn, zijn zij
+(vast) gegrondvest; als ze niet voorbereid zijn gaan ze te niet. Als
+woorden vooraf vastgesteld zijn, heeft er geen struikelen plaats; als
+zaken vooraf gesteld zijn, is er geen moeilijkheid. Als daden vooraf
+vastgesteld zijn, is er geen ellende. Is de Tao vooraf vastgesteld, dan
+is het nut daarvan onuitputtelijk.
+
+17. Als lageren (in positie) (het vertrouwen van hun Heer) niet
+verkrijgen, kunnen zij er niet in slagen, het volk (goed) te regeeren.
+Er is een weg om het vertrouwen van zijn’ Heer te verkrijgen: als men
+het vertrouwen van zijn vrienden niet verkrijgt, zal men het ook niet
+verkrijgen van zijn’ Heer. Er is een weg, om het vertrouwen van zijn’
+vrienden te verkrijgen: als men niet gehoorzaam is aan zijn ouders zal
+men (ook) niet (loyaal en) oprecht zijn tegen zijn vrienden. Er is een
+weg, om gehoorzaam te zijn aan zijn ouders: als, zich in zich zelf
+keerende, men gebrek aan „Chʼing” (ziet), zal men ook niet gehoorzaam
+zijn aan zijn ouders. Er is een weg om „Chʼing” te hebben: als men niet
+helder weet wat Goed is, zal men zijn zelf ook niet tot „Chʼing” kunnen
+brengen.
+
+
+    Men leze toch vooral goed, wat in het No. 15 van dit hoofdstuk bij
+    de bespreking over „Chʼing” gezegd is, daar dit chineesche woord
+    verder herhaaldelijk voorkomt. Ik heb de oorspronkelijke
+    constructie „er is een weg” behouden, hoewel die niet positief maar
+    negatief wordt aangeduid, wat in westersche logica in dezen niet
+    heel mooi is.
+
+    Blijkbaar is dit lange hoofdstuk XX als ’t ware een genesis van
+    plichten en deugden, allen nauw verwant, en uit éénen Oorsprong, de
+    Sing, en allen in den weg liggende van Tao, die evenmin één
+    oogenblikje verlaten kan worden, als de volmaakte toestand
+    „Chʼing”, absoluut puur zijnde, één vlekje toelaat.
+
+
+18. „Chʼing” is de Tao van den Hemel. Het bereiken van „Chʼing” is de
+Tao van de menschen. Zij, die „Chʼing” hebben treffen precies (het
+ware) zonder zich (te behoeven) in te spannen, en verkrijgen (het
+weten) zonder (te behoeven) te denken; die natuurlijkerwijze vanzelf de
+Tao (precies) treft, is de Wijze. Zij, die „Chʼing” bereiken, zijn zij,
+die het Goede kiezen, en het stevig vasthouden.
+
+
+    Hier vindt men dus het idee van een ideaal mensch, den Wijze, die
+    geheel vanzelf, zonder dat hij zich behoeft in te spannen, den
+    waren Tao weet en precies treft. Hoe gevaarlijk het is, Tao per se
+    met Weg te vertalen blijkt uit den eersten zin hier, waarin het een
+    toestand is, die van absolute reinheid en puurheid.
+
+
+19. Zij, die ver (door) studeeren, nauwkeurig onderzoeken (wat goed is)
+en er navragen, met zorgzaamheid er over nadenken en helder
+onderscheiden, betrachten ernstig (het bereiken van „Chʼing”).
+
+20. Als er iets is, wat hij niet bestudeerd heeft, of er is iets, wat
+hij niet kan begrijpen, zal (de Kiün Tszʼ die „Chʼing” wil verkrijgen)
+niet zijn arbeid staken. Als er iets is, waarover hij niet gevraagd
+heeft, of er iets is, waarover hij gevraagd heeft, dat hij niet weet,
+zal hij zijn arbeid niet staken. Als er iets is, waarover hij niet
+heeft nagedacht, of er iets is, waarover hij heeft nagedacht, (maar)
+dat hij niet te weten is gekomen, zal hij zijn arbeid niet staken. Als
+er iets is, wat hij niet onderscheiden heeft, of er iets is in wat hij
+onderscheiden heeft (en) dat hem niet helder is, zal hij zijn arbeid
+niet staken. Als er iets is, wat hij niet betracht heeft, of er iets
+is, wat hij betracht heeft, (maar) waarin hij te kort komt aan ernst,
+zal hij zijn arbeid niet staken. Als een ander het in één (poging) kan
+(doen), doet hij het in tien. Als een ander het in honderd kan (doen),
+doet hij het in duizend.
+
+
+    Een commentator wijst er op, dat wij hierboven een illustratie
+    hebben van het begrip „energie” in No. 8 van dit hoofdstuk.
+
+
+21. Kan men dus dezen weg begaan, dan zal men, ofschoon (eerst) traag
+van begrip (zijnde), helderwetend worden, ofschoon (eerst) zwak
+(zijnde), energiek worden.
+
+
+
+
+HOOFDSTUK XXI.
+
+Als er helderheid (van weten) is als gevolg van „Chʼing” is dat (uit de
+natuur van) de Sing. Als er „Chʼing” is als gevolg van helderheid (van
+weten) is dat (door de) Kiao, Leering. Als er „Chʼing” is, is er
+helderheid (van weten). Als er helderheid (van weten) is, is er
+„Chʼing”.
+
+
+    Hier vinden wij dus nog eens bevestigd, dat het resultaat hetzelfde
+    is, of men, als de Wijze, al met Chʼing geboren is en het altijd
+    van toen af heeft behouden, of wel, of men door studie en onderwijs
+    de helderheid van weten verkrijgt, en daardoor „Chʼing.”
+
+
+
+
+NAWOORD.
+
+Het bovenstaande is het een en twintigste hoofdstuk. Tszʼ Szʼ noemt er
+de onderwerpen van Confucius „de Tao van den Hemel” en „de Tao van de
+menschen” in, in het vorige hoofdstuk opgenoemd, en grondvest daarop
+zijne woorden. De twaalf volgende hoofdstukken zijn allen van Tszʼ Szʼ,
+en herhalen, verduidelijken en breiden uit de bedoeling van dit (een en
+twintigste).
+
+
+
+
+HOOFDSTUK XXII.
+
+Slechts hij, die de opperste „Chʼing” heeft, kan zijn Sing tot den
+reinen staat volmaken. Kan hij zijn Sing tot den reinen staat volmaken,
+dan kan hij ook de Sing van andere menschen tot den reinen staat
+volmaken. Kan hij de Sing van andere menschen tot den reinen staat
+volmaken, dan kan hij ook de Sing van (alle) dingen tot den reinen
+staat volmaken. Kan hij de Sing van (alle) dingen tot den reinen staat
+volmaken, dan kan hij Hemel en Aarde helpen in ’t vervormen en voeden;
+dan is hij met Hemel en Aarde één orde van drieën.
+
+
+    Letterlijk staat er „kan zijn Sing uitputten (tsin).” De bedoeling
+    is als in de vertaling. (Legge geeft „to give the full development
+    to his nature” wat in den grond op hetzelfde neerkomt.)
+
+    Wij komen met dit hoofdstuk in de mystiek van de „Choeng Yoeng”, en
+    het komt mij niet onwaarschijnlijk voor, dat wij hier met filosofie
+    enkel van Tszʼ Szʼ te doen hebben, die hier verder ging dan zijn
+    meester Confucius.
+
+    Uit Hoofdstuk I van dit werk hebben wij gezien, dat de Sing is dat
+    „wat de Hemel (als natuur) verleend heeft.” Goed leven is „volgen
+    aan de Sing”, dus leven in Tao. Alle zonde en ongeluk ontstaat door
+    bevlekking, verduistering van de Sing. Ik heb dus gemeend, hier
+    „tsin” te moeten vertalen door „de Sing tot den reinen
+    (oorspronkelijken) staat volmaken.”
+
+    Choe Hie zegt er bij „Het „tsin” van de Sing is, als de deugd reëel
+    is.” En de deugd kan natuurlijk alleen reëel zijn, als de Sing
+    volmaakt rein is. Hij, wiens Sing rein is, en die dus Tao begaat,
+    is vanzelf helder-wetend en begaafd met de hoogste deugden. Zoo
+    iemand zal door zijn voorbeeld en zijn moreelen invloed ook andere
+    menschen kunnen verreinen. Niet alleen door de pogingen van zijne
+    door menschenliefde gedreven wil, maar omdat—en hier hebben wij een
+    ook in ’t boeddhisme voorkomend idee—omdat de macht van zijn deugd
+    als een natuurlijke kracht is, van hem uitgaande, die
+    transformeerend werkt. En nu komt het idee—ook reeds in de oude
+    filosofie der Vedanta’s te vinden—dat alle dingen (dus niet alleen
+    de menschen) in de creatie een Sing hebben. Choe Hie zegt er
+    duidelijk bij, dat, ofschoon de vorm en het animale leven niet
+    hetzelfde zijn „de Sing van (andere) menschen en dingen is ook mijn
+    Sing.” De filosofie van de „Choeng Yoeng”, die tot nu toe
+    angstvallig bij de meer enkel menschelijke dingen bleef, rijst hier
+    op tot de beschouwing van de allerhoogste orde der natuur.
+
+    Niet alleen verklaart Tszʼ Szʼ, dat menschen èn dingen de Sing
+    hebben, maar ook, dat de volmaakte mensch—d. i. de mensch die zijn
+    Sing onbevlekt puur in zich heeft—de gelijke is van den Hemel. In
+    westersch begrip overgebracht, hij bevestigt „de goddelijkheid van
+    den mensch en een mogelijke vereeniging met het goddelijke.”
+
+    Jammer alleen, dat hij de begrippen Hemel en Aarde niet nader
+    omschrijft. (Wie omtrent de vereering van Hemel en Aarde meer wil
+    weten, leze het Hoofdstuk „Eerste Maand, Negende Dag” in Prof. de
+    Groot’s „Jaarlijksche Feesten en Gebruiken van de Emoy-Chineezen”.)
+
+    Verder zegt Tszʼ Szʼ, dat de mensch, wiens Sing in den reinen staat
+    is, niet alleen andere menschen, maar ook alle dingen kan verreinen
+    en tot hun hoogste volkomenheid brengen, aldus ageerende en
+    influenceerende als de Hemel en de Aarde (de Natuur). En deze
+    mensch is dan ook één met Hemel en Aarde. Deze chineesche
+    drieëenheid heet „Saan Tsʼai”, de drie Schatten: „Hemel, Aarde,
+    Mensch.” (Th’ien Ti Jen.)
+
+
+
+
+HOOFDSTUK XXIII.
+
+Hierop (n.l. op hem, die reeds de opperste „Chʼing” bezit) volgt hij,
+die het kromme cultiveert (d. i. het onvolmaakte in hem volmaakt). Van
+kromheid kan „Chʼing” komen. Deze „Chʼing” wordt (als in vorm)
+zichtbaar. Van (als in vorm) zichtbaar wordt zij gemanifesteerd. Van
+gemanifesteerd wordt zij schitterend. Schitterend zijnde beweegt zij
+(andere menschen en dingen). Bewegende doet zij veranderen. Doende
+veranderen transformeert zij.
+
+Alleen hij, die de opperste Chʼing heeft onder den Hemel, kan (andere
+menschen en dingen) transformeeren.
+
+
+    Heeft Tszʼ Szʼ het in Hoofdstuk XXII gehad over degenen, die reeds
+    van nature de opperste „Chʼing” hadden (Vergelijk ook Hfdst. XX. No
+    9), in dit hoofdstuk behandelt hij degenen, die eerst het kromme
+    (onvolmaakte) in zich nog recht (volmaakt) moeten maken. Is dat
+    kromme eenmaal recht gemaakt, dan is eveneens de „Chʼing” bereikt,
+    die de Wijze al had (Zie Hfdst. XX. No 9: „Maar als het werk
+    volmaakt is, is het resultaat ’t zelfde”).
+
+
+
+
+HOOFDSTUK XXIV.
+
+Het is de natuurlijke eigenschap van de opperste „Chʼing” om (de
+toekomst) vooruit te weten. Zal een staat of eene familie bloeien, dan
+zijn er stellig goede voorteekenen. Zal een staat of eene familie
+ondergaan, dan zijn er stellig kwade voorteekenen. Een en ander is te
+zien aan het duizendblad en de schildpad, en het beweegt de vier
+ledematen. Als geluk of ramp naderbij komt zal (hij, die „Chʼing”
+heeft) het goede stellig vooruit weten, en het kwade ook. Daarom, hij,
+die de opperste Chʼing heeft, is als een geest.
+
+
+    Dat de volmaakte mensch alwetend is, en de toekomst vooruit kan
+    weten is een idee, dat men in oud-indische systemen van filosofie
+    kan terugvinden, en niet zoo absurd is, als het oppervlakkig wel
+    schijnt. Maar de wijze, waarop dit idee hier in de practijk wordt
+    voorgesteld, n.l. door middel van wichelarij, is belachelijk, en
+    geheel uit den toon van deze serie hoofdstukken.
+
+    Het duizendblad (volgens Wells Williams zou „Shʼ”, hier een
+    chineesche, in Europa onbekende plant zijn, gelijkende op Anthemis
+    of Ptormica Sibirica), en de schildpad worden gebruikt in de
+    chineesche wichelarij. Met „de vier ledematen” worden bedoeld de
+    vier pooten van de schildpad, die elk in een ander seizoen voor het
+    wichelen dienen.
+
+
+
+
+HOOFDSTUK XXV.
+
+1. „Chʼing” wordt voortgebracht door zelfvolmaking. Tao is dat,
+waarnaar men zich moet richten.
+
+2. „Chʼing” is het einde en het begin der dingen. Als er geen „Chʼing”
+was, zou er niets bestaan. Daarom beschouwt de Kiün Tszʼ „Chʼing” als
+zijn grootsten schat.
+
+
+    De oorsprong, de Sing der dingen is natuurlijk absoluut waar
+    (reëel) en puur. Het eenige, ware leven is dat van de Sing. Ware
+    deze niet „Chʼing,” niet absoluut reëel en puur, dan zou er ook
+    niets reëel kunnen bestaan.
+
+
+3. Hij, die „Chʼing” heeft, volmaakt niet enkel zichzelf, (maar) hij
+volmaakt er (ook andere) dingen (en menschen) mede. Het volmaken van
+zichzelf (is te danken aan) zijn Menschelijkheid. [52] Het volmaken van
+(andere) dingen (en menschen) (is te danken aan) zijn Weten. Deze
+(Menschelijkheid en Weten) zijn de deugden, (eigen) aan de Sing, en dit
+is de wijze, waarop het uitwendige en inwendige wordt vereenigd.
+Daarom, wannéér ook (degene, die „Chʼing” heeft) haar aanwendt, werken
+zij zooals ’t behoort.
+
+
+    Men herinnere zich dat met menschelijkheid geen humaniteit maar „de
+    volmaakte deugd van het menschelijk hart” bedoeld wordt.
+
+    Door menschelijkheid en weten (ál-weten, kennen) is er géén
+    verschil meer tusschen inwendige dingen (van ons zelven) en
+    uitwendige (van anderen). Zie in de Bespreking onder Hfdst. XXII
+    het gezegde van Choe Hie: „de Sing van (andere) menschen en dingen
+    is ook míjn Sing.”
+
+
+
+
+HOOFDSTUK XXVI.
+
+1. Daarom, de opperste „Chʼing” houdt niet op.
+
+
+    Choe Hie legt dit op de volgende wijze uit: „daar Chʼing geen
+    leêgheid of schijn heeft, heeft het vanzelf geen ophouding of
+    afbreking.”
+
+
+2. Niet ophoudende, duurt het lang. Langdurende geeft het bewijs van
+zijn bestaan.
+
+3. Bewijs gevend van zijn bestaan reikt het ver. Ver-reikende wordt het
+groot en (als stoffelijk) substantieel. Groot en substantieel, wordt
+het hoog en schitterend.
+
+4. Groot en substantieel, aldus bevat het alle dingen. Hoog en
+schitterend, aldus overwelft het alle dingen. Ver-reikende en
+langdurig, aldus volmaakt het alle dingen.
+
+5. (Chʼing aldus) groot en substantieel (zijnde) is hij (die het
+bereikt heeft) de gelijke van de Aarde; (Chʼing aldus) hoog en
+schitterend (zijnde) is hij (die het bereikt heeft) de gelijke van den
+Hemel; (Chʼing aldus) ver-reikende en langdurig (zijnde) is hij (die
+het bereikt heeft) eindeloos.
+
+
+    Hier gaat de filosoof verloren in mystiek bij zijne apothéose van
+    den idealen mensch. Niet alleen, dat de mensch, die „Chʼing” heeft
+    bereikt, ál-wetend is, maar ook álomtegenwoordig, en in allen en
+    alles. Dit heeft veel van eene absorptie in de universeele Natuur,
+    zou ik bijna zeggen.
+
+
+6. Aldus is de Chʼing zonder zich (zichtbaar) te vertoonen (vanzelf)
+helder gemanifesteerd; zonder te bewegen veroorzaakt het (vanzelf)
+veranderingen; vanzelf, uit den aard zijner natuur, volmaakt het.
+
+7. De Tao van Hemel en Aarde kan met één zin uitgezegd worden: hij is
+één-in-zich-zelf, en baart de dingen op een ondoorgrondelijke wijze.
+
+
+    Hier ziet men weer, dat Tao in sommige gevallen méér dan Weg moet
+    beteekenen, en meer in den zin „het principe van actie,” indien het
+    niet volkomen onvertaalbaar was. Choe Hie merkt hierbij op dat
+    „Ching” vanzelf dat „één-in-zich-zelf zijn” van Tao medebrengt.
+    Letterlijk staat er niet één-in-zich-zelf, maar „zonder tweede”,
+    „zonder dubbel”.
+
+
+8. De Tao van Hemel en Aarde is groot en substantieel, hoog en
+schitterend, ver-reikend en langdurend.
+
+
+    Dezelfde eigenschappen dus als van „Chʼing”. Dat het hier niet
+    zóómaar „Weg” kan beteekenen is duidelijk. Het is ondoenlijk,
+    precies die ìn-chineesche begrippen als „Chʼing” en „Tao” te
+    doorvoelen en dan uit te drukken in een europeesch woord.
+
+
+9. De Hemel van nu (boven ons) is maar wat schittering; maar in al Zijn
+eindeloosheid beschouwd, zijn zon, maan, sterren en sterrenbeelden er
+in opgehangen, en overdekt Hij alle dingen. De Aarde van nu (vóór ons)
+is slechts een handvol aarde, maar in al Hare uitgebreidheid en dikte
+beschouwd, steunt Zij bergen als de Hwa Yoh, zonder hun zwaarte te
+voelen, beweegt rivieren en zeeën, zonder te lekken, en bevat
+tienduizend (alle) dingen. De berg nu (vóór ons) is slechts een stuk
+steen; maar in al de uitgestrektheid van zijn grootte beschouwd, brengt
+hij gras en boomen voort, vogels en beesten wonen er op, en
+kostbaarheden zijn er in verborgen. Het water nu (vóór ons) is slechts
+een lepel vol, maar in zijn onpeilbare diepten worden er de grootste
+schildpadden, krokodillen, draken, visschen en zeeschildpadden in
+voortgebracht, en bevat het koopwaren en dingen van waarde in
+overvloed.
+
+
+    Het verband tusschen dit nummer en de vorige is niet heel direct.
+    Het komt mij voor, een symbool te geven van de tallooze dingen, die
+    door de „Chʼing” van Hemel en Aarde worden voortgebracht, de
+    immense verscheidenheid, geproduceerd door het Ééne. Maar dan zou
+    hier die zuiver stoffelijke werking als symbool moeten dienen ook
+    voor de spiritueele, en het is lang niet met zekerheid te bepalen,
+    of Tszʼ Szʼ dit wel bedoelde.
+
+
+10. De Shi King zegt: „Hoe majestueus en eindeloos zijn de
+beschikkingen des Hemels!” De bedoeling is, dat dáárom (juist) de Hemel
+de Hemel is. (En ook zegt de Shi King:) „O! hoe doorluchtig was de
+puurheid van koning Wĕn’s deugd!” De bedoeling is, dat dáárom (juist)
+koning Wĕn Wĕn was. Puurheid is eveneens zonder ophouden (eindeloos).
+
+
+    Men ziet hier, hoe opzettelijk een der oude Wijzen, koning Wĕn van
+    Chow, met den Hemel vergeleken wordt. Hier komt in den tekst een
+    karakter „shoen” voor, dat eigenlijk beteekent „rein, puur als
+    witte zijde.” Met die „puurheid” is vanzelf ook bedoeld
+    „volmaaktheid” van de Sing, den éénen, reinen staat van oorsprong
+    der Sing.
+
+
+
+
+HOOFDSTUK XXVII.
+
+1. Hoe groot is de Tao van den Wijze!
+
+2. Eindeloos als een oceaan (zijnde) doet het [53] alle dingen ópkomen
+en voedt het hen, en het rijst óp tot de opperste hoogte van den Hemel!
+
+3. Volmaakt is zijn grootheid. Het omvat de driehonderd regels van de
+Lí en de drieduizend regels van gedrag.
+
+4. Het wacht op den (rechten) mensch, en daarna wordt het begaan.
+
+5. Daarom zegt men: „Als het niet door de opperste deugd is, kan de
+opperste Tao niet verwezenlijkt worden.”
+
+6. Daarom eert de Kiün Tszʼ zijn deugd en zijn Sing, en zal hij steeds
+onderzoek doen en studeeren, totdat hij het in al zijn uitgebreidheid
+en grootheid kent, van het grofste tot het fijnste, het doende oprijzen
+tot die hoogte en die helderheid, totdat hij in „Choeng Yoeng” gaat.
+Hij oefent (door herhaling) het oude, en (maakt dat hij) het nieuwe
+weet. Hij betracht een (absoluten) ernst om de Lí hoog te houden.
+
+
+    Men lette er op, hoe in No 2 het begrip van Tao nog mystiek is, en
+    in No 3 weer terugkeert tot de gewone dingen en verrichtingen der
+    menschen, als b. v. de Lí. Ook blijkt hier weer uit, welke diviene
+    waarde aan de Lí wordt gehecht, daar zij onafscheidelijk van Tao
+    is.
+
+
+7. Daarom, in een hooge positie is de Kiün Tszʼ niet trotsch, en in een
+lage positie niet oneerbiedig. Als het rijk wordt geregeerd volgens
+recht zullen zijn woorden voldoende zijn om hem hoog te doen rijzen;
+als het rijk wordt geregeerd niet volgens recht zal zijn stilzwijgen
+voldoende zijn het hem te doen verdragen. De Shi King zingt:
+„Verstandig is hij en schrander, en zoo behoedt hij zijn persoon.” Is
+dit niet zoo?
+
+
+
+
+HOOFDSTUK XXVIII.
+
+1. De Meester zeide: „Een domme, die gaarne zijn eigen zin volgt;
+iemand van inferieuren rang, die zichzelf gaarne bestuurt; iemand van
+tegenwoordig, die strijdig doet aan de wegen der Ouden; over dezulken,
+die aldus doen, zullen stellig rampen komen.”
+
+
+    In dit hoofdstuk daalt Tszʼ Szʼ weder neer uit zijn mystische
+    bespiegelingen, om weer eenvoudig de woorden van Confucius aan te
+    halen.
+
+
+2. Alleen de Keizer mag de Lí regelen, de afmetingen vaststellen, en de
+karakters bepalen.
+
+3. Tegenwoordig hebben over het geheele rijk de wagens dezelfde wielen,
+het schrift dezelfde karakters, het gedrag dezelfde regels.
+
+4. Men moge (al) den (vorstelijken) rang bezitten, als men de deugd
+(daartoe behoorende) niet heeft, mag men het niet wagen, Lí of Muziek
+te maken. Men moge al de deugd bezitten, als men den vorstelijken rang
+niet (daarbij) heeft, mag men het niet wagen, Lí of Muziek te maken.
+
+5. De Meester zeide: „Ik vertel van de Lí der Hia dynastie, maar Kie
+kan daar niet genoeg getuigenis van geven. Ik heb de Lí van de Yin
+dynastie geleerd, die in Soeng overgebleven is. Ik heb de Lí van Chow
+geleerd, die nu in gebruik is, en ik volg Chow.”
+
+
+    Legge merkt hier zeer juist bij aan, dat uit dit hoofdstuk blijkt,
+    hoe drie dingen noodig zijn om de wet aan het keizerrijk te geven:
+    „de deugd, de rang, en de geschikte tijd.” In No 2 wordt met de Lí
+    bedoeld: „de ceremoniën in godsdienstige bijeenkomsten en in
+    gezelschap”, met afmetingen: „de voorschriften omtrent het bouwen
+    van huizen, den vorm van wagens, van kleederen” enz. enz. Bij No 5
+    zij aangeteekend, dat Kie een klein staatje was, waar de Hia’sche
+    ceremoniën nog in gebruik waren. Zoowel in Kie als in Soeng waren
+    de schoone kunsten en beschaafde vormen en gebruiken niet meer
+    geëerd, en voor een groot deel verloren gegaan, en er leefden geen
+    wijze mannen, zoodat Confucius niemand had kunnen vinden om
+    voldoende voor de waarheid zijner beschrijving van de ceremoniën
+    der oude Hia dynastie te kunnen getuigen. Daarom gebruikte hij
+    gewillig de nieuwere Lí van Chow.
+
+
+
+
+HOOFDSTUK XXIX.
+
+1. Hij, die tot het opperheerschap over het rijk komt, en deze drie
+gewichtige dingen heeft, zal weinig fouten maken.
+
+
+    De chineesche geleerden zijn het niet eens, wat met „deze drie
+    gewichtige dingen” wordt bedoeld. Ik meen dat Legge, (die deze
+    uitlegging overnam van den commentator Loeh, uit de Thʼang
+    dynastie) de juiste verklaring geeft als te zijn „de deugd, de rang
+    en de geschikte tijd.”
+
+
+2. De Lí van vroegere tijden, ofschoon (nóg zoo) goed, kan niet door
+getuigenis bevestigd worden. Niet bevestigd, wordt er niet in geloofd,
+en niet geloofd, volgt het volk haar niet. De Lí van iemand van lageren
+rang, ofschoon (nóg zoo) goed, wordt niet geëerbiedigd (door dien lagen
+rang). Niet geëerbiedigd, wordt er niet in geloofd, en niet geloofd,
+volgt het volk haar niet.
+
+3. Daarom, de instellingen en wetten van den (Vorst die een) Kiün Tszʼ
+(is), hebben hun Oorsprong in zijn eigen karakter, en de bevestiging er
+van gebeurt door de groote massa van het volk. Hij toetst ze aan die
+der drie Koningen, en bevindt (dan) dat ze vlekkeloos zijn. Hij stelt
+ze op voor (het gezicht van) Hemel en Aarde, en vindt er (dan) niets in
+tegen de natuur. Hij houdt ze den geesten voor, zonder er aan te
+twijfelen. Hij (is voorbereid te wachten) honderd eeuwen daarna tot (de
+oprijzing van) een Wijze, en weet dat er geen dwalingen in zijn.
+
+4. Dat hij ze den geesten voorhoudt, zonder er aan te twijfelen,
+bewijst, dat hij den Hemel kent. Dat hij (voorbereid is te) wachten,
+honderd eeuwen daarna, tot de oprijzing van een Wijze, en weet dat er
+geen dwalingen in zijn, bewijst, dat hij de menschen kent.
+
+
+    Dit is een der hoofdideeën van Confucius, dat de regeering van den
+    vorst haar Oorsprong heeft in zijn eigen karakter. De Sing van den
+    Vorst de oorsprong van de geheele regeering. Is die rein, dan
+    zullen zijne wetten niets bevatten wat strijdig is tegen den Hemel.
+    De drie bedoelde koningen zijn Yü, Thʼang en Wĕn (met Woe).
+
+
+5. Dit aldus zijnde, zijn de bewegingen van den Vorst van invloed op
+het geheele rijk, voor eeuwen. Zijn daden zijn wet voor het geheele
+rijk, voor eeuwen. Zijn woorden zijn regel voor het geheele rijk, voor
+eeuwen. Die ver van hem zijn, zien bewonderend naar hem op, die dicht
+bij hem zijn, zijn hem nooit moede.
+
+6. De Shi King zegt: „Hier niet gehaat, dáár niet benijd, zal men zijn
+lof dag en nacht roemen.” Er is nog nooit een Vorst geweest, die niet
+hieraan beantwoordde, en vroeg door het geheele rijk beroemd was.
+
+
+
+
+HOOFDSTUK XXX.
+
+1. Choeng Ni (Confucius) leverde de leer van Yaou en Shoen over, als
+waren zij zijne voorvaderen, en handhaafde de wetten van Wĕn en Woe als
+zijn model. Hij harmonieerde met de tijden des Hemels bóven, en was
+aangepast aan de (natuur) van het water en het land beneden.
+
+
+    „De tijden des Hemels” is „de onophoudelijke, regelmatige beweging
+    van den Hemel”, en „het water en het land” hier in tegenstelling
+    met den Hemel, is gebruikt, omdat die massief en onbewegelijk zijn.
+    Aldus Choe Hie, en op diens gezag Legge. Heel helder is het voor
+    europeesch begrip niet.
+
+
+2. Hij was als de Hemel en de Aarde in hun steunen en omvatten, hun
+overschaduwen en overhuiven van alle dingen. Hij was als de vier
+seizoenen, in hun afwisselenden gang, als de zon en de maan, in hun
+successievelijk schijnen.
+
+
+    De hoogste verglorieïng van den Wijze, hier Confucius, is dus het
+    gelijk zijn in wezen en actie aan de natuur, daar deze dan ook
+    precies in Tao is.
+
+
+3. Alle dingen worden te zamen gevoed, zonder elkaar te kwetsen. De Tao
+van alle dingen gaat denzelfden weg, zonder botsing onderling. De
+kleinere deugden zijn als stroomen van een rivier, de grootere zijn
+machtig transformeerend. Dit is (juist) wat Hemel en Aarde zoo groot
+maakt.
+
+
+    Werd dus de Sing maar rein bewaard, zoodat alles in Tao ging, dan
+    zou alles naast elkaar vredig kunnen bestaan, zonder kwetsing en
+    botsing onderling. Als men diep doordenkt, zal men zien dat Tao,
+    het precies volgen van de Sing, de hemelsche natuur, ook zeer
+    gerust zou kunnen genoemd worden „De natuurlijke gang der dingen”!
+    In het begin is het volgen van Tao eenvoudig als het stroomen van
+    rivierstroompjes, later wordt het een hooger leven van machtige
+    transformaties. (Zie ook Hfdst. XXII en XXIII.)
+
+
+
+
+HOOFDSTUK XXXI.
+
+1. Alleen hij, die de opperste wijsheid heeft onder den Hemel, kan
+voldoende vlug van bevatting, helder van doorzicht, van vér-reikende
+intelligentie, àlomvattend van kennis zijn, om de regeering uit te
+oefenen; voldoende grootmoedig, edelaardig, vriendelijk en zacht om
+verdraagzaam te zijn; voldoende impulsief, krachtig, ferm en resoluut
+om zich te handhaven; genoeg zelfbeheersching hebben, ernstig zijn, in
+„Choeng” blijven en correct zijn, om reverentie af te dwingen; genoeg
+algemeen ontwikkeld zijn, oordeel hebben, doordringen in (het wezen
+der) dingen, om te kunnen onderscheiden (wat recht en onrecht, goed en
+slecht is).
+
+2. Alles-omvattend en oneindig groot is hij, en diep als een
+springbron, en zendt zijne deugden voort in de juiste seizoenen.
+
+3. Alles-omvattend en oneindig groot is hij, als de Hemel. Onpeilbaar
+als een springbron, is hij als een afgrond. Hij wordt gezien, en het
+geheele volk vereert hem; hij spreekt, en het geheele volk gelooft hem;
+hij handelt, en het geheele volk verblijdt in hem.
+
+
+    Zou daarom een bron en een afgrond als symbool zijn genomen als
+    vergelijking met de Sing?
+
+    „Hij wordt gezien” als hij zich in staatsiegewaad en muts vertoont,
+    „hij spreekt” als hij zijne wetten, bepalingen, bevelen enz.
+    uitvaardigt, „hij handelt” in de ceremoniën, de muziek, de
+    bestraffingen, en regeeringsdaden. (Legge.)
+
+
+4. Daarom, zijn roem overvloeit het geheele Rijk van het Midden, en
+strekt zich uit tot alle barbaarsche stammen. Wáár schepen en wagenen
+komen, wáár de menschelijke kracht doordringt, wáár de Hemel overwelft
+en de Aarde draagt, wáár zon en maan schijnen, wáár rijp en dauw
+vallen, eerbiedigen hem allen, die bloed en levensprincipe hebben, en
+volgen allen hem na. Daarom zegt men „Hij is de gelijke van den Hemel.”
+
+
+
+
+HOOFDSTUK XXXII.
+
+1. Alleen hij, die de opperste „Chʼing” heeft onder den Hemel, kan de
+hoogste, natuurlijke betrekkingen der menschen onder den Hemel regelen,
+kan de groote, oorspronkelijke deugden van den Hemel grondvesten, kan
+de transformeerende en voedende acties van den Hemel weten. Hoe zou hij
+iets buiten zich zelf kunnen hebben, om op te steunen?
+
+
+    Hieruit blijkt alweer duidelijk, dat de Vorst in zich zelf alles
+    moet hebben, wat voor een goede regeering noodig is. Onder die
+    „betrekkingen” wordt hier voornamelijk verstaan de te voren in dit
+    werk reeds besproken „vijf Loen”.
+
+
+2. Ontwijfelbaar is zijn menschelijkheid! Onpeilbaar is hij, als een
+afgrond! Hoe eindeloos, als de Hemel!
+
+3. Niemand kan hem kennen dan hij, die werkelijk vlug is van bevatting,
+helder van doorzicht, wijs en allesomvattend (van verstand), en die de
+deugden van den Hemel heeft.
+
+
+    „Alleen de Wijze kan den Wijze kennen,” merkt de commentator Ching
+    Su hierbij op.
+
+
+
+
+HOOFDSTUK XXXIII.
+
+1. De Shi King zegt: „Om haar beborduurden pels doet zij een eenvoudig
+kleed aan,” om aan te duiden een afkeer van vertoon van het mooie.
+Daarom is het de Tao van den Kiün Tszʼ om (zijn deugd) te verbergen,
+die dan met den dag (juist) mooier uitkomt; de Tao van den kleinen
+mensch is vertoon, en hij wordt met den dag minder. De Tao van den Kiün
+Tszʼ (gelijkt) smakeloos, maar men wordt hem nooit moede; hij lijkt
+kortaf, maar is volkomen beschaafd; hij is eenvoudig, maar volgens de
+rede. Hij weet dat wat veraf is geworteld is in ’t nabijë. Hij weet van
+waar de wind komt. Hij weet het (groot-) gemanifesteerde van het
+(schijnbaar) kleine. Hiermede zal hij de deugd kunnen binnentreden,
+naar ik meen.
+
+2. De Shi King zegt: „Ofschoon de visch zinkt en ligt op den bodem,
+wordt zij toch duidelijk gezien.” Daarom onderzoekt de Kiün Tszʼ zijn
+binnenste, opdat er daar niets verkeerds zij, en hij niets hatelijks
+zie in zijne neigingen. Dit is het onbereikbare (voor ons) in den Kiün
+Tszʼ: „dat, wat andere menschen niet kunnen zien.”
+
+3. De Shi King zegt: „Weest vrij van (dingen van) schaamte in uw kamer,
+waar licht doorkomt. Daarom, (zelfs) al beweegt hij niet, is de Kiün
+Tszʼ (toch) in reverentie, al spreekt hij niet, is hij (toch) vol
+oprechtheid.”
+
+
+    Vergelijk voor No 2 hierboven Hfdst. I. No 3. De bedoeling van No 3
+    is, dat de Kiün Tszʼ vooral in het private leven, al is hij alleen
+    in zijn kamer, waar het licht (van den Hemel) hem toch altijd ziet,
+    het gevoel van reverentie moet hebben, en volkomen oprechtheid.
+
+
+4. De Shi King zegt: „In eerbiedige stilte wordt geofferd, en wordt
+(den geest) genaderd; er is geen oogenblikje wanklank (strijd).”
+
+Daarom, de Kiün Tszʼ geeft geen belooningen en (toch) is het volk (tot
+de deugd) vermaand. Hij toont geen toorn, en het volk vreest voor hem
+als voor bijlen en strijdaksten.
+
+5. De Shi King zegt: „Wat geen vertoon behoeft, is de deugd.” Alle
+vorsten maken er hun voorbeeld van. Daarom, als de Kiün Tszʼ (die Vorst
+is) ernstig en reverent is, is er rust en vrede over het geheele rijk.
+
+6. De Shi King zegt: „Ik zie met blijdschap uw heldere deugd, die geen
+vertoon maakt met klanken en kleuren.” De Meester zeide: „Klanken en
+kleuren zijn maar kleinigheden voor de hervorming van het volk.” De Shi
+King zegt (ook): „De deugd is licht als een haar.” Maar haren zijn nog
+te vergelijken met elkaar (naar de grootte). De verrichtingen van den
+Hemel hebben geen geluid en geen reuk. Dít is de opperste deugd.
+
+
+
+
+BESLUIT.
+
+Het bovenstaande is het drie en dertigste hoofdstuk. Tszʼ Szʼ, na zijne
+beschrijvingen tot het opperste gebracht te hebben in de vorige
+hoofdstukken, keert in dit hoofdstuk weer terug en beschouwt (het punt
+van) oorsprong (van zijn onderwerp); dan weer, van het lagere werk (van
+de studie) af, vrij van alle egoïsme, en wakende over zijn eenzaamheid,
+zet hij zijne woorden (zijn rede) voort, tot het (verkrijgen van) den
+strengen ernst en de reverentie, waarmede het geheele rijk tot de
+volmaking van rust en vrede komt. Hij roemt verder de mystiek er van,
+tot hij er op het laatst (van spreekt) als (te zijn) zonder geluid of
+reuk. Hierna neemt hij den totalen (inhoud) van het geheele Werk, en
+behandelt dat in het kort. In dit telkens herhalen, terechtwijzen en
+onderrichten van de menschen was zijne bedoeling allerdiepst en
+ernstig. Zal hij, die dit studeert, niet zijn uiterste best moeten
+doen?
+
+
+
+
+
+
+TA HIŎH.
+
+
+INLEIDING.
+
+Mijn Meester, de filosoof Chʼing zegt: „De Ta Hiŏh is een nagelaten
+boek van Confucius, en is de poort der deugd van de eerste leerlingen.
+[54] Het is enkel te danken aan de bewaring van dit werk, dat wij nu de
+orde kunnen zien in welke de Ouden studeerden; de Loen (Yü) en Mencius
+komen hierná. Leerlingen moeten van hieruit hunne studie beginnen, en
+dan is het te verwezenlijken, dat zij geen dwalingen maken.
+
+
+
+
+DE TEKST VAN CONFUCIUS.
+
+1. De Leer van Ta Hiŏh is: de schitterende deugd helder te maken, het
+volk te hernieuwen, en te rusten in het opperste Goede.
+
+
+    Met „de schitterende deugd” wordt bedoeld, datgene, die deugdelijke
+    natuur, die de mensch oorspronkelijk van den Hemel heeft verkregen.
+    (Vergelijk „Choeng Yoeng”). Door de slechte lusten en begeerten van
+    den mensch wordt die schitterende deugd dikwijls verduisterd. De
+    wijze mensch, die zijn eigen oorspronkelijke schitterende deugd
+    helder maakt en houdt, maakt ook door zijn Leer, zijne wijze
+    lessen, en zijn voorbeeld, de deugd van andere menschen weer
+    helder, weer nieuw. Nieuw is hier te verstaan in den zin van „rein,
+    na verduisterd te zijn, dus weer helder, weer nieuw geworden.”
+    Steeds zal het volk zijn oorspronkelijke deugd door lust en
+    begeerte weer verduisterd zien, maar door de Leer van de wijzen
+    wordt zij vernieuwd, herreind.
+
+    Met het „rusten in het opperste Goede” wordt bedoeld èn te blijven
+    volgen het uitmuntendste gedrag, èn het opvoeren van de twee
+    hierboven bedoelde zaken (n.l. het verhelderen van zichzelven en
+    hernieuwen van ’t volk) tot den hoogsten graad van volkomenheid.
+    Deze drie dingen worden genoemd „de drie hoofden” van de Ta Hiŏh.
+
+
+2. Weet men, wáár te moeten rusten (in het opperste Goede) dan is (het
+doel van ons levensstreven) vastgesteld. Is dit eenmaal vastgesteld,
+dan kan er kalmte zijn. Is er kalmte, dan kan er (stabiele) rust zijn.
+Is er (stabiele) rust dan kan er (ernstige) meditatie zijn. Is er
+(ernstige) meditatie, dan zal (het einddoel) worden verkregen.
+
+
+    Het hoofdidee van dezen tekst is dus: „uit het weten wáár te moeten
+    rusten in het opperste Goede volgt ook het verkrijgen van die rust
+    in het opperste Goede.”
+
+    Weet men het eenmaal, dan is het levensdoel vastgesteld, en is men
+    dus zeker van het feit, dat het leven niet nutteloos is, maar naar
+    een hoog doel leidt. Dit zal den mensch kalmte geven, d. w. z. dat
+    de gedachten op het innerlijk leven zullen gericht zijn en niet
+    langer naar dingen van buiten, naar dingen van begeerte. Is die
+    kalmte verkregen, dan is er ook rust, dus geen weifeling en
+    verwarring; is die rust in ons, dan is het ook mogelijk, zuiver na
+    te denken zonder afdwaling; en in die zuivere, reine overpeinzing
+    wordt gevonden de rust in, het blijven in het opperste Goede.
+
+
+3. Dingen hebben een oorsprong en een einde. Zaken hebben een einde en
+een begin. Weten wát eerst en wát laatst is, is dicht bij Tao zijn.
+[55]
+
+
+    Het helder maken van de deugd is de oorsprong, het hernieuwen van
+    het volk is het einde. Te weten wáár te rusten in het opperste
+    Goede is het begin, het verkrijgen daarvan is het einde.
+
+
+4. De ouden, die de schitterende deugd door het geheele keizerrijk
+wilden heldermaken, regeerden eerst hun rijk (goed).
+
+Wilden zij hun rijk regeeren, dan regelden zij eerst hunne families.
+Wilden zij hunne families regelen, dan verzorgden zij eerst zichzelven
+(hun eigen karakter). Wilden zij zichzelf (hun eigen karakter)
+verzorgen, dan maakten zij eerst hunne bedoelingen en gedachten ernstig
+en oprecht; wilden zij hunne bedoelingen en gedachten ernstig en
+oprecht maken, dan voerden zij hun kennis tot het allerhoogste op. De
+kennis tot 
